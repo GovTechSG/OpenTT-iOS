@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "GO TO SETTINGS"; ObjectID = "0ZW-bd-n4G"; */
+"0ZW-bd-n4G.normalTitle" = "前往设置";
+
+/* Class = "UILabel"; text = "Bluetooth"; ObjectID = "K4P-b8-d45"; */
+"K4P-b8-d45.text" = "蓝牙";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "TGw-Di-36i"; */
+"TGw-Di-36i.text" = "通知事项";
+
+/* Class = "UILabel"; text = "Your app is not working"; ObjectID = "enT-er-tRU"; */
+"enT-er-tRU.text" = "您的应用程序无法运行";
+
+/* Class = "UILabel"; text = "Please allow these permissions for effective contact tracing:"; ObjectID = "yXt-Pd-wUs"; */
+"yXt-Pd-wUs.text" = "请允许以下权限以进行有效的接触者追踪：";

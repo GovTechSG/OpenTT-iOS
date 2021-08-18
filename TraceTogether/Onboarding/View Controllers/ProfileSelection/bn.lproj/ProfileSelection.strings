@@ -1,0 +1,147 @@
+
+/* Class = "UILabel"; text = "Card Serial Number"; ObjectID = "0kb-BN-jBt"; */
+"0kb-BN-jBt.text" = "কার্ড সিরিয়াল নম্বর";
+
+/* Class = "UITextField"; placeholder = "Label"; ObjectID = "2GD-pY-68k"; */
+"2GD-pY-68k.placeholder" = "Label";
+
+/* Class = "UIViewController"; title = "Why do you need my details?"; ObjectID = "2fZ-I5-VuI"; */
+"2fZ-I5-VuI.title" = "আমার বিস্তারিত তথ্য আপনাদের কেন প্রয়োজন?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2oT-He-fP2"; */
+"2oT-He-fP2.text" = "Label";
+
+/* Class = "UILabel"; text = "Front"; ObjectID = "372-Cd-U4Z"; */
+"372-Cd-U4Z.text" = "সামনে";
+
+/* Class = "UILabel"; text = "Date of Issue (DD-MM-YYYY)"; ObjectID = "3Hw-Xv-8o8"; */
+"3Hw-Xv-8o8.text" = "প্রদানের তারিখ (DD-MM-YYYY)";
+
+/* Class = "UILabel"; text = "Download SGWorkPass app and scan QR code for Date of Issue"; ObjectID = "3J5-hz-vUU"; */
+"3J5-hz-vUU.text" = "SGWorkPass অ্যাপ ডাউনলোড করে QR কোড স্ক্যান করে প্রদানের তারিখ জেনে নিন";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "AT6-OM-tnE"; */
+"AT6-OM-tnE.text" = "অথবা";
+
+/* Class = "UILabel"; text = "Complete your profile"; ObjectID = "Ade-Wb-EDy"; */
+"Ade-Wb-EDy.text" = "আপনার প্রোফাইল সম্পূর্ণ করুন";
+
+/* Class = "UIViewController"; title = "NRICModalViewController"; ObjectID = "B7B-YY-m2R"; */
+"B7B-YY-m2R.title" = "NRICModalViewController";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Dpa-ij-raR"; */
+"Dpa-ij-raR.text" = "Label";
+
+/* Class = "UILabel"; text = "Check the back of your card for Date of Issue"; ObjectID = "F70-a5-MNQ"; */
+"F70-a5-MNQ.text" = "প্রদানের তারিখের জন্য আপনার কার্ডের পেছনে দেখুন";
+
+/* Class = "UILabel"; text = "Select your profile"; ObjectID = "GHE-Yi-k2y"; */
+"GHE-Yi-k2y.text" = "আপনার প্রোফাইল বেছে নিন";
+
+/* Class = "UILabel"; text = "Why do you need my details?"; ObjectID = "J2d-ki-ROm"; */
+"J2d-ki-ROm.text" = "আমার বিস্তারিত তথ্য আপনাদের কেন প্রয়োজন?";
+
+/* Class = "UILabel"; text = "Date of Issue (DD-MM-YYYY)"; ObjectID = "NYP-7z-qIT"; */
+"NYP-7z-qIT.text" = "প্রদানের তারিখ (DD-MM-YYYY)";
+
+/* Class = "UIButton"; normalTitle = "PROCEED"; ObjectID = "Nqm-7J-HQg"; */
+"Nqm-7J-HQg.normalTitle" = "এগিয়ে যান";
+
+/* Class = "UIButton"; normalTitle = "I SEE. GOT IT! :)"; ObjectID = "O8a-Yg-0L6"; */
+"O8a-Yg-0L6.normalTitle" = "আচ্ছা। আমি বুঝতে পেরেছি! :)";
+
+/* Class = "UIViewController"; title = "RegisterFormViewController"; ObjectID = "OwP-cx-Sf3"; */
+"OwP-cx-Sf3.title" = "RegisterFormViewController";
+
+/* Class = "UIButton"; normalTitle = "How to find?"; ObjectID = "QI6-y7-nWs"; */
+"QI6-y7-nWs.normalTitle" = "কীভাবে পাবেন?";
+
+/* Class = "UILabel"; text = "Nationality"; ObjectID = "Qfg-cw-W2I"; */
+"Qfg-cw-W2I.text" = "জাতীয়তা";
+
+/* Class = "UITextField"; placeholder = "Label"; ObjectID = "SX5-vv-Hej"; */
+"SX5-vv-Hej.placeholder" = "Label";
+
+/* Class = "UIViewController"; title = "LTVPModalViewController"; ObjectID = "UZA-wM-c8F"; */
+"UZA-wM-c8F.title" = "LTVPModalViewController";
+
+/* Class = "UILabel"; text = "Your unique identification number allows MOH to reach the right person when they need to give you important health advice about COVID-19."; ObjectID = "VAB-TC-yEk"; */
+"VAB-TC-yEk.text" = "কোভিড-19 সম্পর্কে আপনাকে গুরুত্বপূর্ণ স্বাস্থ্য পরামর্শ প্রদানের প্রয়োজন হলে MOH আপনার একক পরিচিতি নম্বর ব্যবহার করে সঠিক ব্যক্তির কাছে পৌঁছাতে পারে।";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "VZL-J8-LAC"; */
+"VZL-J8-LAC.text" = "প্রয়োজনীয় ক্ষেত্র";
+
+/* Class = "UILabel"; text = "2. Dependent's Pass"; ObjectID = "Woq-RD-OQG"; */
+"Woq-RD-OQG.text" = "2. নির্ভরশীলদের পাস";
+
+/* Class = "UILabel"; text = "At the back of your NRIC"; ObjectID = "aeY-8q-qfc"; */
+"aeY-8q-qfc.text" = "আপনার NRIC-এর পেছনে";
+
+/* Class = "UILabel"; text = "1. Work Pass"; ObjectID = "cgN-ax-WJa"; */
+"cgN-ax-WJa.text" = "1. ওয়ার্ক পাস";
+
+/* Class = "UIViewController"; title = "PassportModalViewController"; ObjectID = "dt3-2I-j9S"; */
+"dt3-2I-j9S.title" = "PassportModalViewController";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "ebx-tb-rOv"; */
+"ebx-tb-rOv.normalTitle" = "পরবর্তী-তে যান";
+
+/* Class = "UILabel"; text = "Long Term Visit Pass"; ObjectID = "ego-gt-Acd"; */
+"ego-gt-Acd.text" = "দীর্ঘমেয়াদী ভিজিট পাস";
+
+/* Class = "UIButton"; normalTitle = "How to find?"; ObjectID = "gS0-Z1-pI0"; */
+"gS0-Z1-pI0.normalTitle" = "কীভাবে পাবেন?";
+
+/* Class = "UILabel"; text = "Card Serial Number"; ObjectID = "gdZ-Aq-8ZP"; */
+"gdZ-Aq-8ZP.text" = "কার্ড সিরিয়াল নম্বর";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hJu-wc-Qwz"; */
+"hJu-wc-Qwz.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Card Serial Number"; ObjectID = "hyC-FR-wff"; */
+"hyC-FR-wff.text" = "কার্ড সিরিয়াল নম্বর";
+
+/* Class = "UILabel"; text = "Check the back of your card for Date of Issue"; ObjectID = "kgk-DG-hML"; */
+"kgk-DG-hML.text" = "প্রদানের তারিখের জন্য আপনার কার্ডের পেছনে দেখুন";
+
+/* Class = "UILabel"; text = "Date of Issue (DD-MM-YYYY)"; ObjectID = "n9y-xh-R9p"; */
+"n9y-xh-R9p.text" = "প্রদানের তারিখ (DD-MM-YYYY)";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "pWf-Ki-Z62"; */
+"pWf-Ki-Z62.text" = "প্রয়োজনীয় ক্ষেত্র";
+
+/* Class = "UITextField"; placeholder = "TextField"; ObjectID = "rLn-CR-Vz7"; */
+"rLn-CR-Vz7.placeholder" = "TextField";
+
+/* Class = "UIViewController"; title = "OtherPassportModalViewController"; ObjectID = "sLU-a5-mch"; */
+"sLU-a5-mch.title" = "OtherPassportModalViewController";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "uy5-xj-Fym"; */
+"uy5-xj-Fym.text" = "প্রয়োজনীয় ক্ষেত্র";
+
+/* Class = "UILabel"; text = "Back"; ObjectID = "vlw-V6-Cpo"; */
+"vlw-V6-Cpo.text" = "পিছনে";
+
+/* Class = "UILabel"; text = "Back"; ObjectID = "w7S-r4-m8T"; */
+"w7S-r4-m8T.text" = "পিছনে";
+
+/* Class = "UIViewController"; title = "StudentPassModalViewController"; ObjectID = "wq3-Uo-k2x"; */
+"wq3-Uo-k2x.title" = "StudentPassModalViewController";
+
+/* DoA description */
+"Knq-3Q-Qpa.text" = "<b>আপনার FIN কার্ডের <c:#FF6565>ডেট অফ অ্যাপ্লিকেশন (Date of Application)</c> লিখুন</b> — এটি আপনার আইপিএ (IPA) কিংবা নোটিফিকেশন লেটারে আছে।";
+
+/* DoA Location */
+"hFG-xX-PCH.text" = "ডেট অফ অ্যাপ্লিকেশন (Date of Application)\n(DD-MMM-YYYY)";
+
+/* WP SN Description */
+"2i5-H3-qw8.text" = "<b>আপনার FIN কার্ডের <c:#FF6565>সিরিয়াল নম্বরটি (Card Serial Number)</c> লিখুন।\n\n\nওয়ার্ক পাস</b> <i>(সামনে)</i>";
+
+/* WP SN Location */
+"6GD-25-03o.text" = "কার্ড সিরিয়াল নম্বর";
+
+/* DP Description */
+"6mx-Zx-gXA.text" = "<b>আপনার FIN কার্ডের <c:#FF6565>সিরিয়াল নম্বরটি (Card Serial Number)</c> লিখুন।d\n\n\nনির্ভরশীলদের পাস</b> <i>(পিছনে)</i>";
+
+/* DP Location */
+"yyD-rn-df0.text" = "কার্ড সিরিয়াল নম্বর";

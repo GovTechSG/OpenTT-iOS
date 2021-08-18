@@ -1,0 +1,57 @@
+
+/* Class = "UIButton"; normalTitle = "GOT IT"; ObjectID = "LnX-Lw-8bY"; */
+"LnX-Lw-8bY.normalTitle" = "ပြီးပါပြီ။";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "WQB-B5-nl3"; */
+"WQB-B5-nl3.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "History"; ObjectID = "Lqf-5p-7ts"; */
+"gj0-uT-UWo.title" = "ရာဇဝင်";
+
+/* Class = "UITabBarItem"; title = "History"; ObjectID = "bY7-hL-MnK"; */
+"KJz-60-ON0.title" = "ရာဇဝင်";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tvn-OH-Csa"; */
+"tvn-OH-Csa.normalTitle" = "Button";
+
+//These records help us notify you if you were near COVID-19 patients during their infectious period.
+"hGX-1P-Jnn.text" = "ဤမှတ်တမ်းများသည်သင်ကူးစက်သည့်ကာလအတွင်း COVID-19 လူနာများအနီးတွင်ရှိပါကသင့်အားအကြောင်းကြားရန်ကူညီသည်။";
+
+//Past 14 days
+"U8h-OB-wYc.text" = "အတိတ် 14 ရက်ပေါင်း";
+
+//You were at a place visited by a COVID-19 case
+"XE2-8f-gbO.text" = "သင်သည် COVID-19 ဖြစ်ပွားသူများလည်ပတ်ခဲ့သည့်နေရာများသို့ရောက်ခဲ့သည်။";
+
+//As a precaution, monitor your health for 14 days from the visit date. If you develop fever or respiratory symptoms, see a doctor immediately and indicate this exposure.
+"HV9-ab-qPw.text" = "ကြိုတင်ကာကွယ်မှုအနေဖြင့်သင်၏ကျန်းမာရေးကိုသွားရောက်လည်ပတ်သည့်နေ့မှ ၁၄ ရက်အထိစောင့်ကြည့်ပါ။ အကယ်၍ သင့်တွင်အဖျားတက်ခြင်းသို့မဟုတ်အသက်ရှူလမ်းကြောင်းဆိုင်ရာရောဂါလက္ခဏာများဖြစ်ပေါ်ပါကဆရာဝန်နှင့်ချက်ချင်းဆက်သွယ်ပြီးဤထိတွေ့မှုကိုဖော်ပြပါ။";
+
+//Check for symptoms
+"Ehf-AX-guJ.normalTitle" = "<u>ရောဂါလက္ခဏာများစစ်ဆေးပါ</u>";
+
+//All Records
+"3fG-05-gMh.normalTitle" = "မှတ်တမ်းများအားလုံး";
+
+//Possible Exposure
+"fRx-9l-ExZ.normalTitle" = "ဖြစ်နိုင်သောထိတွေ့မှုများ။";
+
+//YOUR POSSIBLE EXPOSURES
+"xqc-Q6-1J1.text" = "သင့်၌ဖြစ်နိုင်သောထိတွေ့မှုများ။";
+
+//Please remember to check out using SafeEntry in the future.
+"46m-ew-qjC.text" = "ကျေးဇူးပြု၍ နောင်တွင် ထွက်သည့်အခါ SafeEntry အသုံးပြုရန်သတိရပါ။";
+
+//'Check out now' button
+"u1u-Z0-iFt.normalTitle" = "<u>ယခု ထွက်ရန်</u>";
+
+//You were not at places visited by COVID-19 cases
+"1ZU-cp-UkU.text" = "သင်သည် COVID-19 ဖြစ်ပွားမှု ရှိသည့်နေရာများတွင်မရှိပါ။";
+
+// No records yet.
+"a69-K2-8o2.text" = "မှတ်တမ်း မရှိသေးပါ။";
+
+//Based on all your TraceTogether and SafeEntry records from the last 14 days.
+"VuJ-1I-Mhu.text" = "လွန်ခဲ့သော ၁၄ ရက်ကသင်၏ TraceTogether နှင့် SafeEntry မှတ်တမ်းများအားလုံးကိုအခြေခံသည်။";
+
+//How are my possible exposures determined?
+"C07-eF-CcM.normalTitle" = "<ca><c:#0070E0><u>ကွျန်ုပ်၏အဖြစ်နိုင်ချေထိတွေ့မှုများကို ဘယ်လိုဆုံးဖြတ်ကြပါသလဲ။</u></c></ca>";

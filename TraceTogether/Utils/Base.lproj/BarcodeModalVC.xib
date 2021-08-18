@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="BarcodeModalVC" customModule="TraceTogether">
+            <connections>
+                <outlet property="barcodeImageView" destination="DnB-qA-QTv" id="3bd-8z-ZTK"/>
+                <outlet property="greyView" destination="GGu-NM-7pe" id="Adl-2N-vjb"/>
+                <outlet property="nricButton" destination="MqR-CB-Mz5" id="s5d-XL-QhG"/>
+                <outlet property="view" destination="Yw6-Cz-YoA" id="Hyd-h2-hkF"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="Yw6-Cz-YoA">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view alpha="0.84999999999999998" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="GGu-NM-7pe">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="iqP-ZP-YRJ">
+                    <rect key="frame" x="12" y="12" width="296" height="244"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uyD-et-JVQ">
+                            <rect key="frame" x="267" y="16" width="13" height="22"/>
+                            <state key="normal" image="close-modal-icon"/>
+                            <connections>
+                                <action selector="dismissTapped:" destination="-1" eventType="touchUpInside" id="icR-rb-rMG"/>
+                            </connections>
+                        </button>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="DnB-qA-QTv">
+                            <rect key="frame" x="24" y="88" width="248" height="100"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="100" id="YZP-hl-b9P"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Scan barcode to check in to SafeEntry locations" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xrA-jz-hVz">
+                            <rect key="frame" x="24" y="24" width="248" height="48"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="number" keyPath="lineHeight">
+                                    <real key="value" value="5"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" semanticContentAttribute="forceRightToLeft" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" pointerInteraction="YES" translatesAutoresizingMaskIntoConstraints="NO" id="MqR-CB-Mz5">
+                            <rect key="frame" x="86" y="196" width="124" height="24"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <inset key="imageEdgeInsets" minX="10" minY="0.0" maxX="0.0" maxY="0.0"/>
+                            <state key="normal" title="SXXXXXXXX" image="icon-Show">
+                                <color key="titleColor" red="0.30980392156862746" green="0.30980392156862746" blue="0.30980392156862746" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="selected" image="icon-Hide"/>
+                            <connections>
+                                <action selector="toggleVisi:" destination="-1" eventType="touchUpInside" id="GPH-zP-2Ik"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                    <constraints>
+                        <constraint firstItem="DnB-qA-QTv" firstAttribute="top" secondItem="xrA-jz-hVz" secondAttribute="bottom" constant="16" id="0sE-9I-S8E"/>
+                        <constraint firstItem="MqR-CB-Mz5" firstAttribute="centerX" secondItem="DnB-qA-QTv" secondAttribute="centerX" id="3aP-0r-NJx"/>
+                        <constraint firstItem="DnB-qA-QTv" firstAttribute="trailing" secondItem="xrA-jz-hVz" secondAttribute="trailing" id="AQD-pf-5Ms"/>
+                        <constraint firstItem="xrA-jz-hVz" firstAttribute="leading" secondItem="iqP-ZP-YRJ" secondAttribute="leading" constant="24" id="CeW-OC-XMj"/>
+                        <constraint firstAttribute="trailing" secondItem="uyD-et-JVQ" secondAttribute="trailing" constant="16" id="Wz4-VG-n42"/>
+                        <constraint firstItem="MqR-CB-Mz5" firstAttribute="top" secondItem="DnB-qA-QTv" secondAttribute="bottom" constant="8" id="bND-23-CEO"/>
+                        <constraint firstItem="uyD-et-JVQ" firstAttribute="top" secondItem="iqP-ZP-YRJ" secondAttribute="top" constant="16" id="csh-ft-H5P"/>
+                        <constraint firstItem="DnB-qA-QTv" firstAttribute="leading" secondItem="xrA-jz-hVz" secondAttribute="leading" id="hFC-RQ-VCf"/>
+                        <constraint firstAttribute="bottom" secondItem="MqR-CB-Mz5" secondAttribute="bottom" constant="24" id="hkD-Wm-kat"/>
+                        <constraint firstItem="xrA-jz-hVz" firstAttribute="top" secondItem="iqP-ZP-YRJ" secondAttribute="top" constant="24" id="pbx-d7-5mH"/>
+                        <constraint firstItem="xrA-jz-hVz" firstAttribute="centerX" secondItem="iqP-ZP-YRJ" secondAttribute="centerX" id="t36-ue-gD9"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                            <real key="value" value="10"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                </view>
+            </subviews>
+            <constraints>
+                <constraint firstItem="iqP-ZP-YRJ" firstAttribute="trailing" secondItem="GGu-NM-7pe" secondAttribute="trailing" constant="-12" id="3ez-bv-ouJ"/>
+                <constraint firstItem="GGu-NM-7pe" firstAttribute="bottom" secondItem="Yw6-Cz-YoA" secondAttribute="bottom" id="AoX-Y5-8Ga"/>
+                <constraint firstItem="GGu-NM-7pe" firstAttribute="top" secondItem="Yw6-Cz-YoA" secondAttribute="top" id="N8D-9o-wju"/>
+                <constraint firstItem="iqP-ZP-YRJ" firstAttribute="top" secondItem="21K-Xu-X4X" secondAttribute="top" constant="12" id="dsd-c6-QQX"/>
+                <constraint firstItem="iqP-ZP-YRJ" firstAttribute="leading" secondItem="GGu-NM-7pe" secondAttribute="leading" constant="12" id="gVa-hf-0nn"/>
+                <constraint firstItem="GGu-NM-7pe" firstAttribute="trailing" secondItem="21K-Xu-X4X" secondAttribute="trailing" id="iGe-Gl-2Jg"/>
+                <constraint firstItem="GGu-NM-7pe" firstAttribute="leading" secondItem="Yw6-Cz-YoA" secondAttribute="leading" id="z0P-Ln-znk"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="21K-Xu-X4X"/>
+            <point key="canvasLocation" x="138.75" y="109.85915492957747"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="close-modal-icon" width="13" height="13"/>
+        <image name="icon-Hide" width="24" height="24"/>
+        <image name="icon-Show" width="24" height="24"/>
+    </resources>
+</document>

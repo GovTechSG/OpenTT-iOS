@@ -1,0 +1,6 @@
+
+/* Class = "UILabel"; text = "Bluetooth is needed to help you note possible exposure to COVID-19"; ObjectID = "cT3-XT-LbK"; */
+"cT3-XT-LbK.text" = "需蓝牙来助您记录可能接触到新冠病毒的情况";
+
+/* Class = "UILabel"; text = "Please turn on Bluetooth"; ObjectID = "xl6-X6-ZBD"; */
+"xl6-X6-ZBD.text" = "请开启蓝牙";

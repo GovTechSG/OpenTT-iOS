@@ -1,0 +1,123 @@
+
+/* Class = "UIButton"; normalTitle = "CHECK IN"; ObjectID = "08k-SU-PQv"; */
+"08k-SU-PQv.normalTitle" = "চেক ইন";
+
+/* Class = "UILabel"; text = "How to use"; ObjectID = "8sV-4F-ico"; */
+"8sV-4F-ico.text" = "যেভাবে ব্যবহার করবেন";
+
+/* Class = "UILabel"; text = "Scan QR and go"; ObjectID = "97B-Ht-lTp"; */
+"97B-Ht-lTp.text" = "ঝটপট কিউআর স্ক্যান";
+
+/* Class = "UIViewController"; title = "CheckInOutViewController"; ObjectID = "Arn-fO-tgO"; */
+"Arn-fO-tgO.title" = "CheckInOutViewController";
+
+/* Class = "UIButton"; normalTitle = "Scan the SafeEntry QR code"; ObjectID = "CGf-e9-4Lr"; */
+"CGf-e9-4Lr.normalTitle" = "সেফএন্ট্রি (SafeEntry) কিউআর কোডটি স্ক্যান করুন";
+
+/* Class = "UIButton"; normalTitle = "BACK TO HOME"; ObjectID = "Ccj-Cm-uV6"; */
+"Ccj-Cm-uV6.normalTitle" = "হোম-এ ফেরত যান";
+
+/* Class = "UILabel"; text = "SafeEntry check in"; ObjectID = "Dc9-oZ-ekY"; */
+"Dc9-oZ-ekY.text" = "সেফএন্ট্রি (SafeEntry) চেক ইন";
+
+/* Class = "UIButton"; normalTitle = "SXXXXXXXX"; ObjectID = "EHJ-Es-FOa"; */
+"EHJ-Es-FOa.normalTitle" = "SXXXXXXXX";
+
+/* Class = "UIButton"; normalTitle = "GO TO SETTINGS"; ObjectID = "Igc-AZ-icL"; */
+"Igc-AZ-icL.normalTitle" = "সেটিংস-এ যান";
+
+/* Class = "UINavigationItem"; title = "SafeEntry"; ObjectID = "L8R-zk-4NR"; */
+"L8R-zk-4NR.title" = "SafeEntry";
+
+/* Class = "UIButton"; normalTitle = "COOL!"; ObjectID = "LEf-fN-qnw"; */
+"LEf-fN-qnw.normalTitle" = "অস্থির!";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Lhf-ci-zas"; */
+"Lhf-ci-zas.title" = "Item";
+
+/* Class = "UILabel"; text = "No more form filling! \nAnd just one tap to check out."; ObjectID = "O3w-sb-4PM"; */
+"O3w-sb-4PM.text" = "আর ফর্ম ফিলআপ করার প্রয়োজন নেই! \nআর, চেক আউট করতে একটি বোতামে চাপ দেয়াই যথেষ্ট!";
+
+/* Class = "UILabel"; text = "Need your identity card?"; ObjectID = "Pk5-TH-mbS"; */
+"Pk5-TH-mbS.text" = "আপনার পরিচয়পত্র / আইসি প্রয়োজন?";
+
+/* Class = "UIViewController"; title = "SafeEntryViewController"; ObjectID = "S1v-iX-SWY"; */
+"S1v-iX-SWY.title" = "SafeEntryViewController";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VSw-m7-R4A"; */
+"VSw-m7-R4A.text" = "Label";
+
+/* Class = "UILabel"; text = "Check in to:"; ObjectID = "VqK-Zr-1bd"; */
+"kMn-2u-8uQ.text" = "চেক ইন করছেন: ";
+
+/* Class = "UIViewController"; title = "IDViewController"; ObjectID = "Wee-2x-Oou"; */
+"Wee-2x-Oou.title" = "IDViewController";
+
+/* Class = "UINavigationItem"; title = "SafeEntry"; ObjectID = "Yj1-vW-Nwm"; */
+"Yj1-vW-Nwm.title" = "SafeEntry";
+
+/* Class = "UIButton"; normalTitle = "CHECK OUT"; ObjectID = "aj0-mi-rz0"; */
+"aj0-mi-rz0.normalTitle" = "চেক আউট";
+
+/* Class = "UIButton"; normalTitle = "GOT IT!"; ObjectID = "bzY-EW-I2G"; */
+"bzY-EW-I2G.normalTitle" = "বুঝেছি!";
+
+/* Class = "UILabel"; text = "* Not applicable if you're seeking treatment at a medical facility\n# Not applicable to COVID-19 frontline workers"; ObjectID = "gKj-Ox-PKK"; */
+"Z2u-4b-lp2.text" = "* * আপনি কোন হাসপাতালে/ক্লিনিকে চিকিৎসাধীন থাকলে প্রযোজ্য নয়।\n# কোভিড-১৯ ফ্রন্টলাইন কর্মীদের জন্য প্রযোজ্য নয়।";
+
+/* Class = "UIViewController"; title = "QRScanMessageViewController"; ObjectID = "hOB-Sw-MqA"; */
+"hOB-Sw-MqA.title" = "QRScanMessageViewController";
+
+/* Class = "UITabBarController"; title = "SafeEntryFlow"; ObjectID = "lLr-ag-Dax"; */
+"lLr-ag-Dax.title" = "SafeEntryFlow";
+
+/* Class = "UILabel"; text = "Please allow Camera access"; ObjectID = "lOT-UB-Bbe"; */
+"lOT-UB-Bbe.text" = "অনুগ্রহ করে ক্যামেরা ব্যবহারে অনুমতি দিন";
+
+/* Class = "UILabel"; text = "By checking in, you declare that:"; ObjectID = "TAc-de-w74"; */
+"TAc-de-w74.text" = "চেক ইন করার মাধ্যমে আপনি সত্য বলে ঘোষণা করছেন যে:";
+
+/* Class = "UILabel"; text = "How to use"; ObjectID = "rBE-V4-Zes"; */
+"rBE-V4-Zes.text" = "যেভাবে ব্যবহার করবেন";
+
+/* Class = "UIButton"; normalTitle = "BACK TO HOME"; ObjectID = "uEa-su-KVk"; */
+"uEa-su-KVk.normalTitle" = "হোম-এ ফেরত যান";
+
+/* Class = "UILabel"; text = "This is a super long text This is a super long text This is a super long text This is a super long text This is a super long text This is a super long text This is a super long text "; ObjectID = "v8H-AZ-8Ln"; */
+"v8H-AZ-8Ln.text" = "This is a super long text This is a super long text This is a super long text This is a super long text This is a super long text This is a super long text This is a super long text ";
+
+/* Class = "UILabel"; text = "Scan your digital barcode for SafeEntry check in/out"; ObjectID = "wvi-DP-GuV"; */
+"wvi-DP-GuV.text" = "সেফএন্ট্রি (SafeEntry) চেক ইন/আউটে আইসির পরিবর্তে আপনার ডিজিটাল বারকোড স্ক্যান করুন";
+
+/* Class = "UILabel"; text = "Camera Permission is needed to scan SafeEntry QR codes"; ObjectID = "xTD-6g-X2m"; */
+"xTD-6g-X2m.text" = "সেফএন্ট্রি (SafeEntry) কিউআর কোড স্ক্যান করার জন্য ক্যামেরার পারমিশন / অনুমতি প্রয়োজন।";
+
+/* Class = "UIViewController"; title = "QRViewController"; ObjectID = "zNP-40-9RA"; */
+"zNP-40-9RA.title" = "QRViewController";
+
+/* Class = "UILabel"; text = "GOVERNMENT TECHNOLOGY AGENCY MAX. TWO LINESS..."; ObjectID = "ze9-in-RwR"; */
+"ze9-in-RwR.text" = "GOVERNMENT TECHNOLOGY AGENCY MAX. TWO LINESS...";
+
+/* Class = "UINavigationItem"; title = "SafeEntry"; ObjectID = "zhF-on-0Sg"; */
+"zhF-on-0Sg.title" = "SafeEntry";
+
+/* Class = "UILabel"; text = "How to use"; ObjectID = "8sV-4F-ico"; */
+"LKD-DT-cvd.text" = "যেভাবে ব্যবহার করবেন";
+
+/* Class = "UILabel"; text = "By checking in, you agree with the terms."; ObjectID = "dIA-4w-0pT"; */
+"dIA-4w-0pT.text" = "চেক-ইন করার মাধ্যমে আপনি শর্তগুলো মেনে নিচ্ছেন।";
+
+/* Class = "UILabel"; text = "* Not applicable if you're seeking treatment at a medical facility\n# Not applicable to COVID-19 frontline workers"; ObjectID = "gKj-Ox-PKK"; */
+"AbL-qT-Xtn.text" = "* * আপনি কোন হাসপাতালে/ক্লিনিকে চিকিৎসাধীন থাকলে প্রযোজ্য নয়।\n# কোভিড-১৯ ফ্রন্টলাইন কর্মীদের জন্য প্রযোজ্য নয়।";
+
+/* Class = "UILabel"; text = "Visit a place often?"; ObjectID = "3o8-lj-cJN"; */
+"3o8-lj-cJN.text" = "ঘন ঘন একটি জায়গায় গিয়ে থাকেন?";
+
+/* Class = "UILabel"; text = "Tap on the star to add it to your Favourites! Skip the QR code on future visits."; ObjectID = "nCw-rw-rHi"; */
+"nCw-rw-rHi.text" = "আপনার পছন্দের তালিকায় এটিকে যোগ করতে, নামের পাশে স্টার/তারকা চিহ্নিত বাটনে চাপ দিন। ভবিষ্যতে QR কোড ছাড়াই এখানে চেক-ইন করতে পারবেন।";
+
+/* Class = "UIButton"; normalTitle = "AWESOME!"; ObjectID = "Ulr-Dp-gGA"; */
+"Ulr-Dp-gGA.normalTitle" = "অস্থির!";
+
+/* Class = "UILabel"; text = "Check in to:"; ObjectID = "VqK-Zr-1bd"; */
+"VqK-Zr-1bd.text" = "চেক ইন করছেন: ";

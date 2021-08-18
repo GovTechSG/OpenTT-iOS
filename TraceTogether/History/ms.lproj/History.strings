@@ -1,0 +1,57 @@
+
+/* Class = "UIButton"; normalTitle = "GOT IT"; ObjectID = "LnX-Lw-8bY"; */
+"LnX-Lw-8bY.normalTitle" = "MAKLUM";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "WQB-B5-nl3"; */
+"WQB-B5-nl3.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "History"; ObjectID = "Lqf-5p-7ts"; */
+"gj0-uT-UWo.title" = "Sejarah";
+
+/* Class = "UITabBarItem"; title = "History"; ObjectID = "bY7-hL-MnK"; */
+"KJz-60-ON0.title" = "Sejarah";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tvn-OH-Csa"; */
+"tvn-OH-Csa.normalTitle" = "Button";
+
+//These records help us notify you if you were near COVID-19 patients during their infectious period.
+"hGX-1P-Jnn.text" = "Maklumat ini membantu kami untuk beritahu anda jika anda telah berdekatan dengan pesakit COVID-19 semasa tempoh jangkitan mereka.";
+
+//Past 14 days
+"U8h-OB-wYc.text" = "14 hari yang lalu";
+
+//You were at a place visited by a COVID-19 case
+"XE2-8f-gbO.text" = "Anda telah ke tempat yang dilawati kes jangkitan COVID-19";
+
+//As a precaution, monitor your health for 14 days from the visit date. If you develop fever or respiratory symptoms, see a doctor immediately and indicate this exposure.
+"HV9-ab-qPw.text" = "Sebagai langkah berjaga-jaga, pantau kesihatan anda untuk 14 hari dari tarikh lawatan ke tempat tersebut. Jika anda mempunyai simtom demam atau pernafasan, sila jumpa doktor dan maklumkan kepadanya tentang pendedahan ini.";
+
+//Check for symptoms
+"Ehf-AX-guJ.normalTitle" = "<u>Periksa untuk mengesan simtom</u>";
+
+//All Records
+"3fG-05-gMh.normalTitle" = "Semua maklumat";
+
+//Possible Exposure
+"fRx-9l-ExZ.normalTitle" = "Kemungkinan pendedahan";
+
+//YOUR POSSIBLE EXPOSURES
+"xqc-Q6-1J1.text" = "KEMUNGKINAN PENDEDAHAN ANDA";
+
+//Please remember to check out using SafeEntry in the future.
+"46m-ew-qjC.text" = "Jangan lupa untuk log keluar menggunakan SafeEntry pada masa akan datang.";
+
+//'Check out now' button
+"u1u-Z0-iFt.normalTitle" = "<u>Daftar keluar sekarang</u>";
+
+//You were not at places visited by COVID-19 cases
+"1ZU-cp-UkU.text" = "Anda tidak ke tempat-tempat yang dilawati kes jangkitan COVID-19";
+
+// No records yet.
+"a69-K2-8o2.text" = "Belum ada rekod.";
+
+//Based on all your TraceTogether and SafeEntry records from the last 14 days.
+"VuJ-1I-Mhu.text" = "Berdasarkan maklumat TraceTogether dan SafeEntry anda bagi 14 hari yang lalu";
+
+//How are my possible exposures determined?
+"C07-eF-CcM.normalTitle" = "<ca><c:#0070E0><u>Bagaimanakah kemungkinan pendedahan saya ditentukan?</u></c></ca>";

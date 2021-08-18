@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "🇸🇬"; ObjectID = "8Rh-ks-t1I"; */
+"8Rh-ks-t1I.text" = "🇸🇬";
+
+/* Class = "UIButton"; normalTitle = "CHANGE LANGUAGE"; ObjectID = "67c-2R-rap"; */
+"67c-2R-rap.normalTitle" = "TUKAR BAHASA";
+
+/* Class = "UILabel"; text = "🎉"; ObjectID = "Fid-uB-YD8"; */
+"Fid-uB-YD8.text" = "🎉";
+
+/* Class = "UILabel"; text = "Your app is updated!"; ObjectID = "KJz-Ou-H2h"; */
+"KJz-Ou-H2h.text" = "Aplikasi anda telah dikemas kini!";
+
+/* Class = "UILabel"; text = "🏫"; ObjectID = "WTY-1E-59X"; */
+"WTY-1E-59X.text" = "🏫";
+
+/* Class = "UIButton"; normalTitle = "START SETUP"; ObjectID = "Zsj-hd-boM"; */
+"Zsj-hd-boM.normalTitle" = "MULAKAN PENETAPAN";
+
+/* Class = "UILabel"; text = "iPhone users — your app can work in the background now"; ObjectID = "ape-ZV-P4N"; */
+"ape-ZV-P4N.text" = "Pengguna iPhone - aplikasi kini boleh berfungsi di latar belakang";
+
+/* Class = "UILabel"; text = "👫"; ObjectID = "uNH-DM-L9t"; */
+"uNH-DM-L9t.text" = "👫";
+
+/* Class = "UILabel"; text = "More languages"; ObjectID = "yjZ-Fw-g92"; */
+"yjZ-Fw-g92.text" = "Lebih bahasa";

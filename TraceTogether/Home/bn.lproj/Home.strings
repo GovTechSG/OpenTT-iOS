@@ -1,0 +1,84 @@
+/* Class = "UIViewController"; title = "Home"; ObjectID = "1kY-xk-79T"; */
+"1kY-xk-79T.title" = "হোম";
+
+/* Class = "UILabel"; text = "TraceTogether is paused"; ObjectID = "2t2-5x-oMJ"; */
+"2t2-5x-oMJ.text" = "TraceTogether বন্ধ আছে";
+
+/* Class = "UILabel"; text = "A safe new normal, together 🇸🇬"; ObjectID = "86W-qR-5cy"; */
+"86W-qR-5cy.text" = "জীবনযাত্রা নিরাপদে পুনরায় শুরু, একসাথে 🇸🇬";
+
+/* Class = "UIButton"; normalTitle = "RESUME NOW"; ObjectID = "JcN-9C-LoH"; */
+"JcN-9C-LoH.normalTitle" = "এখন আবার চালু করুন";
+
+/* Class = "UIButton"; normalTitle = "Pause TraceTogether"; ObjectID = "M1I-I7-gty"; */
+"M1I-I7-gty.normalTitle" = "TraceTogether আপাতত থামান";
+
+/* Class = "UILabel"; text = "Share this app"; ObjectID = "vWo-Uv-0Qm"; */
+"vWo-Uv-0Qm.text" = "অ্যাপটি শেয়ার করুন";
+
+/* Class = "UILabel"; text = "SafeEntry check in"; ObjectID = "XNl-VG-8vW"; */
+"XNl-VG-8vW.text" = "সেফএন্ট্রি (SafeEntry) চেক ইন";
+
+/* Class = "UILabel"; text = "Watch latest updates"; ObjectID = "Bjp-gY-JkP"; */
+"Bjp-gY-JkP.text" = "Watch latest updates";
+
+/* Class = "UILabel"; text = "SafeEntry"; ObjectID = "Hco-H4-FYg"; */
+"Hco-H4-FYg.text" = "SafeEntry";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "dKx-a6-luR"; */
+"dKx-a6-luR.title" = "হোম";
+
+/* Class = "UITextView"; text = "We will not be able to help you note possible exposure to COVID-19 during this period ☹️"; ObjectID = "lKr-ef-kke"; */
+"lKr-ef-kke.text" = "We will not be able to help you note possible exposure to COVID-19 during this period ☹️";
+
+/* Class = "UILabel"; text = "Your app is active"; ObjectID = "n0K-zy-WGC"; */
+"n0K-zy-WGC.text" = "আপনার অ্যাপ সক্রিয় রয়েছে";
+
+/* New check in */
+"yOF-17-9Ag.normalTitle" = "নতুন চেক ইন";
+/* Last QR check in */
+"GLl-hE-oAf.text" = "সর্বশেষ কিউআর চেক ইন";
+/* View Pass */
+"SmV-tA-hCi.normalTitle" = "<u>পাস দেখুন</u>";
+/* Check out */
+"t4i-gI-VlH.normalTitle" = "চেক আউট";
+
+/* Exposure Green Title - You're okay */
+"oaZ-oS-pjg.text" = "আপনার চিন্তার কারণ নেই";
+/* Exposure Green Details - Based on all your TraceTogether and SafeEntry records from the last 14 days. See Details*/
+"KJU-GF-jRH.text" = "বিগত ১৪ দিনের TraceTogether ও SafeEntry রেকর্ডের ওপর ভিত্তি করে। <c:#0070E0><u>বিস্তারিত দেখুন</u> →</c>";
+/* Exposure Red Title - Possible exposure */
+"86P-mb-U1d.text" = "সম্ভাব্য সংক্রমণ";
+/* Exposure Red Details - You were at places visited by COVID-19 cases. See Details */
+"SfZ-3n-KFa.text" = "আপনি একটি জায়গায় গিয়েছিলেন, যেখানে একজন কোভিড-১৯ আক্রান্ত ছিলেন। <c:#0070E0><u>বিস্তারিত দেখুন</u> →</c>";
+
+/* Share Card - Stay safe together.\nShare the app! */
+"hDF-Mu-36w.text" = "একত্রে নিরাপদে থাকুন।\nঅ্যাপটি শেয়ার করুন!";
+
+/* This feature is only needed in Singapore. <b><u>If you're currently in Singapore,</b></u> re-register to enable the feature.*/
+"RVQ-lK-fyg.text" = "This feature is only needed in Singapore.
+<b><u>If you're currently in Singapore,</b></u> re-register to enable the feature.";
+
+/* More info */
+"B14-qh-Lg8.normalTitle" = "<u>More info</u>";
+
+/* Re-register */
+"fuO-Wh-615.normalTitle" = "পুনরায় রেজিস্ট্রেশন";
+
+/* How long should you keep the app for? */
+"yfR-2z-Jou.text" = "এই অ্যাপটি কতক্ষণ ইন্সটল করে রাখতে হবে?";
+
+// Got it
+"MRm-cq-hnk.normalTitle" = "বুঝেছি!";
+
+//Scan QR
+"NKj-tw-vpI.text" = "QR স্ক্যান";
+
+//Favourites
+"8Qk-WW-MUx.text" = "প্রিয় জায়গা";
+
+//Group
+"RM7-Lw-sLT.text" = "গ্রুপ";
+
+//Updated every few mins
+"STd-MN-bYh.text" = "কয়েক মিনিট পর পর হালনাগাদ করা হয়।";

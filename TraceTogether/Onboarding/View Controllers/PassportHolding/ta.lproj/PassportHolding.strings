@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3vO-uk-p1h"; */
+"3vO-uk-p1h.text" = "Label";
+
+/* Class = "UILabel"; text = "Nationality"; ObjectID = "AwU-7u-zqM"; */
+"AwU-7u-zqM.text" = "தேசியம்";
+
+/* Class = "UIViewController"; title = "SubmitErrorLogsViewController"; ObjectID = "Evm-Xh-M34"; */
+"Evm-Xh-M34.title" = "SubmitErrorLogsViewController";
+
+/* Class = "UILabel"; text = "Next step: Clear Singapore’s immigration, then activate your app 🤗🇸🇬"; ObjectID = "ZeR-pd-gCz"; */
+"ZeR-pd-gCz.text" = "<ca>Next step: Clear Singapore’s immigration, <u>then</u> activate your app</ca> 🤗🇸🇬";
+
+/* Class = "UILabel"; text = "SAVED"; ObjectID = "gBi-ih-dJ7"; */
+"gBi-ih-dJ7.text" = "சேமிக்கப்பட்டது";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "izs-ed-rhY"; */
+"izs-ed-rhY.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qAB-eL-ZuD"; */
+"qAB-eL-ZuD.text" = "Label";
+
+/* Class = "UILabel"; text = "Birth"; ObjectID = "qhE-3c-9xp"; */
+"qhE-3c-9xp.text" = "பிறந்த தேதி";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wff-wy-btc"; */
+"wff-wy-btc.text" = "Label";
+
+/* Class = "UILabel"; text = "Passport No."; ObjectID = "xhl-OM-DZZ"; */
+"xhl-OM-DZZ.text" = "கடவுச்சீட்டு எண்";
+
+/* Class = "UIButton"; normalTitle = "ACTIVATE APP"; ObjectID = "yGm-0J-zNR"; */
+"yGm-0J-zNR.normalTitle" = "செயலியை செயல்படுத்தவும்";
+
+/* Class = "UIButton"; normalTitle = "<u>Edit</u>"; ObjectID = "tiG-U2-1HV"; */
+"tiG-U2-1HV.normalTitle" = "<u>திருத்தவும்</u>";
+
+/* Class = "UITextView"; text = "{{ica}}"; ObjectID = "JD4-0Q-oXf"; */
+"JD4-0Q-oXf.text" = "சிங்கப்பூருக்கு வருவதற்கு முன்பு நீங்கள் வேறு என்ன தயார் செய்ய வேண்டும் என்பதைப் பார்க்க, <a:ica><u>safetravel.ica.gov.sg</u></a> ஐப் காணவும்.";

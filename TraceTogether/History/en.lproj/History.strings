@@ -1,0 +1,56 @@
+
+/* Class = "UIButton"; normalTitle = "GOT IT"; ObjectID = "LnX-Lw-8bY"; */
+"LnX-Lw-8bY.normalTitle" = "GOT IT";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "WQB-B5-nl3"; */
+"WQB-B5-nl3.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "History"; ObjectID = "Lqf-5p-7ts"; */
+"gj0-uT-UWo.title" = "History";
+
+/* Class = "UITabBarItem"; title = "History"; ObjectID = "bY7-hL-MnK"; */
+"KJz-60-ON0.title" = "History";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tvn-OH-Csa"; */
+"tvn-OH-Csa.normalTitle" = "Button";
+
+"hGX-1P-Jnn.text" = "These records help us notify you if you were near COVID-19 patients during their infectious period.";
+
+//Past 14 days
+"U8h-OB-wYc.text" = "Past 14 days";
+
+//You were at a place visited by a COVID-19 case
+"XE2-8f-gbO.text" = "You were at a place visited by a COVID-19 case";
+
+//As a precaution, monitor your health for 14 days from the visit date. If you develop fever or respiratory symptoms, see a doctor immediately and indicate this exposure.
+"HV9-ab-qPw.text" = "As a precaution, monitor your health for 14 days from the visit date. If you develop fever or respiratory symptoms, see a doctor immediately and indicate this exposure.";
+
+//Check for symptoms
+"Ehf-AX-guJ.normalTitle" = "<u>Check for symptoms</u>";
+
+//All Records
+"3fG-05-gMh.normalTitle" = "All Records";
+
+//Possible Exposure
+"fRx-9l-ExZ.normalTitle" = "Possible Exposure";
+
+//YOUR POSSIBLE EXPOSURES
+"xqc-Q6-1J1.text" = "YOUR POSSIBLE EXPOSURES";
+
+//Please remember to check out using SafeEntry in the future.
+"46m-ew-qjC.text" = "Please remember to check out using SafeEntry in the future.";
+
+//'Check out now' button
+"u1u-Z0-iFt.normalTitle" = "<u>Check out now</u>";
+
+//You were not at places visited by COVID-19 cases
+"1ZU-cp-UkU.text" = "You were not at places visited by COVID-19 cases";
+
+// No records yet.
+"a69-K2-8o2.text" = "No records yet.";
+
+//Based on all your TraceTogether and SafeEntry records from the last 14 days.
+"VuJ-1I-Mhu.text" = "Based on all your TraceTogether and SafeEntry records from the last 14 days.";
+
+//How are my possible exposures determined?
+"C07-eF-CcM.normalTitle" = "<ca><c:#0070E0><u>How are my possible exposures determined?</u></c></ca>";

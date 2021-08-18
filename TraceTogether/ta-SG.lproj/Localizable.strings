@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  OpenTraceTogether
+*/
+
+// OTP
+"EnterOTPSent" = "%@-க்கு அனுப்பப்பட்ட  OTP-ஐ  உள்ளிடவும்";
+"WrongNumber" = "தவறான எண்ணா?";
+"ResendCode" = "குறியீட்டை மீண்டும் அனுப்புக";
+
+"InvalidOTP" = "6-இலக்க குறியீடாக இருத்தல் அவசியம்";
+"WrongOTP" = "தவறான OTP உள்ளிடப்பட்டுள்ளது";
+"InvalidPIN" = "தவறான எண்(PIN)";
+
+"CodeWillExpired" = "உங்கள் குறியீடு %@ இல் காலாவதியாகும்.";
+"CodeHasExpired" = "உங்கள் குறியீடு காலாவதியானது.";
+
+"NotAValidCode" = "செல்லுபடியாகும் குறியீடு அல்ல";
+"DataUploaded" = "உங்கள் தரவு MOH-ற்கு பதிவேற்றப்பட்டுள்ளது";
+"DataNotUploaded" = "தரவு பதிவேற்றப்படவில்லை";
+
+// Catch missing programatic strings or attributed strings
+"LastUpdated" = "கடைசியாகப் புதுப்பிக்கப்பட்டது: %@";
+"UsePowerSaverMode" = "மின்சக்திச் சேமிப்பு பயன்முறையைப் பயன்படுத்தவும்";
+"TTisDeactivated" = "ஒன்றிணைந்து தடமறிதல் செயலிழக்கச் செய்யப்பட்டுள்ளது";
+
+// Pogo
+"OniPhoneAppNeedsKeptOpen" = "iPhone-இல் இச்செயலி இயங்குவதற்கு, எப்போதும் செயலி திறந்திருக்க வேண்டும்";
+"TurnYourPhoneFaceDownOr" = "1. உங்கள் கைபேசியை தலைகீழாகத்  திருப்பவும், அல்லது ";
+"KeepItUpsideDownInYourPocket"= "2. உங்கள் பையில் அதனைத் தலைகீழாக வைக்கவும்";

@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="0zG-EN-pX5">
+    <device id="retina6_5" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Upload-->
+        <scene sceneID="niW-uL-M2m">
+            <objects>
+                <navigationController title="Upload" automaticallyAdjustsScrollViewInsets="NO" id="0zG-EN-pX5" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="ol5-H6-gS2" customClass="TTNavigationBar" customModule="TraceTogether" customModuleProvider="target">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <toolbar key="toolbar" opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="h4U-Mi-aui">
+                        <autoresizingMask key="autoresizingMask"/>
+                    </toolbar>
+                    <connections>
+                        <segue destination="sro-IG-RPf" kind="relationship" relationship="rootViewController" id="Otk-a5-qBx"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="wsV-yG-wyp" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-286" y="-2245"/>
+        </scene>
+        <!--Upload-->
+        <scene sceneID="ZiS-ep-CD9">
+            <objects>
+                <viewController title="Upload" id="sro-IG-RPf" customClass="UploadDataToNoteViewController" customModule="TraceTogether" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="DE9-j0-QRz">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IDr-rd-rlV" customClass="GradientButton" customModule="TraceTogether" customModuleProvider="target">
+                                <rect key="frame" x="24" y="741" width="366" height="40"/>
+                                <color key="backgroundColor" red="1" green="0.396078431372549" blue="0.396078431372549" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="40" id="PKs-Rf-Znk"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
+                                <state key="normal" title="ENTER UPLOAD CODE">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="20"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <segue destination="a6e-KY-ZKO" kind="show" id="LkL-Wj-thI"/>
+                                </connections>
+                            </button>
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="xKp-Vb-HLE">
+                                <rect key="frame" x="0.0" y="88" width="414" height="653"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="mohlogo" translatesAutoresizingMaskIntoConstraints="NO" id="D9s-0f-qQM">
+                                        <rect key="frame" x="48" y="24" width="318" height="111"/>
+                                        <preferredSymbolConfiguration key="preferredSymbolConfiguration" scale="medium"/>
+                                    </imageView>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="x2H-32-ZeD">
+                                        <rect key="frame" x="32" y="167" width="350" height="140.33333333333337"/>
+                                        <subviews>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="T3h-Jn-b4B">
+                                                <rect key="frame" x="16" y="15.999999999999993" width="318" height="108.33333333333331"/>
+                                                <string key="text">An upload code is only given to patients with COVID-19. 
+
+If you did not get an upload code from MOH, you do not need to upload data :)</string>
+                                                <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
+                                                <nil key="highlightedColor"/>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="number" keyPath="lineHeight">
+                                                        <real key="value" value="5"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                </userDefinedRuntimeAttributes>
+                                            </label>
+                                        </subviews>
+                                        <color key="backgroundColor" red="1" green="0.89411764705882346" blue="0.89411764705882346" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                        <constraints>
+                                            <constraint firstItem="T3h-Jn-b4B" firstAttribute="top" secondItem="x2H-32-ZeD" secondAttribute="top" constant="16" id="4Ib-AC-jX3"/>
+                                            <constraint firstAttribute="bottom" secondItem="T3h-Jn-b4B" secondAttribute="bottom" constant="16" id="7M4-o3-LMc"/>
+                                            <constraint firstItem="T3h-Jn-b4B" firstAttribute="leading" secondItem="x2H-32-ZeD" secondAttribute="leading" constant="16" id="rLA-rn-YUn"/>
+                                            <constraint firstAttribute="trailing" secondItem="T3h-Jn-b4B" secondAttribute="trailing" constant="16" id="z1b-rv-RUI"/>
+                                        </constraints>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                <real key="value" value="8"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                    </view>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstItem="D9s-0f-qQM" firstAttribute="leading" secondItem="xKp-Vb-HLE" secondAttribute="leading" constant="48" id="0eh-PD-MYO"/>
+                                    <constraint firstItem="D9s-0f-qQM" firstAttribute="top" secondItem="xKp-Vb-HLE" secondAttribute="top" constant="24" id="3SR-HY-AkS"/>
+                                    <constraint firstAttribute="trailing" secondItem="x2H-32-ZeD" secondAttribute="trailing" constant="32" id="5xY-ji-r7Z"/>
+                                    <constraint firstItem="x2H-32-ZeD" firstAttribute="leading" secondItem="xKp-Vb-HLE" secondAttribute="leading" constant="32" id="91m-4T-3dx"/>
+                                    <constraint firstAttribute="bottom" secondItem="x2H-32-ZeD" secondAttribute="bottom" constant="32" id="H1o-fC-0zv"/>
+                                    <constraint firstAttribute="trailing" secondItem="D9s-0f-qQM" secondAttribute="trailing" constant="48" id="JBs-mj-iA0"/>
+                                    <constraint firstItem="x2H-32-ZeD" firstAttribute="top" secondItem="D9s-0f-qQM" secondAttribute="bottom" constant="32" id="XPM-Lr-u1M"/>
+                                    <constraint firstItem="D9s-0f-qQM" firstAttribute="centerX" secondItem="xKp-Vb-HLE" secondAttribute="centerX" id="jvB-Bb-HUe"/>
+                                </constraints>
+                            </scrollView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="mGt-GF-1QI"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="mGt-GF-1QI" firstAttribute="bottom" secondItem="IDr-rd-rlV" secondAttribute="bottom" constant="32" id="0xR-QA-khI"/>
+                            <constraint firstItem="mGt-GF-1QI" firstAttribute="trailing" secondItem="xKp-Vb-HLE" secondAttribute="trailing" id="CRf-2v-BD7"/>
+                            <constraint firstItem="xKp-Vb-HLE" firstAttribute="leading" secondItem="mGt-GF-1QI" secondAttribute="leading" id="GYh-0m-bQB"/>
+                            <constraint firstItem="xKp-Vb-HLE" firstAttribute="centerX" secondItem="DE9-j0-QRz" secondAttribute="centerX" id="I0X-wO-0vS"/>
+                            <constraint firstItem="IDr-rd-rlV" firstAttribute="leading" secondItem="mGt-GF-1QI" secondAttribute="leading" constant="24" id="bMg-Fq-LEK"/>
+                            <constraint firstItem="mGt-GF-1QI" firstAttribute="trailing" secondItem="IDr-rd-rlV" secondAttribute="trailing" constant="24" id="eEl-XH-ada"/>
+                            <constraint firstItem="IDr-rd-rlV" firstAttribute="top" secondItem="xKp-Vb-HLE" secondAttribute="bottom" id="vwl-r3-XlP"/>
+                            <constraint firstItem="xKp-Vb-HLE" firstAttribute="top" secondItem="mGt-GF-1QI" secondAttribute="top" id="wqr-Vq-qzm"/>
+                        </constraints>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Upload" image="uploadtab" id="Y1B-Ag-Xtw"/>
+                    <navigationItem key="navigationItem" title="Upload Data" id="9vc-Zh-P5M">
+                        <barButtonItem key="backBarButtonItem" title="Back" id="E0U-am-cAz"/>
+                        <barButtonItem key="rightBarButtonItem" image="SEcheck" style="done" id="k7e-wh-gJ1">
+                            <connections>
+                                <action selector="safeEntryButtonClicked:" destination="sro-IG-RPf" id="CZn-gp-Bre"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                    <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
+                    <connections>
+                        <outlet property="detailsLabel" destination="T3h-Jn-b4B" id="tTf-hR-7AU"/>
+                        <outlet property="safeEntryBtn" destination="k7e-wh-gJ1" id="urX-23-Mfl"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ywc-N6-3aU" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="650.72463768115949" y="-2245.3125"/>
+        </scene>
+        <!--Upload Data-->
+        <scene sceneID="MLs-LJ-G0a">
+            <objects>
+                <viewController id="a6e-KY-ZKO" customClass="UploadDataStep2VC" customModule="TraceTogether" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="rgX-9n-S74">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="By uploading, you agree to share with MOH 25 days of your app’s Bluetooth data to help with contact tracing." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hmp-y3-Mr6">
+                                <rect key="frame" x="24" y="304" width="366" height="33.666666666666686"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <color key="textColor" red="0.30980392156862746" green="0.30980392156862746" blue="0.30980392156862746" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="lineHeight">
+                                        <real key="value" value="5"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Invalid upload code" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ew3-er-D6f">
+                                <rect key="frame" x="24" y="216" width="125" height="17"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="71" id="asC-II-dPW"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <color key="textColor" red="0.95686274509803915" green="0.2627450980392157" blue="0.21176470588235294" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Enter upload code" textAlignment="center" minimumFontSize="22" translatesAutoresizingMaskIntoConstraints="NO" id="eGt-w4-tSm">
+                                <rect key="frame" x="24" y="160" width="366" height="48"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="48" id="MS0-Be-loZ"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="allCharacters" autocorrectionType="no" spellCheckingType="no" keyboardType="alphabet" returnKeyType="send"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="4"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                        <real key="value" value="1"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                        <color key="value" white="0.88" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="uploadDataOnPress" destination="a6e-KY-ZKO" eventType="editingDidEndOnExit" id="ss3-in-iHP"/>
+                                </connections>
+                            </textField>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Gd0-Fn-yIf">
+                                <rect key="frame" x="24" y="248" width="125" height="32"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="105" id="gJn-2s-f3q"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="medium" pointSize="16"/>
+                                <state key="normal" title="No upload code?">
+                                    <color key="titleColor" red="0.18431372549019609" green="0.50196078431372548" blue="0.92941176470588238" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isMarkupText" value="YES"/>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="noUploadCodeOnPress" destination="a6e-KY-ZKO" eventType="touchUpInside" id="w7Y-uZ-8ts"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter your upload code" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BnB-UV-g2N">
+                                <rect key="frame" x="24" y="112" width="366" height="24"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="24k-o7-Lgs" customClass="GradientButton" customModule="TraceTogether" customModuleProvider="target">
+                                <rect key="frame" x="24" y="741" width="366" height="40"/>
+                                <color key="backgroundColor" red="1" green="0.396078431372549" blue="0.396078431372549" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="40" id="n3a-MN-UFK"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
+                                <state key="normal" title="UPLOAD DATA">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="20"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="uploadDataOnPress" destination="a6e-KY-ZKO" eventType="touchUpInside" id="128-2h-vFo"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="54b-Km-PSA"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="eGt-w4-tSm" firstAttribute="trailing" secondItem="BnB-UV-g2N" secondAttribute="trailing" id="0sg-rk-BZF"/>
+                            <constraint firstItem="Gd0-Fn-yIf" firstAttribute="top" secondItem="eGt-w4-tSm" secondAttribute="bottom" constant="40" id="6TH-GK-eO3"/>
+                            <constraint firstItem="hmp-y3-Mr6" firstAttribute="leading" secondItem="54b-Km-PSA" secondAttribute="leading" constant="24" id="7Dd-M3-2P6"/>
+                            <constraint firstItem="54b-Km-PSA" firstAttribute="trailing" secondItem="BnB-UV-g2N" secondAttribute="trailing" constant="24" id="Bgw-L4-bs4"/>
+                            <constraint firstItem="Ew3-er-D6f" firstAttribute="leading" secondItem="54b-Km-PSA" secondAttribute="leading" constant="24" id="DMT-oy-Yx2"/>
+                            <constraint firstItem="54b-Km-PSA" firstAttribute="trailing" relation="lessThanOrEqual" secondItem="Gd0-Fn-yIf" secondAttribute="trailing" constant="285" id="EdR-W4-VU0"/>
+                            <constraint firstItem="eGt-w4-tSm" firstAttribute="leading" secondItem="BnB-UV-g2N" secondAttribute="leading" id="FOS-AD-FZ9"/>
+                            <constraint firstItem="Gd0-Fn-yIf" firstAttribute="leading" secondItem="BnB-UV-g2N" secondAttribute="leading" id="FXl-Np-uEt"/>
+                            <constraint firstItem="BnB-UV-g2N" firstAttribute="leading" secondItem="54b-Km-PSA" secondAttribute="leading" constant="24" id="PFw-0D-Rst"/>
+                            <constraint firstItem="54b-Km-PSA" firstAttribute="trailing" secondItem="24k-o7-Lgs" secondAttribute="trailing" constant="24" id="Qu0-le-QwW"/>
+                            <constraint firstAttribute="trailing" secondItem="hmp-y3-Mr6" secondAttribute="trailing" constant="24" id="R4N-wg-IHj"/>
+                            <constraint firstItem="hmp-y3-Mr6" firstAttribute="top" secondItem="Gd0-Fn-yIf" secondAttribute="bottom" constant="24" id="eWy-Eq-axV"/>
+                            <constraint firstItem="24k-o7-Lgs" firstAttribute="leading" secondItem="54b-Km-PSA" secondAttribute="leading" constant="24" id="ftr-tq-dYH"/>
+                            <constraint firstItem="BnB-UV-g2N" firstAttribute="top" secondItem="54b-Km-PSA" secondAttribute="top" constant="24" id="l5o-dS-xC2"/>
+                            <constraint firstItem="eGt-w4-tSm" firstAttribute="top" secondItem="BnB-UV-g2N" secondAttribute="bottom" constant="24" id="p3t-V9-07H"/>
+                            <constraint firstItem="54b-Km-PSA" firstAttribute="bottom" secondItem="24k-o7-Lgs" secondAttribute="bottom" constant="32" id="xuU-BZ-ehc"/>
+                            <constraint firstItem="Ew3-er-D6f" firstAttribute="top" secondItem="eGt-w4-tSm" secondAttribute="bottom" constant="8" id="znp-bt-hIV"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" title="Upload Data" id="qbp-3n-hQN">
+                        <barButtonItem key="backBarButtonItem" title="Back" id="T6n-4J-job"/>
+                    </navigationItem>
+                    <connections>
+                        <outlet property="uploadCodeField" destination="eGt-w4-tSm" id="Civ-xL-WPc"/>
+                        <outlet property="uploadErrorMsgLbl" destination="Ew3-er-D6f" id="Uj5-Pc-2cc"/>
+                        <segue destination="LRe-JE-icR" kind="show" identifier="showSuccessVCSegue" id="qhY-RL-AUU"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="hhH-AQ-2Cf" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1491" y="-2245"/>
+        </scene>
+        <!--Upload Data-->
+        <scene sceneID="gXh-MV-8Qs">
+            <objects>
+                <viewController id="LRe-JE-icR" customClass="UploadDataSuccessVC" customModule="TraceTogether" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="v68-fs-xEU">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nC1-Z2-6rf" customClass="GradientButton" customModule="TraceTogether" customModuleProvider="target">
+                                <rect key="frame" x="24" y="741" width="366" height="40"/>
+                                <color key="backgroundColor" red="1" green="0.396078431372549" blue="0.396078431372549" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="40" id="1wl-px-yN2"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
+                                <state key="normal" title="BACK TO HOME">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="20"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="doneBtnTapped:" destination="LRe-JE-icR" eventType="touchUpInside" id="VYD-h8-6vs"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Upload completed" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8eG-fq-VJ4">
+                                <rect key="frame" x="24" y="112" width="356" height="24"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="uploaddatasuccess" translatesAutoresizingMaskIntoConstraints="NO" id="wbj-SK-Qk6">
+                                <rect key="frame" x="157" y="398" width="100" height="100"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="100" id="yc8-f5-x4c"/>
+                                    <constraint firstAttribute="width" constant="100" id="zgt-5X-seu"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Please take care. Get well soon! 🌻" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="clG-lZ-P8y">
+                                <rect key="frame" x="24" y="160" width="356" height="19.333333333333343"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                <color key="textColor" red="0.30980392156862746" green="0.30980392156862746" blue="0.30980392156862746" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="AeY-n2-PYX"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="wbj-SK-Qk6" firstAttribute="centerY" secondItem="v68-fs-xEU" secondAttribute="centerY" id="E1o-IW-uAf"/>
+                            <constraint firstItem="AeY-n2-PYX" firstAttribute="trailing" secondItem="nC1-Z2-6rf" secondAttribute="trailing" constant="24" id="E3v-8h-gbf"/>
+                            <constraint firstItem="AeY-n2-PYX" firstAttribute="bottom" secondItem="nC1-Z2-6rf" secondAttribute="bottom" constant="32" id="JHx-hG-9b0"/>
+                            <constraint firstItem="clG-lZ-P8y" firstAttribute="top" secondItem="8eG-fq-VJ4" secondAttribute="bottom" constant="24" id="Kdq-7y-hVp"/>
+                            <constraint firstItem="nC1-Z2-6rf" firstAttribute="leading" secondItem="AeY-n2-PYX" secondAttribute="leading" constant="24" id="QFf-xo-5Wj"/>
+                            <constraint firstItem="AeY-n2-PYX" firstAttribute="trailing" secondItem="8eG-fq-VJ4" secondAttribute="trailing" constant="34" id="Rgw-qI-u00"/>
+                            <constraint firstItem="AeY-n2-PYX" firstAttribute="trailing" secondItem="clG-lZ-P8y" secondAttribute="trailing" constant="34" id="c0j-UL-Z5A"/>
+                            <constraint firstItem="clG-lZ-P8y" firstAttribute="leading" secondItem="AeY-n2-PYX" secondAttribute="leading" constant="24" id="jJz-CY-lG5"/>
+                            <constraint firstItem="8eG-fq-VJ4" firstAttribute="top" secondItem="AeY-n2-PYX" secondAttribute="top" constant="24" id="pdA-hM-DCa"/>
+                            <constraint firstItem="8eG-fq-VJ4" firstAttribute="leading" secondItem="AeY-n2-PYX" secondAttribute="leading" constant="24" id="snA-6x-ZmQ"/>
+                            <constraint firstItem="wbj-SK-Qk6" firstAttribute="centerX" secondItem="v68-fs-xEU" secondAttribute="centerX" id="vjZ-qA-7Xw"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" title="Upload Data" largeTitleDisplayMode="never" id="76Q-Ls-vsz">
+                        <barButtonItem key="backBarButtonItem" title="Back" id="Oci-OJ-azB"/>
+                    </navigationItem>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="zs4-fO-il2" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2353.6231884057975" y="-2245.3125"/>
+        </scene>
+    </scenes>
+    <designables>
+        <designable name="24k-o7-Lgs">
+            <size key="intrinsicContentSize" width="100" height="29"/>
+        </designable>
+        <designable name="IDr-rd-rlV">
+            <size key="intrinsicContentSize" width="152" height="29"/>
+        </designable>
+        <designable name="nC1-Z2-6rf">
+            <size key="intrinsicContentSize" width="109" height="29"/>
+        </designable>
+    </designables>
+    <resources>
+        <image name="SEcheck" width="28" height="28"/>
+        <image name="mohlogo" width="195" height="111"/>
+        <image name="uploaddatasuccess" width="100" height="100"/>
+        <image name="uploadtab" width="24" height="24.333333969116211"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

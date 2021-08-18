@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Last step:  Turn on Bluetooth"; ObjectID = "6U7-js-wgl"; */
+"6U7-js-wgl.text" = "अंतिम चरण: ब्लूटूथ चालू करें";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "DCS-Dz-ub4"; */
+"DCS-Dz-ub4.normalTitle" = "आगे";
+
+/* Class = "UILabel"; text = "All app Bluetooth data after 25 days will be automatically deleted."; ObjectID = "Eu2-mM-gWa"; */
+"Eu2-mM-gWa.text" = "हम आपके सभी ऐप ब्लूटूथ डेटा को, प्रत्येक 25 दिनों में, स्वत: हटा देते हैं।";
+
+/* Class = "UILabel"; text = "To help you note possible exposure to COVID-19, your app needs these permissions"; ObjectID = "TIl-OJ-p6N"; */
+"TIl-OJ-p6N.text" = "COVID-19 के संभावित एक्सपोजर को नोट करने में आपकी मदद हेतु, आपके ऐप को इन ऐप अनुमतियों की आवश्यकता है";
+
+/* Class = "UIButton"; normalTitle = "GOT IT, WILL DO!"; ObjectID = "YK3-Ii-6rR"; */
+"YK3-Ii-6rR.normalTitle" = "समझ आया, यही करेंगे!";
+
+/* Class = "UIButton"; normalTitle = "ALLOW"; ObjectID = "dbs-LN-AKi"; */
+"dbs-LN-AKi.normalTitle" = "अनुमति दें";
+
+/* Class = "UILabel"; text = "Go to Settings or Control Center and turn on your phone’s Bluetooth. \n\nThen come back to the app."; ObjectID = "jzQ-wJ-Ece"; */
+"jzQ-wJ-Ece.text" = "सेटिंग या कंट्रोल सेंटर पर जाएं और अपने फोन के ब्लूटूथ को चालू करें।.\n\nफिर ऐप पर वापस आएं।";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "tvm-f1-bLa"; */
+"tvm-f1-bLa.text" = "सूचनाएं";
+
+/* Class = "UILabel"; text = "Bluetooth"; ObjectID = "xyh-Ya-fb1"; */
+"xyh-Ya-fb1.text" = "ब्लूटूथ";

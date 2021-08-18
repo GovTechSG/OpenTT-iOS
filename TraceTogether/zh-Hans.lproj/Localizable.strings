@@ -1,0 +1,331 @@
+/*
+  Localizable.strings
+  OpenTraceTogether
+*/
+
+// Test String
+"TapLetter" = "打开信封";
+
+// Common
+"TemporarilyUnavailable" = "目前无法使用";
+"TemporarilyUnavailableMessage" = "很抱歉，让我们查看问题所在。请稍后再试。";
+"CheckYourConnection" = "检查您的网络连接";
+"CheckYourConnectionMessage" = "请放心，这是网络问题。连接后，请再试一次。";
+"PleaseTryAgainLater" = "Please try again later.";
+"TooManyTries" = "出现错误的次数太多了。";
+
+// InputAccessoryView
+"Done" = "完毕";
+"Prev" = "上个字段";
+"Next" = "下个字段";
+
+// HelpsYouRecall
+"TraceTogetherLogoLabel" = "合力追踪";
+"HelpsYouRecallLabel1" = "协助您记得这几个星期内和谁在哪里接触过。";
+"HelpsYouRecallBoldLabel1" = "协助您记";
+"HelpsYouRecallLabel2" = "若您与冠病确诊病例接触过，将会迅速地通知您，以保护您与您的亲友";
+"HelpsYouRecallBoldLabel2" = "迅速地通知您";
+
+// HowItWorks
+"DataUseInfo" = "此应用程序数据会被<b>安全地储存在您的手机里</b>，并在您的冠病检测结果呈阳性时为接触追踪与卫生部 (MOH) 分享。\n\n 存储在手机里的数据将在25天后自动删除。";
+
+// OTP
+"EnterOTPSent" = "一次性密码（OTP）已发送至 %@。";
+"WrongNumber" = "手机号码错误?";
+"ResendOTP" = "重发 OTP";
+"ResendCountdown" = "重发 %@s";
+"ContactYou" = "若您可能与冠病确诊病例接触过，MOH将使用此号码联系您。";
+"EnterPhoneNumber" = "Enter your mobile number here";
+"TapToChangeCountryCode" = "Selected Country code is %@. Tap to change country code";
+
+// Help Modal
+"HelpModalDetailsMainText" = "您的独特识别号可以让MOH在需要给您有关冠病的重要健康建议时，联系到对的人。";
+"HelpModalDetailsMainBoldText" = "联系到对的人。";
+
+// Profile Selection
+"NRIC" = "新加坡公民或永久居民（所有年龄）";
+"FINWorkPass" = "FIN — 工作准证";
+"FINDepPass" = "FIN — 家属准证";
+"FINStudPass" = "FIN — 学生准证";
+"FINLTVP" = "FIN — 长期探访准证";
+"VisitSG" = "探访新加坡";
+"PassportVerified" = "已获新加坡移民局查证";
+
+"NRICDesc" = "请准备好您的 NRIC 号码或出生证明号码 :)";
+"FINWorkPassDesc" = "请准备您的工作准证 :)";
+"FINDepPassDesc" = "请准备您的家属准证 :)";
+"FINStudPassDesc" = "请准备您的学生准证 :)";
+"FINLTVPDesc" = "请准备您的长期探访准证 :)";
+"VisitSGDesc" = "请使用您入境新加坡时的护照资料 :)";
+
+// Registration Form
+"Name" = "名字";
+"NricBirthCert" = "NRIC / 出生证明号码";
+"DateOfBirth" = "出生日期";
+"DateOfBirthForPassportUsers" = "出生日期（根据护照）";
+"DateOfIssue" = "签发日期";
+"FINString" = "外国身份证号码（FIN）";
+"cardSerialNumber" = "卡序列号";
+"passportNumber" = "护照号码";
+"DateOfExpiry" = "截止日期";
+"MobileNumber" = "手机号码";
+"Nationality" = "国籍";
+"HowToFind" = "如何找到？";
+"InvalidDate" = "日期无效";
+"InvalidName" = "名字无效";
+"InvalidFin" = "FIN无效";
+"InvalidNRIC" = "NRIC无效";
+"InvalidPassportFormat" = "护照格式无效";
+"OwnFINCard" = "您携带实体 FIN 卡吗？";
+"DateOfApplication" = "FIN 卡的申请日期";
+"Yes" = "带了";
+"No" = "没带";
+"TapBackAndSelectFIN" = "请点击返回并选择FIN简介";
+"TapBackAndSelectNRIC" = "请点击“返回”键并选择新加坡公民设置";
+"NRICDetailsTitle" = "您的 NRIC 详情";
+"FinWPDetailsTitle" = "您的 FIN - 工作准证详情";
+"FinDPDetailsTitle" = "您的 FIN - 家属准证详情";
+"FinSTPDetailsTitle" = "您的 FIN - 学生准证详情";
+"FinLTVPDetailsTitle" = "您的 FIN - 长期探访准证详情";
+"PassportDetailsTitle" = "您的护照详情";
+"PassportDetailsInfo" = "请输入您入境新加坡时的护照资料。您输入的信息将会与新加坡移民局的档案核对。";
+"PassportInvalidTitle" = "尚未在新加坡移民局的数据找到您的护照资料";
+"PassportInvalidDetails" = "请在通关入境后，才激活您的应用程序。此外，请确保您输入的资料是正确的。";
+"RegisterWithFINTitle" = "请使用您的 FIN 再次注册注册。";
+"RegisterWithFINMessage" = "这能让 MOH 准确无误地将您的冠病检测报告发送给您。我们不会将您的个人资料与其他设备分享。";
+
+// Registration Modals
+"backOfNRIC" = "在您的NRIC背面";
+"backOfNRICUnderline" = "背面";
+"frontOfFIN"= "前面";
+"backOfFIN"= "背面";
+"checkBackOfWorkPass" = "检查证件背面的签发日期";
+"checkBackOfLTVP" = "检查证件背面的签发日期";
+
+// Note strings
+"noteNS" = "至于国民服役人员，请向您的部队秘书长查询您身份证背面注明的签发日期。";
+"noteMinor" = "17岁以下者无需身份证的签发日期。";
+
+// AllowPerms StoryBoard
+"PleaseNoteDetails" = "记得开启蓝牙功能，让此应用程序在手机后台运行（此应用程序现已可以在iOS操作系统运作！）";
+"PleaseNoteBold1Details" = "开启蓝牙功能";
+"PleaseNoteBold2Details" = "让此应用程序在手机后台运行";
+"AppIsWorkingHeader" = "您的应用程序正在运行！";
+"AppActiveHeader" = "您的应用程序已激活！";
+
+// Home Screen and Storyboard
+"SgFlag" = "让我们齐心协力、安全地恢复生活🇸🇬";
+"ShareThisApp" = "分享此应用程序";
+"SafeEntryCheckInHome" = "SafeEntry登入";
+"PauseTraceTogether" = "暂停合力追踪";
+"ShareApp" = "和我们一起努力来遏止新冠病毒的传播，以便能够安全有序地生活。\n下载合力追踪，这是由卫生部和GovTech推出的应用程序。 转至：https://tracetogether.gov.sg";
+"PleaseKeepAppFor" = "请在离境后的<b>十四天</b><u>之后</u>才删除应用程序。
+
+这将能更好地保护您与至亲，在发现您与冠病确诊患者曾有近距离接触时，新加坡卫生部能通知您。
+
+当您在新加坡游览观光时，请记得 <b>在手机后台运行应用程序</b>并<b>开启您的蓝牙设置。</b> 开心旅游，防控为先！";
+
+
+// Legacy
+"InvalidOTP" = "一定要是6位数密码";
+"WrongOTP" = "密码输入错误";
+"InvalidPIN" = "密码错误";
+"InvalidUploadCode" = "无效的上传代码";
+
+"CodeWillExpired" = "您的一次性密码将在 %@ 内失效。";
+"CodeHasExpired" = "您的密码已失效。";
+
+"NotAValidCode" = "密码无效";
+"DataUploaded" = "数据上载完毕";
+"DataNotUploaded" = "数据上载失败";
+
+// Catch missing programatic strings or attributed strings
+//"LastUpdated" = "Last Updated : %@";
+"LastUpdated" = "最后更新:";
+"UsePowerSaverMode" = "使用省电模式";
+"TTisDeactivated" = "合力追踪已经停用";
+
+// Reonboarding
+"iPhoneUsersBackgroundWorks" = "iPhone用户 - 您的应用程序如今可在后端运行!";
+"iPhoneUsersBackgroundBold" = "后端";
+"WhatYouNeedToDo" = "请您开启蓝牙功能，让此应用程序在手机后台运行。请勿滑动关闭应用程序。";
+"WhatYouNeedToDoBold" = "让此应用程序在手机后台运行。";
+"MoreLanguages" = "更多语言 — বাংলা, ဗမာ, 中文, हिन्दी, Melayu, தமிழ், ไทย";
+"Languages" = "语言";
+"NewLook" = "新界面设计 — 从蓝色到红色";
+"NewLookBold" = "新界面设计";
+"ScanAndGo" = "扫描SafeEntry QR码即可，无须再输入资料！";
+"ScanAndGoBold" = "扫描";
+"CheckIn" = "登入";
+"PersonalMedicalInformation" = "身份验证，让您可以通过合力追踪接收和冠状病毒有关的个人医疗信息";
+"IDVerification" = "身份验证";
+"OKExclam" = "完成！";
+
+//Passport reonboarding
+"IfYouHaveOneofTheFollowing" = "如果您持有以下任何一个证件：
+<ls:4><fs:14>
+ • NRIC / 新加坡出生证明号码
+ • FIN (工作准证)
+ • FIN (家属准证)
+ • FIN (学生准证)
+ • FIN (长期探访准证)
+</fs></ls>
+应用程序将依据您的 NRIC/FIN 检索您的冠病检测报告。<b>请使用您的 NRIC/FIN 再次注册登记。</b>";
+
+"IfYourProfileFalls" = "<ls:16>如果您：<fs:14></ls>
+<ls:4>
+ • 在新加坡短期旅游
+ • 有外交职责
+ • 是特别准证（Special Pass）持有者
+ • 其他</fs>
+</ls>
+应用程序将依据您的护照资料检索您的冠病检测报告。<b>请确保您使用入境时的护照资料再次注册登记。</b>";
+
+// Bluetooth
+"GoToSettingsTurnOnBluetooth" = "在“设置”或“控制中心”开启您手机的蓝牙。 \n\n然后回到此应用程序。";
+"Settings" = "设置";
+"ControlCenter" = "控制中心";
+
+// Location
+"NumOfExchangesTraceTogetherHistory" = "%@ 蓝牙信号交换记录";
+"NumOfExchangesTraceTogetherHistorySingular" = "%@ 蓝牙信号交换记录";
+"NumOfDevicesNearby" = "附近检测到 %@ 个防疫器";
+"TapToKnowMore" = "Tap to know more";
+"NumOfExchangesToday" = "今天共有 %@ 次信息交换";
+"ChooseDate" = "Choose Date";
+"OpenTTtoKeepItRun" = "Open TraceTogether to keep it running";
+"SometimesYourPhone" = "Sometimes, your phone gets the app to take a break. Open the app so it can continue protecting you.";
+
+// Pause TT
+"PauseTraceTogether" = "暂停合力追踪";
+"TraceTogetherWillNotBeAble" = "We will not be able to help you note possible exposure to COVID-19 during this period ☹️";
+"Pause30mins" = "暂停30分钟";
+"Pause2hrs" = "暂停2小时";
+"Pause8hrs" = "暂停8小时";
+"Cancel" = "取消";
+
+// User Reg
+"NRICValidationFailed"="验证失败；检查所有红色字段";
+
+// Upload Strings
+"DidNot" = "did not";
+"DoNot" = "do not";
+"UploadCodeOnlyGivenToPplCovid19" = "代码仅提供给新冠病毒病的患者。 \n\n若您未获取来自卫生部的上传代码，则无需上传数据 :)";
+"IfYouDidNotGetUploadCode" = "若您未获取来自卫生部的上传代码，则无需上传数据 :)";
+"UploadFailedPlsTryAgainLater" = "上传失败。请稍后再试。";
+"AppVersion" = "应用程序版本 %@";
+"NoUploadCode" = "没有上传代码?";
+
+//Safe Entry
+"SafeEntry" = "SafeEntry";
+"seMsg1" = "您过去14天不曾与COVID-19确诊病例密切接触 *#";
+"seMsg2" = "您目前无须履行隔离令或居家通知 *";
+"seMsg3" = "您没有出现发烧或类似流感的症状 *";
+"seMsg4" = "您同意相关条款及允许当局收集和使用您的资料，以进行COVID-19追查工作";
+"Retry" = "请重试";
+"UnableToCheckIn" = "无法登记入场";
+"UnableToCheckOut" = "无法登记离场";
+"NetworkIssue" = "网络连接似乎出现了问题，请检查网络连接并重试。";
+"ThereSeemsNetworkIssue" = "网络连接似乎出现了问题";
+"CheckConnectionTryAgain" = "请检查网络连接并重试。";
+
+"BackToHome" = "返回首页";
+"NotASafeEntryQRCodeTitle" = "这不像是SafeEntry QR码。";
+"NotASafeEntryQRCodeMessage" = "请确认您正在扫描有效的SafeEntry QR码。";
+"ScanAgain" = "请重新扫描";
+"SafeEntryTemporarilyUnavailableTitle" = "暂时无法使用 SafeEntry QR 应用程序";
+"SafeEntryOtherMethodsMessage" = "请考虑使用其他方式登记入场。";
+
+"IdScanMessage" = "不妨扫描电子条码！\n 请注意，旧式扫描仪可能无法从手机读取条码信息。";
+"MissingUserID" = "We found a small bug 🐛";
+"StartOver" = "Please enter your details and try again.";
+"TTOnlyErrorTitle" = "Oops! This venue does not allow Group check in. ";
+"TTOnlyErrorMessage" = "Your family needs to check in with their own TraceTogether device. This ensures that all visitors have TraceTogether activated, to better protect you in crowded places.";
+"OKCheckInForMyself" = "OK, Check in for myself";
+"ProceedWithReRegistration" = "是否继续再次登记注册？";
+"EnsureYouHaveFollowing" = "请确保您有以下的其中一个证件：
+NRIC,
+FIN (工作准证),
+FIN (家属准证),
+FIN (学生准证), or
+FIN (长期探访准证).
+
+您将使用您的 NRIC/FIN 设置新的个人资料。 Your previous app data will be erased. ";
+"SettingNewProfileErasingPreviousAppData" = "You'll be setting up a new profile. Your previous app data will be erased. Do NOT proceed if you are a traveller who left Singapore within the last 14 days.";
+"NumOfPax" = "Number of Pax checked in =";
+"TapToCheckIn" = "Tap to check in to ";
+"ScanQRCode" = "扫描SafeEntry QR码。";
+"OnlyProceedIfInSingapore" = "Only proceed if you're currently in Singapore. Proceeding will set up a new profile upon registration, and your previous app data will be erased.";
+
+//History
+"DataKeptSecure" = "您的历史记录显示您的以及其他<b>“合力追踪”用户的蓝牙信号交换记录</b>以及使用“合力追踪”应用程序扫描 <b>SafeEntry 码登记或登出</b>的活动记录。";
+"New" = "新";
+"NoCheckOut" = "无登记离开记录";
+"CovidVisited" = "2019冠病确诊病患曾到过";
+"LocationPostalCode" = "地点是根据邮编匹配的。";
+
+"NoInternetConnectToSeeSEStatus" = "No internet connection. Connect to see your COVID-19 Possible Exposure status.";
+"ExposureCheckTemporarilyUnavailable" = "Your COVID-19 Possible Exposure status is temporarily unavailable. We’re working hard to fix it 💪🏽";
+"NoCheckIn" = "No check in";
+"TryAgainLater" = "We’re working hard to fix it 💪🏽";
+"NoInternetConnection" = "No internet connection.";
+"ConnectToSeeCovid19Exposures" = "Connect to see your COVID-19 Possible Exposure status.";
+"ExposureCheckTemporarilyUnavailableShort" = "COVID-19 Possible Exposure Check is temporarily unavailable.";
+"AddFav" = "Add this place to your favourites";
+"RemoveFav" = "Remove this place from your favourites";
+"To" = "To";
+"CheckInTime" = "CheckInTime";
+"CheckOutTime" = "CheckOutTime";
+"Close" = "关闭";
+
+//Settings
+"Others" = "其他";
+"YourProfile" = "您的个人档案";
+"Help" = "协助";
+"ReportVuln" = "报告漏洞";
+"Account" = "账户";
+"HelpFeedback" = "帮助与反馈";
+"ManageAlerts" = "管理提示通知";
+"ChangeLanguage" = "更改语言";
+"ExposureAlerts" = "Exposure Alerts";
+"AppUpdates" = "App Updates";
+"DailyReminder" = "Daily Reminder";
+"SubmitErrorLogs" = "提交错误日志";
+"TipsAndShortcuts" = "贴士和快捷功能";
+"ExposureAlertsDescription" = "Get notified more quickly if you were nearby COVID-19 patients during their infectious period";
+"AppUpdatesDescription" = "Notify you when there are important app updates";
+"DailyReminderDescription" = "Notify you at 9am daily to turn on Bluetooth and keep app open in the background";
+"ManageFamilyMembers" = "编辑家庭成员";
+"InvalidNRICFIN" = "Invalid NRIC/FIN. Enter a valid NRIC/FIN.";
+"AddAnotherPerson" = "+ Add another person";
+"UniqueNRIC" = "This NRIC/FIN has already been added.";
+"CheckedFamilyMember" = "Checked, Family member selected";
+"UncheckedFamilyMember" = "Unchecked, Family member not selected";
+"AddFamilyMember" = "Add Family Members";
+"AddAnotherPersonForAccessibility" = "Add another person";
+"SelectAll" = "<u>Select all</u>";
+"UnselectAll" = "<u>Unselect all</u>";
+"TapToSeeDetails" = "Tap To See Details";
+"Section" = "Section";
+
+//Favourite
+"FavPlace" = "YOUR FAVOURITE PLACES";
+"SearchFav" = "Search from list below";
+"SavLocToFav" = "将这个地点存入至“我的最爱”列表中";
+"SavLocToFavUnderline" = "这个地点存入";
+"LocSavedToFav" = "这个地点已记录在“我的最爱”列表中";
+
+"Back" = "背面";
+"CheckboxSelected" = "Agree to Terms and Conditions Checkbox checked";
+"CheckboxNotSelected" = "Agree to Terms and Conditions Checkbox unchecked";
+"Close" = "Close";
+
+"TapToCloseDetails" = "Tap To close Details";
+"TapToSeeDetails" = "Tap To See Details";
+
+"UPDATE" = "更新";
+"NewVersionAvailableTitle" = "有新版本可用";
+"NewVersionAvailableMessage" = "为了能更好地为您服务 ，我们已改进 TraceTogether 应用程序。请立即更新！";
+"UpdateAppNowTitle" = "立即更新您的应用程序";
+"UpdateAppNowMessage" = "应用程序已有了重要变更。请下载更新，以继续使用 TraceTogether 应用程序。";
+"RemindMeAgain" = "下次提醒";

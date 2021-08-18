@@ -1,0 +1,334 @@
+/* 
+  Localizable.strings
+  OpenTraceTogether
+*/
+
+// Test String
+"TapLetter" = "Tap letter to open";
+"TapToChangeLanguage" = "Tap to change language to any one of the following";
+
+// Common
+"TemporarilyUnavailable" = "Temporarily unavailable";
+"TemporarilyUnavailableMessage" = "We’re really sorry. Let us take a look. Please try again later.";
+"CheckYourConnection" = "Check your connection";
+"CheckYourConnectionMessage" = "Don’t worry, it’s just the internet. Connect and try again.";
+"PleaseTryAgainLater" = "Please try again later.";
+"TooManyTries" = "There were too many error tries.";
+
+// InputAccessoryView
+"Done" = "Done";
+"Prev" = "Prev";
+"Next" = "Next";
+
+// HelpsYouRecall
+"TraceTogetherLogoLabel" = "TraceTogether";
+"HelpsYouRecallLabel1" = "Helps you remember where you went and who you were with in the past few weeks.";
+"HelpsYouRecallBoldLabel1" = "Helps you remember";
+"HelpsYouRecallLabel2" = "Notifies you quickly if you’ve been exposed to COVID-19, to protect you and your loved ones.";
+"HelpsYouRecallBoldLabel2" = "Notifies you quickly";
+
+// HowItWorks
+"DataUseInfo" = "Your app data is <b>stored securely on your phone.</b> If you test positive for COVID-19, the Ministry of Health (MOH) will approach you to upload the data, for the purpose of contact tracing*.\n\nData stored on your phone for longer than 25 days is automatically deleted.";
+
+// OTP
+"EnterOTPSent" = "Enter the one-time pin (OTP) sent to %@.";
+"WrongNumber" = "Wrong number?";
+"ResendOTP" = "Resend OTP";
+"ResendCountdown" = "Resend %@s";
+"ContactYou" = "MOH will use this number to contact you if you had possible exposure to COVID-19.";
+"EnterPhoneNumber" = "Enter your mobile number here";
+"TapToChangeCountryCode" = "Selected Country code is %@. Tap to change country code";
+
+// Help Modal
+"HelpModalDetailsMainText" = "Your unique identification number allows MOH to reach the right person when they need to give you important health advice about COVID-19.";
+"HelpModalDetailsMainBoldText" = "reach the right person";
+
+// Profile Selection
+"NRIC" = "Singaporean/PR (all ages)";
+"FINWorkPass" = "FIN — Work Pass";
+"FINDepPass" = "FIN — Dependent’s Pass";
+"FINStudPass" = "FIN — Student’s Pass";
+"FINLTVP" = "FIN — LTVP";
+"VisitSG" = "I'm Visiting Singapore";
+"PassportVerified" = "Verified with Singapore’s immigration";
+
+"NRICDesc" = "Please have your NRIC or Birth Cert No. ready :)";
+"FINWorkPassDesc" = "Please have your Work Pass ready :)";
+"FINDepPassDesc" = "Please have your Dependent’s Pass ready :)";
+"FINStudPassDesc" = "Please have your Student’s Pass ready :)";
+"FINLTVPDesc" = "Please have your Long Term Visit Pass ready :)";
+"VisitSGDesc" = "Please use the Passport that you'll enter Singapore with :)";
+
+// Registration Form
+"Name" = "Name";
+"NricBirthCert" = "NRIC / Birth Cert No.";
+"DateOfBirth" = "Date of Birth";
+"DateOfBirthForPassportUsers" = "Date of Birth (as per Passport)";
+"DateOfIssue" = "Date of Issue";
+"FINString" = "Foreign Identification Number (FIN)";
+"cardSerialNumber" = "Card Serial Number";
+"passportNumber" = "Passport Number";
+"DateOfExpiry" = "Date of Expiry";
+"MobileNumber" = "Mobile Number";
+"Nationality" = "Nationality";
+"HowToFind" = "How to Find?";
+"InvalidDate" = "Invalid Date";
+"InvalidName" = "Invalid Name";
+"InvalidFin" = "Invalid FIN";
+"InvalidNRIC" = "Invalid NRIC";
+"InvalidPassportFormat" = "Invalid Passport format";
+"OwnFINCard" = "Do you have a physical FIN card?";
+"DateOfApplication" = "Date of Application for your FIN card";
+"Yes" = "Yes";
+"No" = "No";
+"NRICDetailsTitle" = "Your NRIC details";
+"FinWPDetailsTitle" = "Your FIN-WP details";
+"FinDPDetailsTitle" = "Your FIN-DP details";
+"FinSTPDetailsTitle" = "Your FIN-STP details";
+"FinLTVPDetailsTitle" = "Your FIN-LTVP details";
+"PassportDetailsTitle" = "Your Passport details";
+"PassportDetailsInfo" = "Use the Passport that you’ll enter Singapore with. Details below will be matched with Singapore’s immigration.";
+"PassportInvalidTitle" = "Singapore’s immigration does not have your Passport details";
+"PassportInvalidDetails" = "You can only activate your app after clearing Singapore’s immigration. Also, check if you’ve entered the correct details into the app.";
+"RegisterWithFINTitle" = "Please re-register with your FIN";
+"RegisterWithFINMessage" = "This allows MOH to send you COVID test results accurately. Your personal details are never shared with other devices.";
+"TapBackAndSelectFIN" = "Please tap back and select a FIN profile";
+"TapBackAndSelectNRIC" = "Please tap back and select the Singaporean profile";
+
+// Registration Modals
+"backOfNRIC" = "At the back of your NRIC";
+"backOfNRICUnderline" = "back";
+"frontOfFIN"= "Front";
+"backOfFIN"= "Back";
+"checkBackOfWorkPass" = "Check the back of your card for Date of Issue";
+"checkBackOfLTVP" = "Long Term Visit Pass";
+
+// Note strings
+"noteNS" = "For National Servicemen, please approach your Unit Chief Clerk for the Date of Issue stated at the back of your NRIC.";
+"noteMinor" = "NRIC Date of Issue is not required for people below 17 years old.";
+
+// AllowPerms StoryBoard
+"PleaseNoteDetails" = "Remember to keep Bluetooth on, and keep your app open in the background (yes, we can work in iOS background now!)";
+"PleaseNoteBold1Details" = "keep Bluetooth on";
+"PleaseNoteBold2Details" = "keep your app open in the background";
+"AppIsWorkingHeader" = "Your app is working now!";
+"AppActiveHeader" = "Your app is now activated!";
+
+// Home Screen and Storyboard
+"SgFlag" = "A safe new normal, together 🇸🇬";
+"ShareThisApp" = "Share this app";
+"SafeEntryCheckInHome" = "SafeEntry check in";
+"PauseTraceTogether" = "Pause TraceTogether";
+"ShareApp" = "Join us in stopping the spread of COVID-19. Download TraceTogether, an app by MOH and GovTech. \nGo to: https://tracetogether.gov.sg";
+"PleaseKeepAppFor" = "Please keep the app for <b>14 days</b> <u>after</u> you leave Singapore.
+
+This allows Singapore’s Ministry of Health to notify you if you had close contact with a COVID-19 case, to better protect you and your loved ones.
+
+When you’re in Singapore, remember to <b>keep your app open in the background</b> and <b>keep Bluetooth on.</b> Safe travels!";
+
+
+// Legacy
+"InvalidOTP" = "Must be a 6-digit code";
+"WrongOTP" = "Wrong OTP entered";
+"InvalidPIN" = "Invalid PIN";
+"InvalidUploadCode" = "Invalid upload code";
+
+"CodeWillExpired" = "Didn't receive SMS? Try again in %@.";
+"CodeHasExpired" = "Your code has expired.";
+
+"NotAValidCode" = "Not a valid code";
+"DataUploaded" = "Data uploaded";
+"DataNotUploaded" = "Data not uploaded";
+
+// Catch missing programatic strings or attributed strings
+//"LastUpdated" = "Last Updated : %@";
+"LastUpdated" = "Last Updated :";
+"UsePowerSaverMode" = "Use power saver mode";
+"TTisDeactivated" = "TraceTogether is Deactivated";
+
+// Reonboarding
+"iPhoneUsersBackgroundWorks" = "iPhone users — your app can work in the background now!!";
+"iPhoneUsersBackgroundBold" = "background";
+"WhatYouNeedToDo" = "You need to keep your app open in the background. Do not swipe up on the app to close it.";
+"WhatYouNeedToDoBold" = "keep your app open in the background";
+"MoreLanguages" ="More languages — বাংলা, ဗမာ, 中文, हिन्दी, Melayu, தமிழ், ไทย";
+"Languages" = "languages";
+"NewLook" = "New look — from blue to red";
+"NewLookBold" = "New look";
+"ScanAndGo" = "Scan and go with SafeEntry QR code — no more forms";
+"ScanAndGoBold" = "Scan and go";
+"CheckIn" = "check-in";
+"PersonalMedicalInformation" = "ID verification — so MOH can reach you accurately and quickly for contact tracing";
+"IDVerification" = "ID verification";
+"OKExclam" = "OK!";
+
+//Passport reonboarding
+"IfYouHaveOneofTheFollowing" = "If you have one of the following:
+<ls:4><fs:14>
+ • NRIC / Singapore Birth Cert No.
+ • FIN (Work Pass)
+ • FIN (Dependent’s Pass)
+ • FIN (Student’s Pass)
+ • FIN (Long Term Visit Pass)
+</fs></ls>
+COVID test results are matched by NRIC/FIN. <b>Please re-register with your NRIC/FIN.</b>";
+
+"IfYourProfileFalls" = "<ls:16>If your profile falls under the following:<fs:14></ls>
+<ls:4>
+ • Short-term travel to Singapore
+ • Diplomatic duties
+ • Special Pass holder
+ • Others</fs>
+</ls>
+COVID test results are matched by Passport details. <b>Please ensure that you re-register using the passport that you entered Singapore with.</b>";
+
+// Bluetooth
+"GoToSettingsTurnOnBluetooth" = "Go to Settings or Control Center and turn on your phone’s Bluetooth. \n\nThen come back to the app.";
+"Settings" = "Settings";
+"ControlCenter" = "Control Center";
+
+// Location
+"NumOfExchangesTraceTogetherHistory" = "%@ Bluetooth exchanges";
+"NumOfExchangesTraceTogetherHistorySingular" = "%@ Bluetooth exchange";
+"NumOfDevicesNearby" = "%@ TraceTogether devices nearby";
+"TapToKnowMore" = "Tap to know more";
+"NumOfExchangesToday" = "%@ total exchanges today";
+"ChooseDate" = "Choose Date";
+"OpenTTtoKeepItRun" = "Open TraceTogether to keep it running";
+"SometimesYourPhone" = "Sometimes, your phone gets the app to take a break. Open the app so it can continue protecting you.";
+
+// Pause TT
+"PauseTraceTogether" = "Pause TraceTogether";
+"TraceTogetherWillNotBeAble" = "We will not be able to help you note possible exposure to COVID-19 during this period ☹️";
+"Pause30mins" = "Pause for 30 minutes";
+"Pause2hrs" = "Pause for 2 hours";
+"Pause8hrs" = "Pause for 8 hours";
+"Cancel" = "Cancel";
+
+// User Reg
+"NRICValidationFailed"="Validation failed, check all fields in red";
+
+// Upload Strings
+"DidNot" = "did not";
+"DoNot" = "do not";
+"UploadCodeOnlyGivenToPplCovid19" = "An upload code is only given to patients with COVID-19.\n\nIf you did not get an upload code from MOH, you do not need to upload data :)";
+"IfYouDidNotGetUploadCode" = "If you did not get an upload code from MOH, you do not need to upload data :)";
+"UploadFailedPlsTryAgainLater" = "Upload failed. Please try again later.";
+"AppVersion" = "App Version %@";
+"NoUploadCode" = "No upload code?";
+
+//Safe Entry
+"SafeEntry" = "SafeEntry";
+"seMsg1" = "You have no close contact with a confirmed COVID-19 case in the past 14 days *#";
+"seMsg2" = "You're not currently under a Quarantine Order or Stay-Home Notice *";
+"seMsg3" = "You have no fever or flu-like symptoms *";
+"seMsg4" = "You agree to the terms and consent to the collection/use of your information for COVID-19 contact tracing";
+"Retry" = "Retry";
+"UnableToCheckIn" = "Unable to check in";
+"UnableToCheckOut" = "Unable to check out";
+"NetworkIssue" = "There seems to be a network issue. Check your connection and try again.";
+"ThereSeemsNetworkIssue" = "There seems to be a network issue.";
+"CheckConnectionTryAgain" = "Check your connection and try again";
+
+"BackToHome" = "BACK TO HOME";
+"NotASafeEntryQRCodeTitle" = "This doesn't seem like a SafeEntry QR code";
+"NotASafeEntryQRCodeMessage" = "Ensure you are scanning a valid SafeEntry QR code.";
+"ScanAgain" = "Scan again";
+"SafeEntryTemporarilyUnavailableTitle" = "SafeEntry QR is temporarily unavailable";
+"SafeEntryOtherMethodsMessage" = "Consider using other methods to check in/out";
+
+"IdScanMessage" = "Use your digital barcode instead!\nDo note that older scanners may not read barcodes from phone.";
+"MissingUserID" = "We found a small bug 🐛";
+"StartOver" = "Please enter your details and try again.";
+
+"TTOnlyErrorTitle" = "Oops! This venue does not allow Group check in. ";
+"TTOnlyErrorMessage" = "Your family needs to check in with their own TraceTogether device. This ensures that all visitors have TraceTogether activated, to better protect you in crowded places.";
+"OKCheckInForMyself" = "OK, Check in for myself";
+"ProceedWithReRegistration" = "Proceed with re-registration?";
+"EnsureYouHaveFollowing" = "Ensure that you have one of the following:
+NRIC,
+FIN (Work Pass),
+FIN (Dependent’s Pass),
+FIN (Student’s Pass), or
+FIN (Long Term Visit Pass).
+
+You’ll be setting up a new profile using your NRIC/FIN. Your previous app data will be erased. ";
+"SettingNewProfileErasingPreviousAppData" = "You'll be setting up a new profile. Your previous app data will be erased. Do NOT proceed if you are a traveller who left Singapore within the last 14 days.";
+"NumOfPax" = "Number of Pax checked in =";
+"TapToCheckIn" = "Tap to check in to ";
+"ScanQRCode" = "Scan the SafeEntry QR code";
+"OnlyProceedIfInSingapore" = "Only proceed if you're currently in Singapore. Proceeding will set up a new profile upon registration, and your previous app data will be erased.";
+
+//History
+"DataKeptSecure" = "Your history displays your <b>TraceTogether Bluetooth exchanges</b> with other users, and any <b>SafeEntry check-in/out</b> done using the TraceTogether app.";
+
+"New" = "NEW";
+"NoCheckOut" = "No check out";
+"CovidVisited" = "A COVID-19 case visited";
+"LocationPostalCode" = "Locations are matched by postal code.";
+
+"NoInternetConnectToSeeSEStatus" = "No internet connection. Connect to see your COVID-19 Possible Exposure status.";
+"ExposureCheckTemporarilyUnavailable" = "Your COVID-19 Possible Exposure status is temporarily unavailable. We’re working hard to fix it 💪🏽";
+"NoCheckIn" = "No check in";
+"TryAgainLater" = "We’re working hard to fix it 💪🏽";
+"NoInternetConnection" = "No internet connection.";
+"ConnectToSeeCovid19Exposures" = "Connect to see your COVID-19 Possible Exposure status.";
+"ExposureCheckTemporarilyUnavailableShort" = "COVID-19 Possible Exposure Check is temporarily unavailable.";
+"AddFav" = "Add this place to your favourites";
+"RemoveFav" = "Remove this place from your favourites";
+"To" = "To";
+"CheckInTime" = "CheckInTime";
+"CheckOutTime" = "CheckOutTime";
+"Close" = "Close";
+
+//Settings
+"Others" = "Others";
+"YourProfile" = "Your Profile";
+"Help" = "Help";
+"ReportVuln" = "Report Vulnerability";
+"Account" = "Account";
+"HelpFeedback" = "Help & Feedback";
+"ManageAlerts" = "Manage Alerts";
+"ChangeLanguage" = "Change Language";
+"ExposureAlerts" = "Exposure Alerts";
+"AppUpdates" = "App Updates";
+"DailyReminder" = "Daily Reminder";
+"SubmitErrorLogs" = "Submit Error Logs";
+"TipsAndShortcuts" = "Tips and Shortcuts";
+"ExposureAlertsDescription" = "Get notified more quickly if you were nearby COVID-19 patients during their infectious period";
+"AppUpdatesDescription" = "Notify you when there are important app updates";
+"DailyReminderDescription" = "Notify you at 9am daily to turn on Bluetooth and keep app open in the background";
+"ManageFamilyMembers" = "Manage Family Members";
+"InvalidNRICFIN" = "Invalid NRIC/FIN. Enter a valid NRIC/FIN.";
+"AddAnotherPerson" = "+ Add another person";
+"UniqueNRIC" = "This NRIC/FIN has already been added.";
+"CheckedFamilyMember" = "Checked, Family member selected";
+"UncheckedFamilyMember" = "Unchecked, Family member not selected";
+"AddFamilyMember" = "Add Family Members";
+"AddAnotherPersonForAccessibility" = "Add another person";
+"SelectAll" = "<u>Select all</u>";
+"UnselectAll" = "<u>Unselect all</u>";
+"TapToSeeDetails" = "Tap To See Details";
+"Section" = "Section";
+
+//Favourite
+"FavPlace" = "YOUR FAVOURITE PLACES";
+"SearchFav" = "Search from list below";
+"SavLocToFav" = "Save this location to Favourites";
+"SavLocToFavUnderline" = "Save this location";
+"LocSavedToFav" = "This location is in your Favourites";
+
+"Back" = "Back";
+"CheckboxSelected" = "Agree to Terms and Conditions Checkbox checked";
+"CheckboxNotSelected" = "Agree to Terms and Conditions Checkbox unchecked";
+"Close" = "Close";
+
+"TapToCloseDetails" = "Tap To close Details";
+"TapToSeeDetails" = "Tap To See Details";
+
+"UPDATE" = "UPDATE";
+"NewVersionAvailableTitle" = "New version available";
+"NewVersionAvailableMessage" = "We’ve improved TraceTogether to serve you better! Update it now.";
+"UpdateAppNowTitle" = "Update app now";
+"UpdateAppNowMessage" = "We’ve made important changes, and you need to update the app to continue using TraceTogether.";
+"RemindMeAgain" = "Remind me again";

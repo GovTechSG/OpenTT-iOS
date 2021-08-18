@@ -1,0 +1,33 @@
+
+/* Class = "UIButton"; normalTitle = "ALLOW"; ObjectID = "2zt-v1-hhA"; */
+"2zt-v1-hhA.normalTitle" = "ALLOW";
+
+/* Class = "UILabel"; text = "Last step:  Turn on Bluetooth"; ObjectID = "6U7-js-wgl"; */
+"6U7-js-wgl.text" = "Last step:  Turn on Bluetooth";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "DCS-Dz-ub4"; */
+"DCS-Dz-ub4.normalTitle" = "NEXT";
+
+/* Class = "UILabel"; text = "All Bluetooth data stored on your phone for longer than 25 days will be automatically deleted."; ObjectID = "Eu2-mM-gWa"; */
+"Eu2-mM-gWa.text" = "All Bluetooth data stored on your phone for longer than 25 days will be automatically deleted.";
+
+/* Class = "UILabel"; text = "To help you note possible exposure to COVID-19, your phone needs Bluetooth"; ObjectID = "TIl-OJ-p6N"; */
+"TIl-OJ-p6N.text" = "To help you note possible exposure to COVID-19, your app needs these permissions";
+
+/* Class = "UIButton"; normalTitle = "GOT IT, WILL DO!"; ObjectID = "YK3-Ii-6rR"; */
+"YK3-Ii-6rR.normalTitle" = "YES!!";
+
+/* Class = "UIButton"; normalTitle = "ALLOW"; ObjectID = "dbs-LN-AKi"; */
+"dbs-LN-AKi.normalTitle" = "ALLOW";
+
+/* Class = "UILabel"; text = "Motion and Fitness Activity"; ObjectID = "eGx-S4-06X"; */
+"eGx-S4-06X.text" = "Motion and Fitness Activity";
+
+/* Class = "UILabel"; text = "Go to Settings or Control Center and turn on your phone’s Bluetooth. \n\nThen come back to the app."; ObjectID = "jzQ-wJ-Ece"; */
+"jzQ-wJ-Ece.text" = "Go to Settings or Control Center and turn on your phone’s Bluetooth. \n\nThen come back to the app.";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "tvm-f1-bLa"; */
+"tvm-f1-bLa.text" = "Notification";
+
+/* Class = "UILabel"; text = "Bluetooth"; ObjectID = "xyh-Ya-fb1"; */
+"xyh-Ya-fb1.text" = "Bluetooth";

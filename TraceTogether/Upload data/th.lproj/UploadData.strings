@@ -1,0 +1,60 @@
+
+/* Class = "UINavigationController"; title = "Upload"; ObjectID = "0zG-EN-pX5"; */
+"0zG-EN-pX5.title" = "อัปโหลด";
+
+/* Class = "UIButton"; normalTitle = "UPLOAD DATA"; ObjectID = "24k-o7-Lgs"; */
+"24k-o7-Lgs.normalTitle" = "อัปโหลดข้อมูล";
+
+/* Class = "UINavigationItem"; title = "Upload Data"; ObjectID = "76Q-Ls-vsz"; */
+"76Q-Ls-vsz.title" = "อัปโหลดข้อมูล";
+
+/* Class = "UILabel"; text = "Upload completed"; ObjectID = "8eG-fq-VJ4"; */
+"8eG-fq-VJ4.text" = "อัปโหลดเสร็จสมบูรณ์";
+
+/* Class = "UINavigationItem"; title = "Upload Data"; ObjectID = "9vc-Zh-P5M"; */
+"9vc-Zh-P5M.title" = "อัปโหลดข้อมูล";
+
+/* Class = "UILabel"; text = "Enter your upload code"; ObjectID = "BnB-UV-g2N"; */
+"BnB-UV-g2N.text" = "ป้อนรหัสการอัปโหลด";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "E0U-am-cAz"; */
+"E0U-am-cAz.title" = "ย้อนกลับ";
+
+/* Class = "UILabel"; text = "Invalid upload code"; ObjectID = "Ew3-er-D6f"; */
+"Ew3-er-D6f.text" = "รหัสการอัปโหลดไม่ถูกต้อง";
+
+/* Class = "UIButton"; normalTitle = "No upload code?"; ObjectID = "Gd0-Fn-yIf"; */
+"Gd0-Fn-yIf.normalTitle" = "<u>ไม่มีรหัสการอัปโหลดใช่หรือไม่</u>";
+
+/* Class = "UIButton"; normalTitle = "ENTER UPLOAD CODE"; ObjectID = "IDr-rd-rlV"; */
+"IDr-rd-rlV.normalTitle" = "ป้อนรหัสการอัปโหลด";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "Oci-OJ-azB"; */
+"Oci-OJ-azB.title" = "ย้อนกลับ";
+
+/* Class = "UILabel"; text = "An upload code is only given to patients with COVID-19. \n\nIf you did not get an upload code from MOH, you do not need to upload data :)"; ObjectID = "T3h-Jn-b4B"; */
+"T3h-Jn-b4B.text" = "รหัสการอัปโหลดจะมอบให้ผู้ป่วยโรค COVID-19 เท่านั้น\n\nหากคุณยังไม่ได้รับรหัสการอัปโหลดจาก MOH คุณไม่จำเป็นต้องอัปโหลดข้อมูล :)";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "T6n-4J-job"; */
+"T6n-4J-job.title" = "ย้อนกลับ";
+
+/* Class = "UITabBarItem"; title = "Upload"; ObjectID = "Y1B-Ag-Xtw"; */
+"Y1B-Ag-Xtw.title" = "อัปโหลด";
+
+/* Class = "UILabel"; text = "Please take care. Get well soon! 🌻"; ObjectID = "clG-lZ-P8y"; */
+"clG-lZ-P8y.text" = "ดูแลตัวเองดี ๆ และขอให้หายเร็ว ๆ 🌻";
+
+/* Class = "UITextField"; placeholder = "Enter upload code"; ObjectID = "eGt-w4-tSm"; */
+"eGt-w4-tSm.placeholder" = "ป้อนรหัสการอัปโหลด";
+
+/* Class = "UILabel"; text = "By uploading, you agree to share with MOH 25 days of your app data to help with contact tracing."; ObjectID = "hmp-y3-Mr6"; */
+"hmp-y3-Mr6.text" = "เมื่อคุณอัปโหลดข้อมูล คุณตกลงว่าจะเปิดเผยข้อมูลในแอป 25 วันให้ MOH ทราบ เพื่อช่วยในการติดตามการสัมผัสเชื้อ";
+
+/* Class = "UIButton"; normalTitle = "BACK TO HOME"; ObjectID = "nC1-Z2-6rf"; */
+"nC1-Z2-6rf.normalTitle" = "กลับไปหน้าหลัก";
+
+/* Class = "UINavigationItem"; title = "Upload Data"; ObjectID = "qbp-3n-hQN"; */
+"qbp-3n-hQN.title" = "อัปโหลดข้อมูล";
+
+/* Class = "UIViewController"; title = "Upload"; ObjectID = "sro-IG-RPf"; */
+"sro-IG-RPf.title" = "อัปโหลด";

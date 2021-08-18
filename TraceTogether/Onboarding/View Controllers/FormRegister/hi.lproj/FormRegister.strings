@@ -1,0 +1,20 @@
+/* Class = "UILabel"; text = "{{title}}"; ObjectID = "yNR-Qd-n1V"; */
+"yNR-Qd-n1V.text" = "अपनी प्रोफाइल पूरी कीजिए";
+
+/* Class = "UIButton"; normalTitle = "{{howtofind}}"; ObjectID = "ifZ-Zq-n4L"; */
+"ifZ-Zq-n4L.normalTitle" = "<u>कैसे पता करें?</u>";
+
+/* Class = "UITextView"; text = "{{consent}}"; ObjectID = "bLq-9Q-Jyf"; */
+"bLq-9Q-Jyf.text" = "आपके द्वारा प्रदान किए गए विवरण सही है। यदि COVID-19 के लिए आपकी जांच पॉजिटिव पाई जाती है तो आपके संपर्क ट्रेसिंग के एकमात्र उद्देश्य के लिए, आप हमारी <a:terms>उपयोग की शर्तों</a>, <a:privacy>गोपनीयता विवरणों</a> और आपके डेटा को MOH के साथ शेयर करने हेतु सहमत हैं।";
+
+/* Class = "UIButton"; normalTitle = "{{next}}"; ObjectID = "yBR-dE-IrK"; */
+"yBR-dE-IrK.normalTitle" = "आगे बढ़े";
+
+/* Class = "UIBarButtonItem"; title = "{{prev}}"; ObjectID = "y6F-RH-RPR"; */
+"y6F-RH-RPR.title" = "पिछला फील्ड";
+
+/* Class = "UIBarButtonItem"; title = "{{next}}"; ObjectID = "ceE-XH-Nb9"; */
+"ceE-XH-Nb9.title" = "अगला फील्ड";
+
+/* Class = "UIBarButtonItem"; title = "{{done}}"; ObjectID = "Uj3-DS-ZiO"; */
+"Uj3-DS-ZiO.title" = "काम पूरा हुआ";

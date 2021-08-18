@@ -1,0 +1,20 @@
+how_it_works_qn: How does VirusGoWhere work?
+how_it_works_ans: The app uses Bluetooth - when your phone’s Bluetooth ID was near another phone’s Bluetooth ID - to identify if and when you were near confirmed cases of coronavirus in Singapore during a pandemic.
+what_happens_qn: What happens if I was near a confirmed case?
+what_happens_ans: The Ministry of Health will call you, using the mobile number you registered. We will also send them your app data for the last 21 days from the date of contact with the confirmed case.
+how_long_qn: How long should I keep the app?
+how_long_ans: Please keep it installed with full app permissions until the pandemic is over. We will delete your app data when the coronavirus is no longer a threat.
+travel_ovs_qn: What happens when I travel overseas?
+travel_ovs_ans: Please keep the app running with full app permissions, so it can continue to work smoothly when you return to Singapore.
+batt_usage_qn: I have an Android phone. Why do I need to stop optimizing battery usage?
+batt_usage_ans: This setting prevents apps from running in the background, and may create lapses in the Bluetooth data that VirusGoWhere collects.
+data_storage_qn: How is my app data stored?
+data_storage_ans: Locally in your phone in an unidentifiable format. Your data will never be accessed unless you are near a confirmed case. 
+who_built_qn: Who built VirusGoWhere?
+who_built_ans: This is a partnership between the Government Technology Agency (GovTech) and the Ministry of Health.
+issues_qn: What should I do if I’m facing issues with my app?
+issues_ans: Please email support@xxx.gov.sg.
+latest_update_qn: How can I get the latest government updates on the Novel Coronavirus?
+latest_update_ans: Sign up for Gov.sg WhatsApp notifications or check the Ministry of Health webpage on the coronavirus.
+
+

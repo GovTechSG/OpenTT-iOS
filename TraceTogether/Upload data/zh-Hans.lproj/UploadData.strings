@@ -1,0 +1,60 @@
+
+/* Class = "UINavigationController"; title = "Upload"; ObjectID = "0zG-EN-pX5"; */
+"0zG-EN-pX5.title" = "上载";
+
+/* Class = "UIButton"; normalTitle = "UPLOAD DATA"; ObjectID = "24k-o7-Lgs"; */
+"24k-o7-Lgs.normalTitle" = "上载数据";
+
+/* Class = "UINavigationItem"; title = "Upload Data"; ObjectID = "76Q-Ls-vsz"; */
+"76Q-Ls-vsz.title" = "上载数据";
+
+/* Class = "UILabel"; text = "Upload completed"; ObjectID = "8eG-fq-VJ4"; */
+"8eG-fq-VJ4.text" = "上传已完成";
+
+/* Class = "UINavigationItem"; title = "Upload Data"; ObjectID = "9vc-Zh-P5M"; */
+"9vc-Zh-P5M.title" = "上载数据";
+
+/* Class = "UILabel"; text = "Enter your upload code"; ObjectID = "BnB-UV-g2N"; */
+"BnB-UV-g2N.text" = "输入您的上传代码";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "E0U-am-cAz"; */
+"E0U-am-cAz.title" = "返回";
+
+/* Class = "UILabel"; text = "Invalid upload code"; ObjectID = "Ew3-er-D6f"; */
+"Ew3-er-D6f.text" = "无效的上传代码";
+
+/* Class = "UIButton"; normalTitle = "No upload code?"; ObjectID = "Gd0-Fn-yIf"; */
+"Gd0-Fn-yIf.normalTitle" = "<u>没有上传代码?</u>";
+
+/* Class = "UIButton"; normalTitle = "ENTER UPLOAD CODE"; ObjectID = "IDr-rd-rlV"; */
+"IDr-rd-rlV.normalTitle" = "输入上传代码";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "Oci-OJ-azB"; */
+"Oci-OJ-azB.title" = "返回";
+
+/* Class = "UILabel"; text = "An upload code is only given to patients with COVID-19. \n\nIf you did not get an upload code from MOH, you do not need to upload data :)"; ObjectID = "T3h-Jn-b4B"; */
+"T3h-Jn-b4B.text" = "代码仅提供给新冠病毒病的患者。\n\n若您未获取来自卫生部的上传代码，则无需上传数据：) ";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "T6n-4J-job"; */
+"T6n-4J-job.title" = "返回";
+
+/* Class = "UITabBarItem"; title = "Upload"; ObjectID = "Y1B-Ag-Xtw"; */
+"Y1B-Ag-Xtw.title" = "上载";
+
+/* Class = "UILabel"; text = "Please take care. Get well soon! 🌻"; ObjectID = "clG-lZ-P8y"; */
+"clG-lZ-P8y.text" = "请多保重。尽快好起来！🌻";
+
+/* Class = "UITextField"; placeholder = "Enter upload code"; ObjectID = "eGt-w4-tSm"; */
+"eGt-w4-tSm.placeholder" = "输入上传代码";
+
+/* Class = "UILabel"; text = "By uploading, you agree to share with MOH 25 days of your app data to help with contact tracing."; ObjectID = "hmp-y3-Mr6"; */
+"hmp-y3-Mr6.text" = "上传即表示您同意与卫生部分享25天的应用程序数据，以帮助进行接触者追踪。";
+
+/* Class = "UIButton"; normalTitle = "BACK TO HOME"; ObjectID = "nC1-Z2-6rf"; */
+"nC1-Z2-6rf.normalTitle" = "返回首页";
+
+/* Class = "UINavigationItem"; title = "Upload Data"; ObjectID = "qbp-3n-hQN"; */
+"qbp-3n-hQN.title" = "上载数据";
+
+/* Class = "UIViewController"; title = "Upload"; ObjectID = "sro-IG-RPf"; */
+"sro-IG-RPf.title" = "上载";

@@ -1,0 +1,99 @@
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "1v6-PL-zYo"; */
+"1v6-PL-zYo.text" = "தேவை";
+
+/* Class = "UILabel"; text = "To the people of Singapore, with love"; ObjectID = "5Dw-z0-wjL"; */
+"5Dw-z0-wjL.text" = "சிங்கப்பூர் மக்களுக்கு, அன்புடன்";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "68p-pV-AiD"; */
+"68p-pV-AiD.normalTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = "Resend OTP"; ObjectID = "6Rh-JE-cit"; */
+"6Rh-JE-cit.normalTitle" = "மீண்டும் அனுப்பு OTP";
+
+/* Class = "UILabel"; text = "Enter your mobile number"; ObjectID = "6U2-DI-o9Z"; */
+"6U2-DI-o9Z.text" = "உங்களுடைய கைத்தொலைபேசி எண்ணை உள்ளிடவும்";
+
+/* Class = "UILabel"; text = "Verify your mobile number"; ObjectID = "7ld-e4-bn5"; */
+"7ld-e4-bn5.text" = "உங்கள் கைத்தொலைபேசி எண்ணைச் சரிபார்க்கவும்";
+
+/* Class = "UILabel"; text = "MOH will use this number to contact you if you had possible exposure to COVID-19."; ObjectID = "91U-bo-62v"; */
+"91U-bo-62v.text" = "உங்களுக்கு கோவிட்-19 தொற்றுடன் ஏதேனும் தொடர்பிருந்தால் உங்களைத் தொடர்பு கொள்ள MOH இந்த எண்ணைப் பயன்படுத்தும்.";
+
+/* Class = "UILabel"; text = "Dear people of Singapore,"; ObjectID = "9cK-8k-rST"; */
+"9cK-8k-rST.text" = "அன்பு சிங்கை மக்களே,";
+
+/* Class = "UILabel"; text = "And the way back to normal starts with all of us, here."; ObjectID = "DEa-ZV-4qP"; */
+"DEa-ZV-4qP.text" = "பாதுகாப்பான புதியதொரு இயல்புநிலை நம் அனைவருடனும், இங்கிருந்து தொடங்குகிறது.";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "FB4-Ns-jU3"; */
+"FB4-Ns-jU3.title" = "Item";
+
+/* Class = "UILabel"; text = "Enter the one-time pin (OTP) sent to "; ObjectID = "GWc-qS-9y6"; */
+"GWc-qS-9y6.text" = "[phone number]-க்கு அனுப்பப்பட்ட ஒரு முறை கடவுச்சொல்லை (OTP) உள்ளிடவும்";
+
+/* Class = "UITabBarController"; title = "Main"; ObjectID = "JXd-F4-xFZ"; */
+"JXd-F4-xFZ.title" = "Main";
+
+/* Class = "UIButton"; normalTitle = "LET'S GO"; ObjectID = "Jr6-r5-PwZ"; */
+"Jr6-r5-PwZ.normalTitle" = "போகலாம்";
+
+/* Class = "UIButton"; normalTitle = "Wrong number?"; ObjectID = "K7X-Ux-SAc"; */
+"K7X-Ux-SAc.normalTitle" = "தவறான எண்?";
+
+/* Class = "UIButton"; normalTitle = "GET OTP"; ObjectID = "Tuw-g5-oMO"; */
+"Tuw-g5-oMO.normalTitle" = "ஒரு முறை கடவுச்சொல்லைப் பெறுங்கள்";
+
+/* Class = "UILabel"; text = "It’s about how we can help one another resume life safely."; ObjectID = "ZR9-l0-us4"; */
+"ZR9-l0-us4.text" = "நீங்கள் இதனை இன்னும் பாதுகாப்பானதாக ஆக்க முடியும். TraceTogether-ஐப் பயன்படுத்தியும், மற்றவர் அதை அமைக்க உதவியும், நீங்கள் கிருமிப் பரவலைக் கட்டுக்குள் வைத்திருந்து உங்கள் அன்பானவர்களைப் பாதுகாக்கிறீர்கள்.";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "a1b-A0-kue"; */
+"a1b-A0-kue.normalTitle" = "அடுத்தது";
+
+/* Class = "UILabel"; text = "Wrong OTP entered"; ObjectID = "aWN-Zo-GBT"; */
+"aWN-Zo-GBT.text" = "ஒரு முறை கடவுச்சொல் (OTP) தவறாக உள்ளிடப்பட்டது";
+
+/* Class = "UILabel"; text = "Data used only when needed"; ObjectID = "cR2-jD-1C4"; */
+"cR2-jD-1C4.text" = "தேவைப்படும்போது மட்டுமே விவரங்கள் பயன்படுத்தப்படும்";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "g7m-W6-BSB"; */
+"g7m-W6-BSB.normalTitle" = "பின்னால்";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "gCZ-QA-hyO"; */
+"gCZ-QA-hyO.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "gdZ-Bw-jvd"; */
+"gdZ-Bw-jvd.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "kJo-hQ-s9z"; */
+"kJo-hQ-s9z.normalTitle" = "பின்னால்";
+
+/* Class = "UIButton"; normalTitle = "VERIFY"; ObjectID = "lQY-RW-yBL"; */
+"lQY-RW-yBL.normalTitle" = "சரிபார்க்கவும்";
+
+/* Class = "UIButton"; normalTitle = "Change Language"; ObjectID = "mX1-fu-fRD"; */
+"mX1-fu-fRD.normalTitle" = "மொழியை மாற்ற";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "sXw-5t-QMM"; */
+"sXw-5t-QMM.normalTitle" = "அடுத்தது";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "sal-f1-LGG"; */
+"sal-f1-LGG.normalTitle" = "பின்னால்";
+
+/* Class = "UILabel"; text = "Tap letter to open"; ObjectID = "wga-Wh-W6B"; */
+"wga-Wh-W6B.text" = "கடிதத்தைத் திறக்க தட்டவும்";
+
+/* Class = "UILabel"; text = "We’ve had a tough year, with many sacrifices as we fight the virus. In the next phase of our fight, we want to help one another live life normally, as safely as we can. "; ObjectID = "wkG-G3-ozk"; */
+"wkG-G3-ozk.text" = "நோய்க்கிருமியுடன் உள்ள போராட்டத்தில் நாம் பல தியாகங்களைச் செய்து ஒரு கடினமான ஆண்டில் இருந்திருக்கிறோம். இந்தப் போரின் அடுத்த கட்டத்தில், முடிந்த அளவு பாதுகாப்பாக, இயல்பு வாழ்க்கை வாழ, ஒருவருக்கொருவர் உதவ விரும்புகிறோம்.";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "wwb-2h-BNJ"; */
+"wwb-2h-BNJ.title" = "அமைப்புகள்";
+
+/* Class = "UILabel"; text = "Note: This app is only intended for use in Singapore. Some overseas networks and phone numbers may not receive one-time pin (OTP) for verification. In such cases, please set up your app in Singapore, using a local SIM card."; ObjectID = "E16-RR-pAb"; */
+"E16-RR-pAb.text" = "Note: This app is only intended for use in Singapore. Some overseas networks and phone numbers may not receive one-time pin (OTP) for verification. In such cases, please set up your app in Singapore, using a local SIM card.";
+
+/* Class = "UILabel"; text = "Note: This app is only intended for use in Singapore. Some overseas networks and phone numbers may not receive one-time pin (OTP) for verification. In such cases, please set up your app in Singapore, using a local SIM card."; ObjectID = "lOW-Fl-he7"; */
+"lOW-Fl-he7.text" = "Note: This app is only intended for use in Singapore. Some overseas networks and phone numbers may not receive one-time pin (OTP) for verification. In such cases, please set up your app in Singapore, using a local SIM card.";
+
+/* Class = "UITextView"; text = “{{privacy}}”; ObjectID = "DYU-df-Er0"; */
+"DYU-df-Er0.text" = "*TraceTogether data is subject to prevailing legislation. See our <a:privacy><u>Privacy Safeguards</u></a> for details.";

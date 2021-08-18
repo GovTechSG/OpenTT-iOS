@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "ID verification, so you can receive personal medical information related to COVID-19 through TraceTogether"; ObjectID = "6v7-WA-DiV"; */
+"6v7-WA-DiV.text" = "การตรวจสอบ ID, เพื่อให้คุณสามารถรับข้อมูลทางการแพทย์ส่วนบุคคลที่เกี่ยวข้องกับ COVID-19 ผ่านแอพ";
+
+/* Class = "UILabel"; text = "🇸🇬"; ObjectID = "8Rh-ks-t1I"; */
+"8Rh-ks-t1I.text" = "🇸🇬";
+
+/* Class = "UIButton"; normalTitle = "CHANGE LANGUAGE"; ObjectID = "67c-2R-rap"; */
+"67c-2R-rap.normalTitle" = "เปลี่ยนภาษา";
+
+/* Class = "UILabel"; text = "🎉"; ObjectID = "Fid-uB-YD8"; */
+"Fid-uB-YD8.text" = "🎉";
+
+/* Class = "UILabel"; text = "Your app is updated!"; ObjectID = "KJz-Ou-H2h"; */
+"KJz-Ou-H2h.text" = "แอปของคุณอัปเดตแล้ว";
+
+/* Class = "UILabel"; text = "🏫"; ObjectID = "WTY-1E-59X"; */
+"WTY-1E-59X.text" = "🏫";
+
+/* Class = "UIButton"; normalTitle = "START SETUP"; ObjectID = "Zsj-hd-boM"; */
+"Zsj-hd-boM.normalTitle" = "เริ่มตั้งค่า";
+
+/* Class = "UILabel"; text = "👩‍⚕️"; ObjectID = "aWi-du-aLX"; */
+"aWi-du-aLX.text" = "👩‍⚕️";
+
+/* Class = "UILabel"; text = "iPhone users — your app can work in the background now"; ObjectID = "ape-ZV-P4N"; */
+"ape-ZV-P4N.text" = "ผู้ใช้ iPhone — ตอนนี้แอปของคุณสามารถทำงานอยู่เบื้องหลังได้แลั้ว";
+
+/* Class = "UILabel"; text = "More languages"; ObjectID = "yjZ-Fw-g92"; */
+"yjZ-Fw-g92.text" = "ภาษาอื่น ๆ";

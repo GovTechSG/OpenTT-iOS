@@ -1,0 +1,10 @@
+/* 
+ InfoPlist.strings
+ OpenTraceTogether
+ */
+"NSBluetoothAlwaysUsageDescription" = "ट्रेस टूगेदर, ब्लूटूथ सिग्नल को आपके आसपास के फोन के साथ आदान-प्रदान करता है ताकि आपको COVID-19 के संभावित एक्सपोजर पर ध्यान देने में मदद मिल सके।";
+
+"NSBluetoothPeripheralUsageDescription" = "ट्रेस टूगेदर, ब्लूटूथ सिग्नल को आपके आसपास के फोन के साथ आदान-प्रदान करता है ताकि आपको COVID-19 के संभावित एक्सपोजर पर ध्यान देने में मदद मिल सके।";
+
+"NSCameraUsageDescription" = "This lets you scan SafeEntry QR codes.";
+"NSPhotoLibraryUsageDescription" = "This lets you scan SafeEntry QR codes.";

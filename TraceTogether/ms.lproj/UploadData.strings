@@ -1,0 +1,48 @@
+
+/* Class = "UIButton"; normalTitle = "Upload data"; ObjectID = "24k-o7-Lgs"; */
+"24k-o7-Lgs.normalTitle" = "Muat naik data";
+
+/* Class = "UILabel"; text = "STEP 2"; ObjectID = "3zY-su-fK0"; */
+"3zY-su-fK0.text" = "Langkah 2";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "CvJ-Ck-Jfq"; */
+"CvJ-Ck-Jfq.normalTitle" = "Seterusnya";
+
+/* Class = "UILabel"; text = "Invalid PIN"; ObjectID = "Ew3-er-D6f"; */
+"Ew3-er-D6f.text" = "PIN Tidak Sah";
+
+/* Class = "UILabel"; text = "By uploading, you agree to share with MOH your TraceTogether proximity data for the past 21 days. We don’t collect any geolocation or personal data."; ObjectID = "Ff1-z1-pME"; */
+"Ff1-z1-pME.text" = "Dengan memuatnaikkan data, anda bersetuju untuk berkongsi data keberadaan Jejaki Bersama anda selama 21 hari yang lalu dengan MOH. Kami tidak mengumpulkan data peribadi atau geolokasi.";
+
+/* Class = "UILabel"; text = "Enter PIN to upload"; ObjectID = "Ft1-PF-Epb"; */
+"Ft1-PF-Epb.text" = "Masukkan PIN untuk muat naikkan data";
+
+/* Class = "UILabel"; text = "Upload Data"; ObjectID = "KYS-5z-whd"; */
+"KYS-5z-whd.text" = "Muatnaikkan data";
+
+/* Class = "UITabBarItem"; title = "Upload Data"; ObjectID = "Y1B-Ag-Xtw"; */
+"Y1B-Ag-Xtw.title" = "Muatnaikkan data";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "cg9-JY-VQy"; */
+"cg9-JY-VQy.text" = "-";
+
+/* Class = "UILabel"; text = "Your data has been uploaded to MOH"; ObjectID = "iGt-RX-ZPK"; */
+"iGt-RX-ZPK.text" = "Data anda telah dimuatnaikkan ke MOH";
+
+/* Class = "UILabel"; text = "STEP 1"; ObjectID = "ks9-IK-8vm"; */
+"ks9-IK-8vm.text" = "Langkah 1";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "nC1-Z2-6rf"; */
+"nC1-Z2-6rf.normalTitle" = "Selesai";
+
+/* Class = "UILabel"; text = "For use only if MOH contacts you"; ObjectID = "nma-xF-lsY"; */
+"nma-xF-lsY.text" = "Untuk digunakan hanya jika MOH menghubungi anda";
+
+/* Class = "UILabel"; text = "Verify that the contact tracer is from MOH"; ObjectID = "vBc-pX-24Q"; */
+"vBc-pX-24Q.text" = "Sahkan bahawa pengesan kenalan adalah dari MOH";
+
+/* Class = "UILabel"; text = "Make sure they give you a code that matches the one below."; ObjectID = "wja-RS-8XO"; */
+"wja-RS-8XO.text" = "Pastikan mereka memberikan kod yang sepadan dengan yang berikut.";
+
+/* Class = "UILabel"; text = "Verification code:"; ObjectID = "wkG-5w-VoS"; */
+"wkG-5w-VoS.text" = "Kod pengesahan:";

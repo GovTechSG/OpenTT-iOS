@@ -1,0 +1,57 @@
+
+/* Class = "UIButton"; normalTitle = "GOT IT"; ObjectID = "LnX-Lw-8bY"; */
+"LnX-Lw-8bY.normalTitle" = "বুঝেছি";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "WQB-B5-nl3"; */
+"WQB-B5-nl3.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "History"; ObjectID = "Lqf-5p-7ts"; */
+"gj0-uT-UWo.title" = "কার্যকলাপ";
+
+/* Class = "UITabBarItem"; title = "History"; ObjectID = "bY7-hL-MnK"; */
+"KJz-60-ON0.title" = "কার্যকলাপ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tvn-OH-Csa"; */
+"tvn-OH-Csa.normalTitle" = "Button";
+
+//These records help us notify you if you were near COVID-19 patients during their infectious period.
+"hGX-1P-Jnn.text" = "এই রেকর্ডগুলোর সাহায্যে আমরা বুঝতে পারব, উচ্চ সংক্রমণের ঝুঁকি সম্পন্ন কোন কোভিড-১৯ রোগীর সংস্পর্শে আপনি এসেছিলেন কিনা।";
+
+//Past 14 days
+"U8h-OB-wYc.text" = "গত 14 দিন";
+
+//You were at a place visited by a COVID-19 case
+"XE2-8f-gbO.text" = "আপনি একটি জায়গায় গিয়েছিলেন, যেখানে একজন কোভিড-১৯ আক্রান্ত ছিলেন।";
+
+//As a precaution, monitor your health for 14 days from the visit date. If you develop fever or respiratory symptoms, see a doctor immediately and indicate this exposure.
+"HV9-ab-qPw.text" = "সতর্কতা হিসেবে, আপনি যেদিন সেখানে গিয়েছিলেন, সেদিন থেকে ১৪ দিন পর্যন্ত আপনার স্বাস্থ্যের দিকে নজর রাখুন। আপনার যদি জ্বর, সর্দি, কাশি, গলাব্যাথা বা শ্বাসকষ্ট জাতীয় লক্ষণ দেখা দেয়, যত দ্রুত সম্ভব ডাক্তারের পরামর্শ নিন।";
+
+//Check for symptoms
+"Ehf-AX-guJ.normalTitle" = "<u>লক্ষণ পরীক্ষা করুন</u>";
+
+//All Records
+"3fG-05-gMh.normalTitle" = "সকল রেকর্ড";
+
+//Possible Exposure
+"fRx-9l-ExZ.normalTitle" = "সম্ভাব্য সংক্রমণ";
+
+//YOUR POSSIBLE EXPOSURES
+"xqc-Q6-1J1.text" = "আপনার সম্ভাব্য সংক্রমণ";
+
+//Please remember to check out using SafeEntry in the future.
+"46m-ew-qjC.text" = "অনুগ্রহ করে ভবিষ্যতে মনে করে SafeEntry দিয়ে চেক আউট করে নেবেন!";
+
+//'Check out now' button
+"u1u-Z0-iFt.normalTitle" = "<u>চেক আউট করুন</u>";
+
+//You were not at places visited by COVID-19 cases
+"1ZU-cp-UkU.text" = "আপনি এমন কোন জায়গায় যাননি, যেখানে কোভিড-১৯ আক্রান্ত কেউ ছিল";
+
+// No records yet.
+"a69-K2-8o2.text" = "কোন রেকর্ড নেই।";
+
+//Based on all your TraceTogether and SafeEntry records from the last 14 days.
+"VuJ-1I-Mhu.text" = "বিগত ১৪ দিনের TraceTogether ও SafeEntry রেকর্ডের ওপর ভিত্তি করে।";
+
+//How are my possible exposures determined?
+"C07-eF-CcM.normalTitle" = "<ca><c:#0070E0><u>আমার সম্ভাব্য সংক্রমণ কিভাবে বের করা হয়?</u></c></ca>";

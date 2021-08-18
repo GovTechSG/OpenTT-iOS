@@ -1,0 +1,20 @@
+/* Class = "UILabel"; text = "{{title}}"; ObjectID = "yNR-Qd-n1V"; */
+"yNR-Qd-n1V.text" = "உங்கள் சுயவிவரத்தை பூர்த்தி செய்யவும்";
+
+/* Class = "UIButton"; normalTitle = "{{howtofind}}"; ObjectID = "ifZ-Zq-n4L"; */
+"ifZ-Zq-n4L.normalTitle" = "<u>கண்டுபிடிப்பது எப்படி?</u>";
+
+/* Class = "UITextView"; text = "{{consent}}"; ObjectID = "bLq-9Q-Jyf"; */
+"bLq-9Q-Jyf.text" = "நீங்கள் வழங்கிய விவரங்கள் அனைத்தும் உண்மை. எங்கள் <a:terms>பயன்பாட்டு விதிமுறைகள்</a>, <a:privacy>தனியுரிமை அறிக்கை</a>, மற்றும் உங்களுக்கு கோவிட்-19 கிருமித் தொற்று ஏற்பட்டால், தொடர்பு தடமறிதலின் ஒரே நோக்கத்திற்காக, உங்கள் விவரங்கள் MOHடன் பகிரப்படுவதை ஒப்புக்கொள்கிறீர்கள்.";
+
+/* Class = "UIButton"; normalTitle = "{{next}}"; ObjectID = "yBR-dE-IrK"; */
+"yBR-dE-IrK.normalTitle" = "அடுத்தது";
+
+/* Class = "UIBarButtonItem"; title = "{{prev}}"; ObjectID = "y6F-RH-RPR"; */
+"y6F-RH-RPR.title" = "முந்தைய புலம்";
+
+/* Class = "UIBarButtonItem"; title = "{{next}}"; ObjectID = "ceE-XH-Nb9"; */
+"ceE-XH-Nb9.title" = "அடுத்த புலம்";
+
+/* Class = "UIBarButtonItem"; title = "{{done}}"; ObjectID = "Uj3-DS-ZiO"; */
+"Uj3-DS-ZiO.title" = "முடிந்தது";

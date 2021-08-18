@@ -1,0 +1,120 @@
+
+/* Class = "UILabel"; text = "Card Serial Number"; ObjectID = "0kb-BN-jBt"; */
+"0kb-BN-jBt.text" = "Card Serial Number";
+
+/* Class = "UIViewController"; title = "Why do you need my details?"; ObjectID = "2fZ-I5-VuI"; */
+"2fZ-I5-VuI.title" = "Why do you need my details?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2oT-He-fP2"; */
+"2oT-He-fP2.text" = "Label";
+
+/* Class = "UILabel"; text = "Front"; ObjectID = "372-Cd-U4Z"; */
+"372-Cd-U4Z.text" = "Front";
+
+/* Class = "UILabel"; text = "Download SGWorkPass app and scan QR code for Date of Issue"; ObjectID = "3J5-hz-vUU"; */
+"3J5-hz-vUU.text" = "Download SGWorkPass app and scan QR code for Date of Issue";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "AT6-OM-tnE"; */
+"AT6-OM-tnE.text" = "OR";
+
+/* Class = "UILabel"; text = "Complete your details"; ObjectID = "Ade-Wb-EDy"; */
+"Ade-Wb-EDy.text" = "Complete your profile";
+
+/* Class = "UIViewController"; title = "NRICModalViewController"; ObjectID = "B7B-YY-m2R"; */
+"B7B-YY-m2R.title" = "NRICModalViewController";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Dpa-ij-raR"; */
+"Dpa-ij-raR.text" = "Label";
+
+/* Class = "UILabel"; text = "Check the back of your card for Date of Issue"; ObjectID = "F70-a5-MNQ"; */
+"F70-a5-MNQ.text" = "Check the back of your card for Date of Issue";
+
+/* Class = "UILabel"; text = "Select your profile"; ObjectID = "GHE-Yi-k2y"; */
+"GHE-Yi-k2y.text" = "Select your profile";
+
+/* Class = "UILabel"; text = "Why do you need my details?"; ObjectID = "J2d-ki-ROm"; */
+"J2d-ki-ROm.text" = "Why do you need my details?";
+
+/* Class = "UILabel"; text = "Date of Issue (DD-MM-YYYY)"; ObjectID = "NYP-7z-qIT"; */
+"NYP-7z-qIT.text" = "Date of Issue (DD-MM-YYYY)";
+
+/* Class = "UIButton"; normalTitle = "PROCEED"; ObjectID = "Nqm-7J-HQg"; */
+"Nqm-7J-HQg.normalTitle" = "PROCEED";
+
+/* Class = "UIButton"; normalTitle = "I SEE. GOT IT! :)"; ObjectID = "O8a-Yg-0L6"; */
+"O8a-Yg-0L6.normalTitle" = "I SEE. GOT IT! :)";
+
+/* Class = "UIViewController"; title = "RegisterFormViewController"; ObjectID = "OwP-cx-Sf3"; */
+"OwP-cx-Sf3.title" = "RegisterFormViewController";
+
+/* Class = "UIButton"; normalTitle = "How to find?"; ObjectID = "QI6-y7-nWs"; */
+"QI6-y7-nWs.normalTitle" = "How to find?";
+
+/* Class = "UITextField"; placeholder = "Label"; ObjectID = "SX5-vv-Hej"; */
+"SX5-vv-Hej.placeholder" = "Label";
+
+/* Class = "UILabel"; text = "Your unique identification number allows MOH to reach the right person when they need to give you important health advice about COVID-19."; ObjectID = "VAB-TC-yEk"; */
+"VAB-TC-yEk.text" = "Your unique identification number allows MOH to reach the right person when they need to give you important health advice about COVID-19.";
+
+/* Class = "UILabel"; text = "2. Dependent's Pass"; ObjectID = "Woq-RD-OQG"; */
+"Woq-RD-OQG.text" = "2. Dependent's Pass";
+
+/* Class = "UILabel"; text = "At the back of your NRIC"; ObjectID = "aeY-8q-qfc"; */
+"aeY-8q-qfc.text" = "At the back of your NRIC";
+
+/* Class = "UILabel"; text = "1. Work Pass"; ObjectID = "cgN-ax-WJa"; */
+"cgN-ax-WJa.text" = "1. Work Pass";
+
+/* Class = "UIViewController"; title = "PassportModalViewController"; ObjectID = "dt3-2I-j9S"; */
+"dt3-2I-j9S.title" = "PassportModalViewController";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "ebx-tb-rOv"; */
+"ebx-tb-rOv.normalTitle" = "NEXT";
+
+/* Class = "UIButton"; normalTitle = "How to find?"; ObjectID = "gS0-Z1-pI0"; */
+"gS0-Z1-pI0.normalTitle" = "How to find?";
+
+/* Class = "UILabel"; text = "Card Serial Number"; ObjectID = "gdZ-Aq-8ZP"; */
+"gdZ-Aq-8ZP.text" = "Card Serial Number";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hJu-wc-Qwz"; */
+"hJu-wc-Qwz.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Date of Issue (DD-MM-YYYY)"; ObjectID = "n9y-xh-R9p"; */
+"n9y-xh-R9p.text" = "Date of Issue (DD-MM-YYYY)";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "pWf-Ki-Z62"; */
+"pWf-Ki-Z62.text" = "Required";
+
+/* Class = "UITextField"; placeholder = "Label"; ObjectID = "rLn-CR-Vz7"; */
+"rLn-CR-Vz7.placeholder" = "Label";
+
+/* Class = "UIViewController"; title = "OtherPassportModalViewController"; ObjectID = "sLU-a5-mch"; */
+"sLU-a5-mch.title" = "OtherPassportModalViewController";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "uy5-xj-Fym"; */
+"uy5-xj-Fym.text" = "Required";
+
+/* Class = "UILabel"; text = "Back"; ObjectID = "vlw-V6-Cpo"; */
+"vlw-V6-Cpo.text" = "Back";
+
+/* Card Serial Number in LTVP Modal*/
+"hyC-FR-wff.text" = "Card Serial Number";
+
+/* DoA Description */
+"Knq-3Q-Qpa.text" = "<b>Enter the <c:#FF6565>Date of Application</c> for your FIN card</b> - can be found on your In-principle approval (IPA) or Notification letter";
+
+/* DoA Location */
+"hFG-xX-PCH.text" = "Date of Application\n(DD-MMM-YYYY)";
+
+/* WP SN Description */
+"2i5-H3-qw8.text" = "<b>Enter the <c:#FF6565>Card Serial Number</c> on your FIN card\n\n\nWork Pass</b> <i>(front)</i>";
+
+/* WP SN Location */
+"6GD-25-03o.text" = "Card Serial Number";
+
+/* DP Description */
+"6mx-Zx-gXA.text" = "<b>Enter the <c:#FF6565>Card Serial Number</c> on your FIN card\n\n\nDependent's Pass</b> <i>(back)</i>";
+
+/* DP Location */
+"yyD-rn-df0.text" = "Card Serial Number";

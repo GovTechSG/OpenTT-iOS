@@ -1,0 +1,23 @@
+
+/* Class = "UINavigationItem"; title = "{{title}}"; ObjectID = "BND-DM-OlU"; */
+"BND-DM-OlU.title" = "सुझाव और तरकीब";
+
+/* Class = "UILabel"; text = "{{shortcut_info}}"; ObjectID = "IbK-ma-RC4"; */
+"IbK-ma-RC4.text" = "You can use TraceTogether features without needing to open the app! Here’s how 😉";
+
+/* Class = "UILabel"; text = "{{siri_title}}"; ObjectID = "36l-yd-txk"; */
+"36l-yd-txk.text" = "Use “Hey Siri”, or tap the back of your phone";
+
+/* Class = "UIButton"; normalTitle = "{{siri_how_this_works}}"; ObjectID = "80Z-xC-6cL"; */
+"80Z-xC-6cL.normalTitle" = "<u>See how this works</u>";
+
+/* Class = "UILabel"; text = "{{widget_title}}"; ObjectID = "VpE-ah-PAe"; */
+"VpE-ah-PAe.text" = "Add widgets to Home Screen ";
+
+/* Class = "UIButton"; normalTitle = "{{widget_how_this_works}}"; ObjectID = "CSc-tI-cKr"; */
+"CSc-tI-cKr.normalTitle" = "<u>See how this works</u>";
+
+/* Class = "UILabel"; text = "{{widget_steps}}"; */
+"dvm-8F-D8g.text" = "<li>1.\tOn your Home Screen, tap and hold an empty area until the apps jiggle.</li>
+<li>2.\tTap the ‘<b>+</b>’ button at the top of your screen. Scroll down to find the TraceTogether icon, and tap on it.</li>
+<li>3.\tTap <b>Add Widget</b>. That’s all!!</li>";

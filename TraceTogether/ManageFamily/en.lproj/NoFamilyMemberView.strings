@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Add your family members"; ObjectID = "DHR-pf-Utk"; */
+"DHR-pf-Utk.text" = "Add your family members";
+
+/* Class = "UIButton"; normalTitle = "ADD FAMILY MEMBERS"; ObjectID = "XTF-Zb-xTs"; */
+"XTF-Zb-xTs.normalTitle" = "ADD FAMILY MEMBERS";
+
+/* Class = "UILabel"; text = "Do SafeEntry check-in for your family members who may not carry mobile devices."; ObjectID = "wWf-9k-Lqj"; */
+"wWf-9k-Lqj.text" = "Do SafeEntry check-in for your family members who may not carry mobile devices.";

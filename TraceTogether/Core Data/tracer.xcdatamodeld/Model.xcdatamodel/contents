@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17511" systemVersion="19H2" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Encounter" representedClassName="Encounter" syncable="YES">
+        <attribute name="modelC" optional="YES" attributeType="String"/>
+        <attribute name="modelP" optional="YES" attributeType="String"/>
+        <attribute name="msg" optional="YES" attributeType="String"/>
+        <attribute name="org" optional="YES" attributeType="String"/>
+        <attribute name="rssi" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="timestamp" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="txPower" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="v" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <fetchedProperty name="fetchedProperty" optional="YES">
+            <fetchRequest name="fetchedPropertyFetchRequest" entity="Encounter"/>
+        </fetchedProperty>
+    </entity>
+    <entity name="FamilyMember" representedClassName="FamilyMember" syncable="YES">
+        <attribute name="dateSortDescriptor" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="familyMemberImage" optional="YES" attributeType="String"/>
+        <attribute name="familyMemberName" optional="YES" attributeType="String"/>
+        <attribute name="familyMemberNRIC" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="LiteEncounter" representedClassName="LiteEncounter" syncable="YES">
+        <attribute name="msg" optional="YES" attributeType="String"/>
+        <attribute name="rssi" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="timestamp" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="txPower" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="LogMessage" representedClassName="LogMessage" syncable="YES" codeGenerationType="category">
+        <attribute name="collectable" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="details" optional="YES" attributeType="String"/>
+        <attribute name="rawType" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="timestamp" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="SafeEntrySession" representedClassName="SafeEntrySession" syncable="YES">
+        <attribute name="address" optional="YES" attributeType="String"/>
+        <attribute name="checkInDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="checkOutDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="groupIDs" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromDataTransformerName" customClassName="[String]"/>
+        <attribute name="postalCode" optional="YES" attributeType="String"/>
+        <attribute name="tenantId" optional="YES" attributeType="String"/>
+        <attribute name="tenantName" optional="YES" attributeType="String"/>
+        <attribute name="venueId" optional="YES" attributeType="String"/>
+        <attribute name="venueName" optional="YES" attributeType="String"/>
+        <relationship name="venue" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Venue" inverseName="safeEntrySessions" inverseEntity="Venue"/>
+    </entity>
+    <entity name="V3Encounter" representedClassName="V3Encounter" syncable="YES">
+        <attribute name="msg" optional="YES" attributeType="String"/>
+        <attribute name="role" optional="YES" attributeType="String"/>
+        <attribute name="timestamp" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <fetchedProperty name="fetchedProperty" optional="YES">
+            <fetchRequest name="fetchedPropertyFetchRequest" entity="V3Encounter"/>
+        </fetchedProperty>
+    </entity>
+    <entity name="Venue" representedClassName="Venue" syncable="YES">
+        <attribute name="address" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="isFavourite" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="postalCode" optional="YES" attributeType="String"/>
+        <attribute name="tenantId" optional="YES" attributeType="String"/>
+        <attribute name="tenantName" optional="YES" attributeType="String"/>
+        <relationship name="safeEntrySessions" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="SafeEntrySession" inverseName="venue" inverseEntity="SafeEntrySession"/>
+    </entity>
+    <elements>
+        <element name="Encounter" positionX="-63" positionY="-18" width="128" height="191"/>
+        <element name="FamilyMember" positionX="-45" positionY="99" width="128" height="103"/>
+        <element name="LiteEncounter" positionX="-54" positionY="90" width="128" height="103"/>
+        <element name="LogMessage" positionX="-63" positionY="81" width="128" height="103"/>
+        <element name="SafeEntrySession" positionX="-63" positionY="54" width="128" height="193"/>
+        <element name="V3Encounter" positionX="-54" positionY="81" width="128" height="116"/>
+        <element name="Venue" positionX="160" positionY="192" width="128" height="163"/>
+    </elements>
+</model>

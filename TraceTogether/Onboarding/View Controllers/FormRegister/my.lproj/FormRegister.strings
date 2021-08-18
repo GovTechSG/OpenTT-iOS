@@ -1,0 +1,20 @@
+/* Class = "UILabel"; text = "{{title}}"; ObjectID = "yNR-Qd-n1V"; */
+"yNR-Qd-n1V.text" = "သင့်ပရိုဖိုင်ကို ပြီးအောင်ဖြည့်ပါ";
+
+/* Class = "UIButton"; normalTitle = "{{howtofind}}"; ObjectID = "ifZ-Zq-n4L"; */
+"ifZ-Zq-n4L.normalTitle" = "<u>ဘယ်လို ရှာမလဲ။</u>";
+
+/* Class = "UITextView"; text = "{{consent}}"; ObjectID = "bLq-9Q-Jyf"; */
+"bLq-9Q-Jyf.text" = "သင် ပံ့ပိုးပေးသော အသေးစိတ်အချက်အလက်များမှာ မှန်ကန်ပါသည်။ ကျွန်ုပ်တို့၏ သုံးစွဲမှုဆိုင်ရာ <a:terms>စည်းကမ်းချက်များ</a>၊ <a:privacy>ကိုယ်ရေးလုံခြုံမှုဆိုင်ရာ ထုတ်ပြန်ချက်</a>တို့နှင့် သင်က COVID-19 ပိုးတွေ့လူနာအဖြစ် ဆေးစစ်တွေ့ရှိလျှင် ထိတွေ့မှု ခြေရာခံရန် ရည်ရွယ်ချက်တစ်ခုတည်းအတွက်သာ သင့်ဒေတာကို MOH နှင့် မျှဝေရန်တို့ကို သင်က သဘောတူသည်။";
+
+/* Class = "UIButton"; normalTitle = "{{next}}"; ObjectID = "yBR-dE-IrK"; */
+"yBR-dE-IrK.normalTitle" = "ရှေ့သို့";
+
+/* Class = "UIBarButtonItem"; title = "{{prev}}"; ObjectID = "y6F-RH-RPR"; */
+"y6F-RH-RPR.title" = "ပြီးခဲ့သော အကွက်";
+
+/* Class = "UIBarButtonItem"; title = "{{next}}"; ObjectID = "ceE-XH-Nb9"; */
+"ceE-XH-Nb9.title" = "ရှေ့အကွက်";
+
+/* Class = "UIBarButtonItem"; title = "{{done}}"; ObjectID = "Uj3-DS-ZiO"; */
+"Uj3-DS-ZiO.title" = "ပြီးပါပြီ";

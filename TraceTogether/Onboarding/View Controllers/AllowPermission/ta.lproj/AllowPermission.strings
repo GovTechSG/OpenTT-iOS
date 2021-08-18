@@ -1,0 +1,33 @@
+
+/* Class = "UIButton"; normalTitle = "ALLOW"; ObjectID = "2zt-v1-hhA"; */
+"2zt-v1-hhA.normalTitle" = "அனுமதி";
+
+/* Class = "UILabel"; text = "Last step:  Turn on Bluetooth"; ObjectID = "6U7-js-wgl"; */
+"6U7-js-wgl.text" = "இறுதியாக: \nபுளூடூத்தை (Bluetooth) இயக்கவும்";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "DCS-Dz-ub4"; */
+"DCS-Dz-ub4.normalTitle" = "அடுத்தது";
+
+/* Class = "UILabel"; text = "All app Bluetooth data after 25 days will be automatically deleted."; ObjectID = "Eu2-mM-gWa"; */
+"Eu2-mM-gWa.text" = "நாங்கள் செயலியின் எல்லா ப்ளூடூத் (Bluetooth) தகவலையும் 25 நாட்களுக்குப் பிறகு தானாகவே நீக்கிவிடுவோம்.";
+
+/* Class = "UILabel"; text = "To help you note possible exposure to COVID-19, your app needs these permissions"; ObjectID = "TIl-OJ-p6N"; */
+"TIl-OJ-p6N.text" = "COVID-19-உடனான நேரடித் தொடர்புகளை நீங்கள் குறித்துக் கொள்ள உதவ, உங்கள் செயலிக்கு இந்த அனுமதிகள் தேவை.";
+
+/* Class = "UIButton"; normalTitle = "GOT IT, WILL DO!"; ObjectID = "YK3-Ii-6rR"; */
+"YK3-Ii-6rR.normalTitle" = "புரிகிறது, செய்வேன்!";
+
+/* Class = "UIButton"; normalTitle = "ALLOW"; ObjectID = "dbs-LN-AKi"; */
+"dbs-LN-AKi.normalTitle" = "அனுமதி";
+
+/* Class = "UILabel"; text = "Motion and Fitness Activity"; ObjectID = "eGx-S4-06X"; */
+"eGx-S4-06X.text" = "இயக்கம் மற்றும் உடற்தகுதி செயல்பாடு";
+
+/* Class = "UILabel"; text = "Go to Settings or Control Center and turn on your phone’s Bluetooth. \n\nThen come back to the app."; ObjectID = "jzQ-wJ-Ece"; */
+"jzQ-wJ-Ece.text" = "அமைப்புகள் அல்லது கட்டுப்பாட்டு மையத்திற்குச் சென்று உங்கள் தொலைபேசியின் புளூடூத்தை (Bluetooth) இயக்கவும்.\n\nபின்னர் செயலிக்கு மீண்டும் வரவும்.";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "tvm-f1-bLa"; */
+"tvm-f1-bLa.text" = "அறிவிப்புகள்";
+
+/* Class = "UILabel"; text = "Bluetooth"; ObjectID = "xyh-Ya-fb1"; */
+"xyh-Ya-fb1.text" = "புளூடூத் (Bluetooth)";

@@ -1,0 +1,69 @@
+
+/* Class = "UILabel"; text = "TempIDs you have encountered, sorted by number of encounters"; ObjectID = "2PA-qS-5Rm"; */
+"2PA-qS-5Rm.text" = "TempIDs you have encountered, sorted by number of encounters";
+
+/* Class = "UIButton"; normalTitle = "Change language"; ObjectID = "56q-9q-0Mw"; */
+"56q-9q-0Mw.normalTitle" = "Change language";
+
+/* Class = "UILabel"; text = "Toggle advertisement"; ObjectID = "9wZ-lc-Wcg"; */
+"9wZ-lc-Wcg.text" = "Toggle advertisement";
+
+/* Class = "UILabel"; text = "Central state:"; ObjectID = "AaM-mf-r4E"; */
+"AaM-mf-r4E.text" = "Central state:";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "HuB-0B-BW3"; */
+"HuB-0B-BW3.title" = "Settings";
+
+/* Class = "UILabel"; text = "Number of unique TempIDs encountered:"; ObjectID = "K9L-bb-Uz0"; */
+"K9L-bb-Uz0.text" = "Number of unique TempIDs encountered:";
+
+/* Class = "UILabel"; text = "Toggle scanning"; ObjectID = "LS7-Ae-1lF"; */
+"LS7-Ae-1lF.text" = "Toggle scanning";
+
+/* Class = "UIButton"; normalTitle = "Obtain Bluetooth state"; ObjectID = "LwD-cg-62p"; */
+"LwD-cg-62p.normalTitle" = "Obtain Bluetooth state";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "M1A-NB-uUq"; */
+"M1A-NB-uUq.normalTitle" = "Logout";
+
+/* Class = "UILabel"; text = "FCMToken:"; ObjectID = "MJx-NX-Z6j"; */
+"MJx-NX-Z6j.text" = "FCMToken:";
+
+/* Class = "UILabel"; text = "ttId"; ObjectID = "WcW-HN-Hpw"; */
+"WcW-HN-Hpw.text" = "ttId";
+
+/* Class = "UITabBarController"; title = "Debug"; ObjectID = "Wr5-6q-62a"; */
+"Wr5-6q-62a.title" = "Debug";
+
+/* Class = "UITabBarItem"; title = "TempIDs"; ObjectID = "gNq-to-dhP"; */
+"gNq-to-dhP.title" = "TempIDs";
+
+/* Class = "UIButton"; normalTitle = "Clear logs"; ObjectID = "hRC-lV-uQr"; */
+"hRC-lV-uQr.normalTitle" = "Clear logs";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hWb-ao-KII"; */
+"hWb-ao-KII.text" = "Label";
+
+/* Class = "UILabel"; text = "Peripheral state:"; ObjectID = "kbp-vB-pVU"; */
+"kbp-vB-pVU.text" = "Peripheral state:";
+
+/* Class = "UILabel"; text = "Debug logs"; ObjectID = "p85-OU-TR2"; */
+"p85-OU-TR2.text" = "Debug logs";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "t3V-hm-cl2"; */
+"t3V-hm-cl2.text" = "Settings";
+
+/* Class = "UITabBarItem"; title = "Logs"; ObjectID = "uSm-wg-y7O"; */
+"uSm-wg-y7O.title" = "Logs";
+
+/* Class = "UILabel"; text = "TempIDs"; ObjectID = "uyw-zh-fkG"; */
+"uyw-zh-fkG.text" = "TempIDs";
+
+/* Class = "UIButton"; normalTitle = "Take me out of here!"; ObjectID = "vzT-59-yTf"; */
+"vzT-59-yTf.normalTitle" = "Take me out of here!";
+
+/* Class = "UILabel"; text = "value"; ObjectID = "wG2-EW-YJa"; */
+"wG2-EW-YJa.text" = "value";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "xXg-2v-r6T"; */
+"xXg-2v-r6T.text" = "...";

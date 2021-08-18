@@ -1,0 +1,57 @@
+
+/* Class = "UIButton"; normalTitle = "GOT IT"; ObjectID = "LnX-Lw-8bY"; */
+"LnX-Lw-8bY.normalTitle" = "เข้าใจแล้ว";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "WQB-B5-nl3"; */
+"WQB-B5-nl3.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "History"; ObjectID = "Lqf-5p-7ts"; */
+"gj0-uT-UWo.title" = "ประวัติ";
+
+/* Class = "UITabBarItem"; title = "History"; ObjectID = "bY7-hL-MnK"; */
+"KJz-60-ON0.title" = "ประวัติ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tvn-OH-Csa"; */
+"tvn-OH-Csa.normalTitle" = "Button";
+
+//These records help us notify you if you were near COVID-19 patients during their infectious period.
+"hGX-1P-Jnn.text" = "บันทึกเหล่านี้ช่วยให้เราแจ้งคุณถ็าคุณอยู่ใกล้ผู้ป่วย COVID-19 ในช่วงเวลาที่ผู้ป่วยคนนั้นติดเชื้อ";
+
+//Past 14 days
+"U8h-OB-wYc.text" = "ผ่านมา 14 วัน";
+
+//You were at a place visited by a COVID-19 case
+"XE2-8f-gbO.text" = "คุณได้อยู่ที่สถานที่ที่ผู้ป่วยโควิดไป";
+
+//As a precaution, monitor your health for 14 days from the visit date. If you develop fever or respiratory symptoms, see a doctor immediately and indicate this exposure.
+"HV9-ab-qPw.text" = "เพื่อป้องกันไว้ก่อน ให้สังเกตสุขภาพของคุณเป็นเวลา 14 วันนับจากวันที่ไปสถานที่นั้น หากคุณมีไข้หรืออาการทางระบบหายใจ ให้ไปหาหมอทันทีและบอกหมอว่าคุณอาจได้สัมผัสกับผู้ป่วยโควิด";
+
+//Check for symptoms
+"Ehf-AX-guJ.normalTitle" = "<u>ตรวจสอบอาการ</u>";
+
+//All Records
+"3fG-05-gMh.normalTitle" = "บันทึกทั้งหมด";
+
+//Possible Exposure
+"fRx-9l-ExZ.normalTitle" = "การสัมผัสกับผู้ป่วยโควิดที่เป็นไปได้";
+
+//YOUR POSSIBLE EXPOSURES
+"xqc-Q6-1J1.text" = "การสัมผัสกับผู้ป่วยโควิดที่เป็นไปได้";
+
+//Please remember to check out using SafeEntry in the future.
+"46m-ew-qjC.text" = "โปรดอย่าลืมเช็คเอาท์โดยใช้ SafeEntry ครั้งหน้า";
+
+//'Check out now' button
+"u1u-Z0-iFt.normalTitle" = "<u>เช็คเอาต์เลย</u>";
+
+//You were not at places visited by COVID-19 cases
+"1ZU-cp-UkU.text" = "คุณไม่ได้อยู่ที่สถานที่ที่ผู้ป่วยโควิดไป";
+
+// No records yet.
+"a69-K2-8o2.text" = "ยังไม่มีข้อมูล";
+
+//Based on all your TraceTogether and SafeEntry records from the last 14 days.
+"VuJ-1I-Mhu.text" = "อ้างอิงจากบันทึก TraceTogether และ SafeEntry ของคุณในช่วง 14 วันที่ผ่านมา";
+
+//How are my possible exposures determined?
+"C07-eF-CcM.normalTitle" = "<ca><c:#0070E0><u>การสัมผัสกับผู้ป่วยโควิดที่เป็นไปได้เหล่านั้น กำหนดอย่างไร</u></c></ca>";

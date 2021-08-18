@@ -1,0 +1,10 @@
+/*
+ InfoPlist.strings
+ OpenTraceTogether
+ */
+"NSBluetoothAlwaysUsageDescription" = "合力追踪与附近运行同一应用程序的手机交换蓝牙信号。这些信号包含匿名ID，该ID被加密并不断更改以确保您的隐私。";
+
+"NSBluetoothPeripheralUsageDescription" = "合力追踪与附近运行同一应用程序的手机交换蓝牙信号。这些信号包含匿名ID，该ID被加密并不断更改以确保您的隐私。";
+
+"NSCameraUsageDescription" = "这可方便您扫描SafeEntry QR码。";
+"NSPhotoLibraryUsageDescription" = "这可方便您扫描SafeEntry QR码。";

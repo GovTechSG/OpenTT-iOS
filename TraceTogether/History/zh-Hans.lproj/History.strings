@@ -1,0 +1,57 @@
+
+/* Class = "UIButton"; normalTitle = "GOT IT"; ObjectID = "LnX-Lw-8bY"; */
+"LnX-Lw-8bY.normalTitle" = "了解";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "WQB-B5-nl3"; */
+"WQB-B5-nl3.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "History"; ObjectID = "Lqf-5p-7ts"; */
+"gj0-uT-UWo.title" = "历史记录";
+
+/* Class = "UITabBarItem"; title = "History"; ObjectID = "bY7-hL-MnK"; */
+"KJz-60-ON0.title" = "历史记录";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tvn-OH-Csa"; */
+"tvn-OH-Csa.normalTitle" = "Button";
+
+//These records help us notify you if you were near COVID-19 patients during their infectious period.
+"hGX-1P-Jnn.text" = "如果发现您曾在冠病患者周围活动且他们当时正处发病期，这些记录将有助于我们通知您。";
+
+//Past 14 days
+"U8h-OB-wYc.text" = "过去的14天";
+
+//You were at a place visited by a COVID-19 case
+"XE2-8f-gbO.text" = "您曾去过2019冠病确诊病患去过的地方";
+
+//As a precaution, monitor your health for 14 days from the visit date. If you develop fever or respiratory symptoms, see a doctor immediately and indicate this exposure.
+"HV9-ab-qPw.text" = "为以防万一，与2019冠病确诊病患可能接触的接下来14天里，请观察您的健康状况。如出现发烧或呼吸困难等症状，请立即看医生并告知您可能曾与病患接触。";
+
+//Check for symptoms
+"Ehf-AX-guJ.normalTitle" = "<u>查看症状</u>";
+
+//All Records
+"3fG-05-gMh.normalTitle" = "所有记录";
+
+//Possible Exposure
+"fRx-9l-ExZ.normalTitle" = "可能接触的地点和时间";
+
+//YOUR POSSIBLE EXPOSURES
+"xqc-Q6-1J1.text" = "可能接触的地点和时间";
+
+//Please remember to check out using SafeEntry in the future.
+"46m-ew-qjC.text" = "使用 SafeEntry 登记系统后，请记得登记离开。";
+
+//'Check out now' button
+"u1u-Z0-iFt.normalTitle" = "<u>立即登出</u>";
+
+//You were not at places visited by COVID-19 cases
+"1ZU-cp-UkU.text" = "您未曾去过2019冠病确诊病患去过的地方";
+
+// No records yet.
+"a69-K2-8o2.text" = "尚无记录。";
+
+//Based on all your TraceTogether and SafeEntry records from the last 14 days.
+"VuJ-1I-Mhu.text" = "根据您 TraceTogether 以及 SafeEntry 过去14天的记录";
+
+//How are my possible exposures determined?
+"C07-eF-CcM.normalTitle" = "<ca><c:#0070E0><u>如何定夺可能接触的时间和地点？</u></c></ca>";

@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "We’re really sorry. Let us take a look. Please try again later. "; ObjectID = "1Oh-gH-w4r"; */
+"1Oh-gH-w4r.text" = "We’re really sorry. Let us take a look. Please try again later. ";
+
+/* Class = "UIButton"; accessibilityLabel = "Add Family Members"; ObjectID = "2ks-5D-7jg"; */
+"2ks-5D-7jg.accessibilityLabel" = "Add Family Members";
+
+/* Class = "UIButton"; normalTitle = "RE-REGISTER"; ObjectID = "2ks-5D-7jg"; */
+"2ks-5D-7jg.normalTitle" = "RE-REGISTER";
+
+/* Class = "UIViewController"; title = "PassportReRegistrationViewController"; ObjectID = "5bo-2C-Qs8"; */
+"5bo-2C-Qs8.title" = "PassportReRegistrationViewController";
+
+/* Class = "UILabel"; text = "Your account needs some help"; ObjectID = "8wy-Pq-Aao"; */
+"8wy-Pq-Aao.text" = "บัญชีของคุณต้องการความช่วยเหลือ";
+
+/* Class = "UILabel"; text = "Label2"; ObjectID = "Ai1-Gy-U45"; */
+"Ai1-Gy-U45.text" = "Label2";
+
+/* Class = "UILabel"; text = "Temporarily unavailable"; ObjectID = "JFh-Hf-ASf"; */
+"JFh-Hf-ASf.text" = "ปิดให้บริการชั่วคราว";
+
+/* Class = "UIButton"; normalTitle = "<u>More details</u>"; ObjectID = "LpQ-9u-bqw"; */
+"LpQ-9u-bqw.normalTitle" = "<u>ข้อมูลเพิ่มเติม</u>";
+
+/* Class = "UIButton"; normalTitle = "<u>See less</u>"; ObjectID = "RSC-lZ-gIT"; */
+"RSC-lZ-gIT.normalTitle" = "<u>ดูข้อมูลน้อยลง</u>";
+
+/* Class = "UIButton"; selectedTitle = "<u>See less</u>"; ObjectID = "RSC-lZ-gIT"; */
+"RSC-lZ-gIT.selectedTitle" = "<u>ดูข้อมูลน้อยลง</u>";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "aNp-Gi-Oi3"; */
+"aNp-Gi-Oi3.normalTitle" = "ลองอีกครั้ง";
+
+/* Class = "UIViewController"; title = "ServerDownViewController"; ObjectID = "boF-hI-Ff9"; */
+"boF-hI-Ff9.title" = "ServerDownViewController";
+
+/* Class = "UIViewController"; title = "InternetUnavailableViewController"; ObjectID = "d8J-yA-Ft9"; */
+"d8J-yA-Ft9.title" = "InternetUnavailableViewController";
+
+/* Class = "UILabel"; text = "Don’t worry, it’s just the internet. Connect and try again."; ObjectID = "dhg-aY-Tc9"; */
+"dhg-aY-Tc9.text" = "Don’t worry, it’s just the internet. Connect and try again.";
+
+/* Class = "UILabel"; text = "Label1"; ObjectID = "fRx-JW-ExX"; */
+"fRx-JW-ExX.text" = "Label1";
+
+/* Class = "UILabel"; text = "Check your connection"; ObjectID = "nPz-Ve-yz0"; */
+"nPz-Ve-yz0.text" = "Check your connection";
+
+/* Class = "UIButton"; normalTitle = "Help"; ObjectID = "vQw-sa-IVI"; */
+"vQw-sa-IVI.normalTitle" = "ช่วยเหลือ";
+
+/* Class = "UILabel"; text = "Please re-register to receive COVID test results in the app in future."; ObjectID = "yt5-ei-Dqd"; */
+"yt5-ei-Dqd.text" = "โปรดลงทะเบียนใหม่อีกครั้งเพื่อให้กระทรวงสาธารณสุขส่งผลตรวจโควิดให้คุณได้อย่างแม่นยำ";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "yzf-PW-wQr"; */
+"yzf-PW-wQr.normalTitle" = "ลองอีกครั้ง";

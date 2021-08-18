@@ -1,0 +1,231 @@
+
+/* Class = "UILabel"; text = "Help stop the spread of COVID-19 by turning Bluetooth on"; ObjectID = "00h-JA-MfK"; */
+"00h-JA-MfK.text" = "Bluetooth-ஐ இயக்கி COVID-19 கிருமிப் பரவலைத் தடுக்க உதவுங்கள்";
+
+/* Class = "UILabel"; text = "Help stop the virus spread by allowing all permissions."; ObjectID = "0Ce-nD-DpI"; */
+"0Ce-nD-DpI.text" = "அனைத்து அனுமதிகளையும் வழங்கி கிருமி பரவுவதை நிறுத்த உதவுங்கள்";
+
+/* Class = "UILabel"; text = "Set up app permissions\n"; ObjectID = "0pO-gl-umK"; */
+"0pO-gl-umK.text" = "செயலிக்கான அனுமதிகளை ஏற்று அமைக்கவும்\n";
+
+/* Class = "UILabel"; text = "Ask friends and family to help"; ObjectID = "1vD-4L-kMa"; */
+"1vD-4L-kMa.text" = "நண்பர்கள் மற்றும் குடும்பத்தினரிடம் உதவுமாறு கேட்கவும்";
+
+/* Class = "UILabel"; text = "TempIDs you have encountered, sorted by number of encounters"; ObjectID = "2PA-qS-5Rm"; */
+"2PA-qS-5Rm.text" = "TempIDs you have encountered, sorted by number of encounters";
+
+/* Class = "UIButton"; normalTitle = "Great!!!"; ObjectID = "2RA-ER-v0N"; */
+"2RA-ER-v0N.normalTitle" = "நன்று!!!";
+
+/* Class = "UILabel"; text = "Share this app"; ObjectID = "2VB-oc-qKW"; */
+"2VB-oc-qKW.text" = "இந்த செயலியைப் பகிரவும்";
+
+/* Class = "UILabel"; text = "+ 65"; ObjectID = "4Qg-u8-c4r"; */
+"4Qg-u8-c4r.text" = "+ 65";
+
+/* Class = "UILabel"; text = "To protect those around you, MOH may also ask you to share your data."; ObjectID = "6HD-UN-iTU"; */
+"6HD-UN-iTU.text" = "உங்களைச் சுற்றி இருப்போரைப் பாதுகாப்பதற்காக, உங்கள் தரவைப் பகிருமாறு அமைச்சு (MOH) கேட்கலாம்.";
+
+/* Class = "UIButton"; normalTitle = "Resend Code"; ObjectID = "6Rh-JE-cit"; */
+"6Rh-JE-cit.normalTitle" = "குறியீட்டை மீண்டும் அனுப்புக";
+
+/* Class = "UILabel"; text = "Enter your mobile number to be contacted"; ObjectID = "6U2-DI-o9Z"; */
+"6U2-DI-o9Z.text" = "உங்களைத் தொடர்பு கொள்வதற்காக, உங்கள் கைபேசி எண்ணை உள்ளிடவும்";
+
+/* Class = "UILabel"; text = "SwiftMed (our sister app️) is now running to keep you and your comrades safe!🖖\n\nActivate TraceTogether when reservist ends."; ObjectID = "7kw-Hy-t57"; */
+"7kw-Hy-t57.text" = "உங்களையும் உங்கள் கூட்டாளர்களையும் பாதுகாப்பாக வைத்திருக்க SwiftMed (எங்கள் கூட்டாளர் செயலி) இப்போது இயங்குகிறது! \n\nபோர்க்காலப் படைவீரர்க்கான பயிற்சி முடிவடைந்தவுடன், ஒன்றிணைந்து தடமறிதலைச் செயல்படுத்தவும்.";
+
+/* Class = "UILabel"; text = "Read our"; ObjectID = "8kX-AB-ztf"; */
+"8kX-AB-ztf.text" = "எங்களது";
+
+/* Class = "UILabel"; text = "Setup is incomplete"; ObjectID = "93z-Iu-TSR"; */
+"93z-Iu-TSR.text" = "அமைப்பு முழுமை அடையவில்லை!";
+
+/* Class = "UILabel"; text = "Both are needed for the app to work.\nYour battery usage may increase."; ObjectID = "9oG-IT-1nY"; */
+"9oG-IT-1nY.text" = "செயலி இயங்க, இரண்டும் தேவை. உங்கள் மின்கலம் பயன்பாடு அதிகரிக்கக்கூடும்.";
+
+/* Class = "UILabel"; text = "Toggle advertisement"; ObjectID = "9wZ-lc-Wcg"; */
+"9wZ-lc-Wcg.text" = "Toggle advertisement";
+
+/* Class = "UILabel"; text = "Central state:"; ObjectID = "AaM-mf-r4E"; */
+"AaM-mf-r4E.text" = "Central state:";
+
+/* Class = "UILabel"; text = "Turn on your Bluetooth"; ObjectID = "Ahv-yZ-Jd3"; */
+"Ahv-yZ-Jd3.text" = "உங்கள் Bluetooth-ஐ இயக்கவும்";
+
+/* Class = "UILabel"; text = "To access power saver mode:"; ObjectID = "FdU-iA-P2V"; */
+"FdU-iA-P2V.text" = "மின்சக்திச் சேமிப்பு பயன்முறையை அணுக:";
+
+/* Class = "UILabel"; text = "If you had close contact with a COVID-19 case, we help the Ministry of Health (MOH) call you more quickly, to provide guidance and care.\n"; ObjectID = "G2G-ck-rYV"; */
+"G2G-ck-rYV.text" = "நீங்கள் COVID-19 பாதிக்கப்பட்டவருடன் நெருங்கிய தொடர்பில் இருந்திருந்தால், சுகாதார அமைச்சு (MOH) உங்களை விரைவில் தொடர்பு கொண்டு, வழிகாட்டுதலும் பராமரிப்பும் வழங்க உதவுகிறோம்.\n";
+
+/* Class = "UILabel"; text = "Enter OTP that was sent to "; ObjectID = "GWc-qS-9y6"; */
+"GWc-qS-9y6.text" = "-க்கு அனுப்பப்பட்ட  OTP-ஐ  உள்ளிடவும்";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "HuB-0B-BW3"; */
+"HuB-0B-BW3.title" = "Settings";
+
+/* Class = "UITabBarController"; title = "Main"; ObjectID = "JXd-F4-xFZ"; */
+"JXd-F4-xFZ.title" = "Main";
+
+/* Class = "UILabel"; text = "Push Notifications: Off"; ObjectID = "K6z-fL-CBE"; */
+"K6z-fL-CBE.text" = "மிகுதி அறிவிப்புகள்: Off";
+
+/* Class = "UIButton"; normalTitle = "Wrong number?"; ObjectID = "K7X-Ux-SAc"; */
+"K7X-Ux-SAc.normalTitle" = "தவறான எண்ணா?";
+
+/* Class = "UILabel"; text = "Number of unique TempIDs encountered:"; ObjectID = "K9L-bb-Uz0"; */
+"K9L-bb-Uz0.text" = "Number of unique TempIDs encountered:";
+
+/* Class = "UILabel"; text = "Your code will expire in 3:00."; ObjectID = "Kc0-pn-IHx"; */
+"Kc0-pn-IHx.text" = "உங்கள் குறியீடு 3:00 இல் காலாவதியாகும்.";
+
+/* Class = "UILabel"; text = "1. Bluetooth\n2. Push notifications\n"; ObjectID = "Kv0-mp-Xoy"; */
+"Kv0-mp-Xoy.text" = "1. Bluetooth\n2. மிகுதி அறிவிப்புகள்";
+
+/* Class = "UILabel"; text = "Toggle scanning"; ObjectID = "LS7-Ae-1lF"; */
+"LS7-Ae-1lF.text" = "Toggle scanning";
+
+/* Class = "UIButton"; normalTitle = "I want to help"; ObjectID = "LX0-7p-Shs"; */
+"LX0-7p-Shs.normalTitle" = "நான் உதவ விரும்புகிறேன்";
+
+/* Class = "UILabel"; text = "Allow Bluetooth: Off"; ObjectID = "LpF-lX-utx"; */
+"LpF-lX-utx.text" = "அனுமதி Bluetooth: Off";
+
+/* Class = "UIButton"; normalTitle = "Obtain Bluetooth state"; ObjectID = "LwD-cg-62p"; */
+"LwD-cg-62p.normalTitle" = "Obtain Bluetooth state";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "M1A-NB-uUq"; */
+"M1A-NB-uUq.normalTitle" = "Logout";
+
+/* Class = "UILabel"; text = "We use Bluetooth signals to determine if you are near another TraceTogether user. \n\nThis proximity data is encrypted and stored only on your phone.\n\nMOH will seek your consent to upload the data, if it’s needed for contact tracing."; ObjectID = "ML0-z9-4tI"; */
+"ML0-z9-4tI.text" = "நீங்கள் 'ஒன்றிணைந்து  தடமறிதல்'-ஐ பதிவு செய்த மற்றொரு பயனர் அருகில் இருக்கிறீர்களா என்பதை தீர்மானிக்க Bluetoothசிக்னல்களைப்ப யன்படுத்துகிறோம். \n\n இந்த அருகாமை பற்றிய தரவு குறியாக்கம் செய்யப்பட்டு உங்கள் தொலைபேசியில் மட்டுமே சேமிக்கப்படுகிறது. \n\n தொடர்புத் தடமறிதலுக்குத் தேவைப்பட்டால், தரவைப் பதிவேற்ற MOH உங்கள் அனுமதியைக் கோரும்.";
+
+/* Class = "UIButton"; normalTitle = "I agree"; ObjectID = "N9Z-d2-PXT"; */
+"N9Z-d2-PXT.normalTitle" = "ஒப்புக்கொள்கிறேன்";
+
+/* Class = "UILabel"; text = "This saves battery, by letting the app scan with the phone’s display turned off."; ObjectID = "Ofb-30-OTz"; */
+"Ofb-30-OTz.text" = "உங்கள் கைபேசி திரை அணைந்திருக்கும் போது, செயலி இயங்குவதின் மூலம், மின்கலத்தின் ஆற்றல் சேமிக்கப் படுகிறது";
+
+/* Class = "UILabel"; text = "Please leave all settings on until the outbreak ends."; ObjectID = "PEf-6L-JIR"; */
+"PEf-6L-JIR.text" = "தாக்கம் முடியும் வரை எல்லா அமைப்புகளையும் இயங்கும் நிலையில் விடவும்.";
+
+/* Class = "UIButton"; normalTitle = "I turned on Bluetooth"; ObjectID = "QGC-4P-Xbk"; */
+"QGC-4P-Xbk.normalTitle" = "Bluetooth-ஐ இயக்கியுள்ளேன்";
+
+/* Class = "UIButton"; normalTitle = "I'll keep this in mind"; ObjectID = "Rda-kZ-idO"; */
+"Rda-kZ-idO.normalTitle" = "இதை நான் நினைவில் வைத்திருப்பேன்";
+
+/* Class = "UILabel"; text = "Bluetooth: Off"; ObjectID = "T1S-u0-WAI"; */
+"T1S-u0-WAI.text" = "Bluetooth: Off";
+
+/* Class = "UIButton"; normalTitle = "Get OTP"; ObjectID = "Tuw-g5-oMO"; */
+"Tuw-g5-oMO.normalTitle" = "OTP-ஐப் பெறவும்";
+
+/* Class = "UILabel"; text = "Then come back to the app to confirm."; ObjectID = "Ure-ju-qCc"; */
+"Ure-ju-qCc.text" = "பின்னர் செயலிக்குத் திரும்பி, உறுதி செய்யவும்.";
+
+/* Class = "UILabel"; text = "How you can help stop the spread of COVID-19"; ObjectID = "W1I-gM-V0v"; */
+"W1I-gM-V0v.text" = "COVID-19 பரவுவதை நிறுத்த நீங்கள் எவ்வாறு உதவலாம்";
+
+/* Class = "UILabel"; text = "Keep app open in power saver mode, especially in meetings, public spaces, and public transport."; ObjectID = "WV2-xp-47d"; */
+"WV2-xp-47d.text" = "மின்சக்திச் சேமிப்பு பயன்முறையில் செயலியைத் திறந்து வைக்கவும், குறிப்பாக கூட்டங்கள், பொது இடங்கள் மற்றும் பொதுப் போக்குவரத்தில்.";
+
+/* Class = "UILabel"; text = "To allow TraceTogether users to send MOH information of encounters with you, if they are confirmed or suspected to have COVID-19 "; ObjectID = "WZa-7l-4tI"; */
+"WZa-7l-4tI.text" = "மற்ற 'ஒன்றிணைந்து தடமறிதல்' பயனர்களுக்கு COVID-19 கிருமித்தொற்று உறுதிசெய்யப்பட்டாலோ அல்லது சந்தேகப்பட்டாலோ, உங்களுடன் அவர் சந்தித்ததை பற்றிய விவரங்கள் சுகாதார அமைப்புக்கு (MOH) அனுப்ப ஒப்புதல் ";
+
+/* Class = "UITabBarController"; title = "Debug"; ObjectID = "Wr5-6q-62a"; */
+"Wr5-6q-62a.title" = "Debug";
+
+/* Class = "UIButton"; normalTitle = "Proceed"; ObjectID = "Zmj-3v-POB"; */
+"Zmj-3v-POB.normalTitle" = "தொடரவும்";
+
+/* Class = "UILabel"; text = "Wrong OTP entered"; ObjectID = "aWN-Zo-GBT"; */
+"aWN-Zo-GBT.text" = "தவறான கடவுச்சொல்லை (OTP) உள்ளிட்டுள்ளீர்கள்";
+
+/* Class = "UILabel"; text = "Bluetooth: On"; ObjectID = "byz-Ld-DQp"; */
+"byz-Ld-DQp.text" = "Bluetooth: On";
+
+/* Class = "UILabel"; text = "iPhone users, take note!"; ObjectID = "cIb-XG-DLg"; */
+"cIb-XG-DLg.text" = "iPhone பயனர்களே, குறித்துக் கொள்ளுங்கள்!";
+
+/* Class = "UITabBarItem"; title = "Help"; ObjectID = "deh-eO-0VD"; */
+"deh-eO-0VD.title" = "உதவிக்கு";
+
+/* Class = "UIButton"; normalTitle = "privacy safeguards"; ObjectID = "fHp-qK-Q85"; */
+"fHp-qK-Q85.normalTitle" = "தனியுரிமை பாதுகாப்புகளை படிக்கவும்";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "fwi-lK-bOF"; */
+"fwi-lK-bOF.normalTitle" = "தொடரவும்";
+
+/* Class = "UITabBarItem"; title = "TempIDs"; ObjectID = "gNq-to-dhP"; */
+"gNq-to-dhP.title" = "TempIDs";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "gdZ-Bw-jvd"; */
+"gdZ-Bw-jvd.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Clear logs"; ObjectID = "hRC-lV-uQr"; */
+"hRC-lV-uQr.normalTitle" = "Clear logs";
+
+/* Class = "UILabel"; text = "App permissions are fully set up"; ObjectID = "jCO-yx-Tur"; */
+"jCO-yx-Tur.text" = "'ஒன்றிணைந்து தடமறிதல்'  செயலிக்கான அனுமதிகள் முழுமையாக அமைக்கப்பட்டன";
+
+/* Class = "UILabel"; text = "Peripheral state:"; ObjectID = "kbp-vB-pVU"; */
+"kbp-vB-pVU.text" = "Peripheral state:";
+
+/* Class = "UILabel"; text = "App Permissions Status"; ObjectID = "lM2-pC-IPR"; */
+"lM2-pC-IPR.text" = "செயலி அனுமதி நிலை";
+
+/* Class = "UIButton"; normalTitle = "Verify"; ObjectID = "lQY-RW-yBL"; */
+"lQY-RW-yBL.normalTitle" = "சரிபார்க்கவும்";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "ldq-ma-pwg"; */
+"ldq-ma-pwg.title" = "முதல் பக்கம்";
+
+/* Class = "UILabel"; text = "Allow Bluetooth: On"; ObjectID = "lkG-8h-L41"; */
+"lkG-8h-L41.text" = "அனுமதி Bluetooth: On";
+
+/* Class = "UILabel"; text = "Select ‘Yes’ for the next two screens to set up.\n"; ObjectID = "npY-9G-r2u"; */
+"npY-9G-r2u.text" = "பின்வரும் இரண்டு திரைகளில் ‘ஆம்’ என்பதைத் தேர்ந்தெடுக்கவும்.\n";
+
+/* Class = "UILabel"; text = "To store your mobile number in a secured TraceTogether registry"; ObjectID = "oXq-Kh-nOP"; */
+"oXq-Kh-nOP.text" = "உங்களது கைபேசி எண்ணை 'ஒன்றிணைந்து தடமறிதல்'-இன் பாதுகாப்பான பதிவேட்டில் சேர்க்க ஒப்புதல் ";
+
+/* Class = "UILabel"; text = "We'll text you a One-Time Pin (OTP)."; ObjectID = "oa7-Z8-RbO"; */
+"oa7-Z8-RbO.text" = "நாங்கள் உங்களுக்கு ஒரு முறை கடவுச்சொல்லை (OTP) அனுப்புவோம்";
+
+/* Class = "UILabel"; text = "Debug logs"; ObjectID = "p85-OU-TR2"; */
+"p85-OU-TR2.text" = "Debug logs";
+
+/* Class = "UILabel"; text = "Your consent is needed for the following:"; ObjectID = "swY-fQ-mdw"; */
+"swY-fQ-mdw.text" = "பின்வருவனவற்றிக்கு உங்களது ஒப்புதல் தேவை :";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "t3V-hm-cl2"; */
+"t3V-hm-cl2.text" = "Settings";
+
+/* Class = "UILabel"; text = "Do this from Control Center or go to Settings."; ObjectID = "tjL-QF-W6s"; */
+"tjL-QF-W6s.text" = "'Control Center'-இல் இதை செய்யுங்கள் அல்லது 'Settings'-ற்குள் செல்லவும்.";
+
+/* Class = "UILabel"; text = "How TraceTogether works"; ObjectID = "u5f-cs-P3k"; */
+"u5f-cs-P3k.text" = "'ஒன்றிணைந்து தடமறிதல்' எவ்வாறு  செயல்படுகிறது";
+
+/* Class = "UITabBarItem"; title = "Logs"; ObjectID = "uSm-wg-y7O"; */
+"uSm-wg-y7O.title" = "Logs";
+
+/* Class = "UILabel"; text = "Last updated: 10:10 pm"; ObjectID = "upc-i0-4H3"; */
+"upc-i0-4H3.text" = "கடைசியாகப் புதுப்பிக்கப்பட்டது: 10:10 pm";
+
+/* Class = "UILabel"; text = "TempIDs"; ObjectID = "uyw-zh-fkG"; */
+"uyw-zh-fkG.text" = "TempIDs";
+
+/* Class = "UILabel"; text = "Push Notifications: On"; ObjectID = "vcv-Er-8qy"; */
+"vcv-Er-8qy.text" = "மிகுதி அறிவிப்புகள்: On";
+
+/* Class = "UIButton"; normalTitle = "Take me out of here!"; ObjectID = "vzT-59-yTf"; */
+"vzT-59-yTf.normalTitle" = "Take me out of here!";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "xXg-2v-r6T"; */
+"xXg-2v-r6T.text" = "...";
+
+/* Class = "UILabel"; text = "Setting up for your family? \nUse their number instead of yours."; ObjectID = "xZr-Zr-OIm"; */
+"xZr-Zr-OIm.text" = "உங்கள் குடும்பத்திற்காகப் பதிவு செய்கிறீர்களா? உங்களுடைய கைபேசி எண்ணிற்கு பதிலாக, அவர்களுடைய எண்ணைப் பயன்படுத்தவும்.";

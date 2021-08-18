@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Go to a place often? Save it to your Favourites by tapping on the star."; ObjectID = "2zy-Mt-nC8"; */
+"2zy-Mt-nC8.text" = "Go to a place often? Save it to your Favourites by tapping on the star.";
+
+/* Class = "UILabel"; text = "No Favourites yet"; ObjectID = "gik-DJ-9Ad"; */
+"gik-DJ-9Ad.text" = "No Favourites yet";
+
+/* Class = "UIButton"; normalTitle = "SEE MY HISTORY"; ObjectID = "p33-Xa-21f"; */
+"p33-Xa-21f.normalTitle" = "SEE MY HISTORY";

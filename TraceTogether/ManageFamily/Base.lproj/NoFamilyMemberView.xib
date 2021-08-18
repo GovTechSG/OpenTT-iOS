@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina5_5" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17126"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="NoFamilyMemberView" customModule="TraceTogether" customModuleProvider="target">
+            <connections>
+                <outlet property="addFamilyMembersBtn" destination="XTF-Zb-xTs" id="b0E-Ll-biN"/>
+                <outlet property="noFamilyMemberContentView" destination="iN0-l3-epB" id="Ma1-pp-UUx"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="u2H-Vb-yL6">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="664"/>
+                    <subviews>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="LovedOnes-1" translatesAutoresizingMaskIntoConstraints="NO" id="o3J-GF-ejm">
+                            <rect key="frame" x="87" y="69" width="240" height="198"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="198" id="Nrg-qy-xJR"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Add your family members" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DHR-pf-Utk">
+                            <rect key="frame" x="16" y="299" width="382" height="25.333333333333314"/>
+                            <fontDescription key="fontDescription" type="system" weight="medium" pointSize="21"/>
+                            <color key="textColor" red="0.30980392156862746" green="0.30980392156862746" blue="0.30980392156862746" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Do SafeEntry check-in for your family members who may not carry mobile devices." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wWf-9k-Lqj">
+                            <rect key="frame" x="24" y="336.33333333333331" width="366" height="40.666666666666686"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <color key="textColor" red="0.30980392156862746" green="0.30980392156862746" blue="0.30980392156862746" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <constraints>
+                        <constraint firstItem="o3J-GF-ejm" firstAttribute="top" secondItem="u2H-Vb-yL6" secondAttribute="top" constant="69" id="2bQ-54-h6Q"/>
+                        <constraint firstAttribute="trailing" secondItem="wWf-9k-Lqj" secondAttribute="trailing" constant="24" id="6kb-Th-6VB"/>
+                        <constraint firstItem="wWf-9k-Lqj" firstAttribute="top" secondItem="DHR-pf-Utk" secondAttribute="bottom" constant="12" id="TGm-Wu-6Yp"/>
+                        <constraint firstItem="wWf-9k-Lqj" firstAttribute="centerX" secondItem="u2H-Vb-yL6" secondAttribute="centerX" id="TPf-7g-J5M"/>
+                        <constraint firstItem="DHR-pf-Utk" firstAttribute="centerX" secondItem="u2H-Vb-yL6" secondAttribute="centerX" id="XVb-7a-T5D"/>
+                        <constraint firstItem="DHR-pf-Utk" firstAttribute="top" secondItem="o3J-GF-ejm" secondAttribute="bottom" constant="32" id="YDs-1D-nZO"/>
+                        <constraint firstItem="o3J-GF-ejm" firstAttribute="leading" secondItem="u2H-Vb-yL6" secondAttribute="leading" constant="87" id="ZPa-JD-shq"/>
+                        <constraint firstAttribute="bottom" secondItem="wWf-9k-Lqj" secondAttribute="bottom" constant="24" id="eai-9j-cd2"/>
+                        <constraint firstItem="DHR-pf-Utk" firstAttribute="leading" secondItem="u2H-Vb-yL6" secondAttribute="leading" constant="16" id="kh7-lZ-ses"/>
+                        <constraint firstAttribute="trailing" secondItem="o3J-GF-ejm" secondAttribute="trailing" constant="87" id="lS0-RR-jes"/>
+                        <constraint firstAttribute="trailing" secondItem="DHR-pf-Utk" secondAttribute="trailing" constant="16" id="pGm-Hu-qPc"/>
+                        <constraint firstItem="wWf-9k-Lqj" firstAttribute="leading" secondItem="u2H-Vb-yL6" secondAttribute="leading" constant="24" id="vNA-EV-cLe"/>
+                        <constraint firstItem="o3J-GF-ejm" firstAttribute="centerX" secondItem="u2H-Vb-yL6" secondAttribute="centerX" id="zDM-5p-vtg"/>
+                    </constraints>
+                </scrollView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XTF-Zb-xTs">
+                    <rect key="frame" x="24" y="664" width="366" height="40"/>
+                    <color key="backgroundColor" red="1" green="0.396078431372549" blue="0.396078431372549" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <accessibility key="accessibilityConfiguration" label="Add Family Members"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="40" id="miP-bE-ydm"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
+                    <state key="normal" title="ADD FAMILY MEMBERS">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </state>
+                    <connections>
+                        <action selector="addFamilyMembers:" destination="-1" eventType="touchUpInside" id="atQ-7y-E34"/>
+                    </connections>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="XTF-Zb-xTs" firstAttribute="top" secondItem="u2H-Vb-yL6" secondAttribute="bottom" id="2Dk-br-qlm"/>
+                <constraint firstItem="u2H-Vb-yL6" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="3vU-r2-Fcp"/>
+                <constraint firstAttribute="bottom" secondItem="XTF-Zb-xTs" secondAttribute="bottom" constant="32" id="6lD-as-JDK"/>
+                <constraint firstItem="u2H-Vb-yL6" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="7c6-KD-For"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="XTF-Zb-xTs" secondAttribute="trailing" constant="24" id="KwP-lz-ih6"/>
+                <constraint firstItem="u2H-Vb-yL6" firstAttribute="trailing" secondItem="vUN-kp-3ea" secondAttribute="trailing" id="U0c-Zj-1L7"/>
+                <constraint firstItem="u2H-Vb-yL6" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="hH3-h8-VfY"/>
+                <constraint firstItem="XTF-Zb-xTs" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="24" id="zw3-ym-zgl"/>
+            </constraints>
+            <point key="canvasLocation" x="137.68115942028987" y="109.23913043478262"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="LovedOnes-1" width="154.33332824707031" height="168"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

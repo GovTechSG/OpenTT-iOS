@@ -1,0 +1,84 @@
+/* Class = "UIViewController"; title = "Home"; ObjectID = "1kY-xk-79T"; */
+"1kY-xk-79T.title" = "หน้าหลัก";
+
+/* Class = "UILabel"; text = "TraceTogether is paused"; ObjectID = "2t2-5x-oMJ"; */
+"2t2-5x-oMJ.text" = "TraceTogether ปิดใช้งาน";
+
+/* Class = "UILabel"; text = "A safe new normal, together 🇸🇬"; ObjectID = "86W-qR-5cy"; */
+"86W-qR-5cy.text" = "ใช้ชีวิตอย่างปลอดภัยด้วยกัน 🇸🇬";
+
+/* Class = "UIButton"; normalTitle = "RESUME NOW"; ObjectID = "JcN-9C-LoH"; */
+"JcN-9C-LoH.normalTitle" = "เปิดใช้งานต่อ";
+
+/* Class = "UIButton"; normalTitle = "Pause TraceTogether"; ObjectID = "M1I-I7-gty"; */
+"M1I-I7-gty.normalTitle" = "หยุด TraceTogether ชั่วคราว";
+
+/* Class = "UILabel"; text = "Share this app"; ObjectID = "vWo-Uv-0Qm"; */
+"vWo-Uv-0Qm.text" = "แชร์แอปนี้";
+
+/* Class = "UILabel"; text = "SafeEntry check in"; ObjectID = "XNl-VG-8vW"; */
+"XNl-VG-8vW.text" = "เช็คอินของ SafeEntry";
+
+/* Class = "UILabel"; text = "Watch latest updates"; ObjectID = "Bjp-gY-JkP"; */
+"Bjp-gY-JkP.text" = "Watch latest updates";
+
+/* Class = "UILabel"; text = "SafeEntry"; ObjectID = "Hco-H4-FYg"; */
+"Hco-H4-FYg.text" = "SafeEntry";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "dKx-a6-luR"; */
+"dKx-a6-luR.title" = "หน้าหลัก";
+
+/* Class = "UITextView"; text = "We will not be able to help you note possible exposure to COVID-19 during this period ☹️"; ObjectID = "lKr-ef-kke"; */
+"lKr-ef-kke.text" = "We will not be able to help you note possible exposure to COVID-19 during this period ☹️";
+
+/* Class = "UILabel"; text = "Your app is active"; ObjectID = "n0K-zy-WGC"; */
+"n0K-zy-WGC.text" = "แอปของคุณเปิดใช้งานอยู่";
+
+/* New check in */
+"yOF-17-9Ag.normalTitle" = "เช็คอินใหม่";
+/* Last QR check in */
+"GLl-hE-oAf.text" = "เช็คอินครั้งล่าสุด";
+/* View Pass */
+"SmV-tA-hCi.normalTitle" = "<u>วิวพาส</u>";
+/* Check out */
+"t4i-gI-VlH.normalTitle" = "เช็คเอาท์";
+
+/* Exposure Green Title - You're okay */
+"oaZ-oS-pjg.text" = "ไม่มีปัญหา";
+/* Exposure Green Details - Based on all your TraceTogether and SafeEntry records from the last 14 days. See Details*/
+"KJU-GF-jRH.text" = "อ้างอิงจากบันทึก TraceTogether และ SafeEntry ของคุณในช่วง 14 วันที่ผ่านมา <c:#0070E0><u>ดูรายละเอียด</u> →</c>";
+/* Exposure Red Title - Possible exposure */
+"86P-mb-U1d.text" = "การสัมผัสกับผู้ป่วยโควิดที่เป็นไปได้";
+/* Exposure Red Details - You were at places visited by COVID-19 cases. See Details */
+"SfZ-3n-KFa.text" = "คุณได้อยู่ที่สถานที่ที่ผู้ป่วยโควิดได้ไป <c:#0070E0><u>ดูรายละเอียด</u> →</c>";
+
+/* Share Card - Stay safe together.\nShare the app! */
+"hDF-Mu-36w.text" = "ปลอดภัยไปด้วยกัน\nแชร์แอปนี้!";
+
+/* This feature is only needed in Singapore. <b><u>If you're currently in Singapore,</b></u> re-register to enable the feature.*/
+"RVQ-lK-fyg.text" = "This feature is only needed in Singapore.
+<b><u>If you're currently in Singapore,</b></u> re-register to enable the feature.";
+
+/* More info */
+"B14-qh-Lg8.normalTitle" = "<u>More info</u>";
+
+/* Re-register */
+"fuO-Wh-615.normalTitle" = "ลงทะเบียนอีกครั้ง";
+
+/* How long should you keep the app for? */
+"yfR-2z-Jou.text" = "คุณควรเปิดใช้แอปนานเพียงใด";
+
+// Got it
+"MRm-cq-hnk.normalTitle" = "โอเค!";
+
+//Scan QR
+"NKj-tw-vpI.text" = "สแกน QR";
+
+//Favourites
+"8Qk-WW-MUx.text" = "รายการโปรด";
+
+//Group
+"RM7-Lw-sLT.text" = "กลุ่ม";
+
+//Updated every few mins
+"STd-MN-bYh.text" = "ข้อมูลได้รับการอัปเดตทุกสองสามนาที";

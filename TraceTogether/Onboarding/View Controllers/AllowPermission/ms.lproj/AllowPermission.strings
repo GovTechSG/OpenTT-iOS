@@ -1,0 +1,33 @@
+
+/* Class = "UIButton"; normalTitle = "ALLOW"; ObjectID = "2zt-v1-hhA"; */
+"2zt-v1-hhA.normalTitle" = "BENARKAN";
+
+/* Class = "UILabel"; text = "Last step:  Turn on Bluetooth"; ObjectID = "6U7-js-wgl"; */
+"6U7-js-wgl.text" = "Langkah terakhir:  Hidupkan Bluetooth";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "DCS-Dz-ub4"; */
+"DCS-Dz-ub4.normalTitle" = "SETERUSNYA";
+
+/* Class = "UILabel"; text = "All app Bluetooth data after 25 days will be automatically deleted."; ObjectID = "Eu2-mM-gWa"; */
+"Eu2-mM-gWa.text" = "Semua data Bluetooth aplikasi dipadam secara automatik setiap 25 hari.";
+
+/* Class = "UILabel"; text = "To help you note possible exposure to COVID-19, your phone needs Bluetooth"; ObjectID = "TIl-OJ-p6N"; */
+"TIl-OJ-p6N.text" = "Untuk ketahui pendedahan berpotensi COVID-19, Bluetooth diperlukan";
+
+/* Class = "UIButton"; normalTitle = "GOT IT, WILL DO!"; ObjectID = "YK3-Ii-6rR"; */
+"YK3-Ii-6rR.normalTitle" = "YA, SAYA FAHAM!";
+
+/* Class = "UIButton"; normalTitle = "ALLOW"; ObjectID = "dbs-LN-AKi"; */
+"dbs-LN-AKi.normalTitle" = "BENARKAN";
+
+/* Class = "UILabel"; text = "Motion and Fitness Activity"; ObjectID = "eGx-S4-06X"; */
+"eGx-S4-06X.text" = "Aktivti Pergerakan dan Kecergasan";
+
+/* Class = "UILabel"; text = "Go to Settings or Control Center and turn on your phone’s Bluetooth. \n\nThen come back to the app."; ObjectID = "jzQ-wJ-Ece"; */
+"jzQ-wJ-Ece.text" = "Maju ke Tetapan atau Pusat Kawalan dan hidupkan Bluetooth. \n\nKembali ke aplikasi.";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "tvm-f1-bLa"; */
+"tvm-f1-bLa.text" = "Pemberitahuan";
+
+/* Class = "UILabel"; text = "Bluetooth"; ObjectID = "xyh-Ya-fb1"; */
+"xyh-Ya-fb1.text" = "Bluetooth";

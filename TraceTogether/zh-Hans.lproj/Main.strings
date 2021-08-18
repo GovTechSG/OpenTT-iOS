@@ -1,0 +1,98 @@
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "1v6-PL-zYo"; */
+"1v6-PL-zYo.text" = "必填字段";
+
+/* Class = "UILabel"; text = "To the people of Singapore, with love"; ObjectID = "5Dw-z0-wjL"; */
+"5Dw-z0-wjL.text" = "致我们敬爱的新加坡人民";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "68p-pV-AiD"; */
+"68p-pV-AiD.normalTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = "Resend OTP"; ObjectID = "6Rh-JE-cit"; */
+"6Rh-JE-cit.normalTitle" = "重发 OTP";
+
+/* Class = "UILabel"; text = "Enter your mobile number"; ObjectID = "6U2-DI-o9Z"; */
+"6U2-DI-o9Z.text" = "输入您的手机号码";
+
+/* Class = "UILabel"; text = "Verify your mobile number"; ObjectID = "7ld-e4-bn5"; */
+"7ld-e4-bn5.text" = "验证您的手机号码";
+
+/* Class = "UILabel"; text = "MOH will use this number to contact you if you had possible exposure to COVID-19."; ObjectID = "91U-bo-62v"; */
+"91U-bo-62v.text" = "若您可能与冠病确诊病例接触过，MOH将使用此号码联系您。";
+
+/* Class = "UILabel"; text = "Dear people of Singapore,"; ObjectID = "9cK-8k-rST"; */
+"9cK-8k-rST.text" = "亲爱的新加坡人民,";
+
+/* Class = "UILabel"; text = "And the way back to normal starts with all of us, here."; ObjectID = "DEa-ZV-4qP"; */
+"DEa-ZV-4qP.text" = "让我们万众一心，共同迈入安全的新常态。";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "FB4-Ns-jU3"; */
+"FB4-Ns-jU3.title" = "Item";
+
+/* Class = "UILabel"; text = "Enter the one-time pin (OTP) sent to "; ObjectID = "GWc-qS-9y6"; */
+"GWc-qS-9y6.text" = "输入发送到[phone number]的OTP ";
+
+/* Class = "UITabBarController"; title = "Main"; ObjectID = "JXd-F4-xFZ"; */
+"JXd-F4-xFZ.title" = "Main";
+
+/* Class = "UIButton"; normalTitle = "LET'S GO"; ObjectID = "Jr6-r5-PwZ"; */
+"Jr6-r5-PwZ.normalTitle" = "开始";
+
+/* Class = "UIButton"; normalTitle = "Wrong number?"; ObjectID = "K7X-Ux-SAc"; */
+"K7X-Ux-SAc.normalTitle" = "号码错误?";
+
+/* Class = "UIButton"; normalTitle = "GET OTP"; ObjectID = "Tuw-g5-oMO"; */
+"Tuw-g5-oMO.normalTitle" = "获取OTP（一次性密码）";
+
+/* Class = "UILabel"; text = "It’s about how we can help one another resume life safely."; ObjectID = "ZR9-l0-us4"; */
+"ZR9-l0-us4.text" = "您可以帮助我们更安全地抗击疫情。通过使用“合力追踪”和帮助他人设置此应用程序，您能制止冠病病毒的传播，保护您的亲友。";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "a1b-A0-kue"; */
+"a1b-A0-kue.normalTitle" = "下一步";
+
+/* Class = "UILabel"; text = "Wrong OTP entered"; ObjectID = "aWN-Zo-GBT"; */
+"aWN-Zo-GBT.text" = "OTP输入有误";
+
+/* Class = "UILabel"; text = "Data is only used when needed"; ObjectID = "cR2-jD-1C4"; */
+"cR2-jD-1C4.text" = "数据仅在有需要时使用";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "g7m-W6-BSB"; */
+"g7m-W6-BSB.normalTitle" = "返回";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "gCZ-QA-hyO"; */
+"gCZ-QA-hyO.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "gdZ-Bw-jvd"; */
+"gdZ-Bw-jvd.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "kJo-hQ-s9z"; */
+"kJo-hQ-s9z.normalTitle" = "返回";
+
+/* Class = "UIButton"; normalTitle = "VERIFY"; ObjectID = "lQY-RW-yBL"; */
+"lQY-RW-yBL.normalTitle" = "验证";
+
+/* Class = "UIButton"; normalTitle = "Change Language"; ObjectID = "mX1-fu-fRD"; */
+"mX1-fu-fRD.normalTitle" = "更改语言";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "sXw-5t-QMM"; */
+"sXw-5t-QMM.normalTitle" = "下一步";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "sal-f1-LGG"; */
+"sal-f1-LGG.normalTitle" = "返回";
+
+/* Class = "UILabel"; text = "Tap letter to open"; ObjectID = "wga-Wh-W6B"; */
+"wga-Wh-W6B.text" = "打开信封";
+                        
+/* Class = "UILabel"; text = "We’ve had a tough year, with many sacrifices as we fight the virus. In the next phase of our fight, we want to help one another live life normally, as safely as we can. "; ObjectID = "wkG-G3-ozk"; */
+"wkG-G3-ozk.text" = "今年是个充满挑战的一年。我们努力对抗疫情的同时，也做出了许多的牺牲。我们在接下来的抗疫阶段中必须齐心协力、安全有序地恢复正常生活。";
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "wwb-2h-BNJ"; */
+"wwb-2h-BNJ.title" = "设置";
+
+/* Class = "UILabel"; text = "Note: This app is only intended for use in Singapore. Some overseas networks and phone numbers may not receive one-time pin (OTP) for verification. In such cases, please set up your app in Singapore, using a local SIM card."; ObjectID = "E16-RR-pAb"; */
+"E16-RR-pAb.text" = "Note: This app is only intended for use in Singapore. Some overseas networks and phone numbers may not receive one-time pin (OTP) for verification. In such cases, please set up your app in Singapore, using a local SIM card.";
+
+/* Class = "UILabel"; text = "Note: This app is only intended for use in Singapore. Some overseas networks and phone numbers may not receive one-time pin (OTP) for verification. In such cases, please set up your app in Singapore, using a local SIM card."; ObjectID = "lOW-Fl-he7"; */
+"lOW-Fl-he7.text" = "Note: This app is only intended for use in Singapore. Some overseas networks and phone numbers may not receive one-time pin (OTP) for verification. In such cases, please set up your app in Singapore, using a local SIM card.";
+
+/* Class = "UITextView"; text = “{{privacy}}”; ObjectID = "DYU-df-Er0"; */
+"DYU-df-Er0.text" = "*TraceTogether data is subject to prevailing legislation. See our <a:privacy><u>Privacy Safeguards</u></a> for details.";

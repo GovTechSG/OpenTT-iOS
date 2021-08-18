@@ -1,0 +1,123 @@
+
+/* Class = "UIButton"; normalTitle = "CHECK IN"; ObjectID = "08k-SU-PQv"; */
+"08k-SU-PQv.normalTitle" = "CHECK IN";
+
+/* Class = "UILabel"; text = "How to use"; ObjectID = "8sV-4F-ico"; */
+"8sV-4F-ico.text" = "How to use";
+
+/* Class = "UILabel"; text = "Scan QR and go"; ObjectID = "97B-Ht-lTp"; */
+"97B-Ht-lTp.text" = "Scan QR and go";
+
+/* Class = "UIViewController"; title = "CheckInOutViewController"; ObjectID = "Arn-fO-tgO"; */
+"Arn-fO-tgO.title" = "CheckInOutViewController";
+
+/* Class = "UIButton"; normalTitle = "Scan the SafeEntry QR code"; ObjectID = "CGf-e9-4Lr"; */
+"CGf-e9-4Lr.normalTitle" = "Scan the SafeEntry QR code";
+
+/* Class = "UIButton"; normalTitle = "BACK TO HOME"; ObjectID = "Ccj-Cm-uV6"; */
+"Ccj-Cm-uV6.normalTitle" = "BACK TO HOME";
+
+/* Class = "UILabel"; text = "SafeEntry check in"; ObjectID = "Dc9-oZ-ekY"; */
+"Dc9-oZ-ekY.text" = "SafeEntry check in";
+
+/* Class = "UIButton"; normalTitle = "SXXXXXXXX"; ObjectID = "EHJ-Es-FOa"; */
+"EHJ-Es-FOa.normalTitle" = "SXXXXXXXX";
+
+/* Class = "UIButton"; normalTitle = "GO TO SETTINGS"; ObjectID = "Igc-AZ-icL"; */
+"Igc-AZ-icL.normalTitle" = "GO TO SETTINGS";
+
+/* Class = "UINavigationItem"; title = "SafeEntry"; ObjectID = "L8R-zk-4NR"; */
+"L8R-zk-4NR.title" = "SafeEntry";
+
+/* Class = "UIButton"; normalTitle = "COOL!"; ObjectID = "LEf-fN-qnw"; */
+"LEf-fN-qnw.normalTitle" = "COOL!";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Lhf-ci-zas"; */
+"Lhf-ci-zas.title" = "Item";
+
+/* Class = "UILabel"; text = "No more form filling! \nAnd just one tap to check out."; ObjectID = "O3w-sb-4PM"; */
+"O3w-sb-4PM.text" = "No more form filling! \nAnd just one tap to check out.";
+
+/* Class = "UILabel"; text = "Need your identity card?"; ObjectID = "Pk5-TH-mbS"; */
+"Pk5-TH-mbS.text" = "Need your identity card?";
+
+/* Class = "UIViewController"; title = "SafeEntryViewController"; ObjectID = "S1v-iX-SWY"; */
+"S1v-iX-SWY.title" = "SafeEntryViewController";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VSw-m7-R4A"; */
+"VSw-m7-R4A.text" = "Label";
+
+/* Class = "UILabel"; text = "Check in to:"; ObjectID = "VqK-Zr-1bd"; */
+"kMn-2u-8uQ.text" = "Check in to:";
+
+/* Class = "UIViewController"; title = "IDViewController"; ObjectID = "Wee-2x-Oou"; */
+"Wee-2x-Oou.title" = "IDViewController";
+
+/* Class = "UINavigationItem"; title = "SafeEntry"; ObjectID = "Yj1-vW-Nwm"; */
+"Yj1-vW-Nwm.title" = "SafeEntry";
+
+/* Class = "UIButton"; normalTitle = "CHECK OUT"; ObjectID = "aj0-mi-rz0"; */
+"aj0-mi-rz0.normalTitle" = "CHECK OUT";
+
+/* Class = "UIButton"; normalTitle = "GOT IT!"; ObjectID = "bzY-EW-I2G"; */
+"bzY-EW-I2G.normalTitle" = "GOT IT!";
+
+/* Class = "UILabel"; text = "* Not applicable if you're seeking treatment at a medical facility\n# Not applicable to COVID-19 frontline workers"; ObjectID = "gKj-Ox-PKK"; */
+"Z2u-4b-lp2.text" = "* Not applicable if you're seeking treatment at a medical facility\n# Not applicable to COVID-19 frontline workers";
+
+/* Class = "UIViewController"; title = "QRScanMessageViewController"; ObjectID = "hOB-Sw-MqA"; */
+"hOB-Sw-MqA.title" = "QRScanMessageViewController";
+
+/* Class = "UITabBarController"; title = "SafeEntryFlow"; ObjectID = "lLr-ag-Dax"; */
+"lLr-ag-Dax.title" = "SafeEntryFlow";
+
+/* Class = "UILabel"; text = "Please allow Camera access"; ObjectID = "lOT-UB-Bbe"; */
+"lOT-UB-Bbe.text" = "Please allow Camera access";
+
+/* Class = "UILabel"; text = "By checking in, you declare that:"; ObjectID = "TAc-de-w74"; */
+"TAc-de-w74.text" = "By checking in, you declare that:";
+
+/* Class = "UILabel"; text = "How to use"; ObjectID = "rBE-V4-Zes"; */
+"rBE-V4-Zes.text" = "How to use";
+
+/* Class = "UIButton"; normalTitle = "BACK TO HOME"; ObjectID = "uEa-su-KVk"; */
+"uEa-su-KVk.normalTitle" = "BACK TO HOME";
+
+/* Class = "UILabel"; text = "This is a super long text This is a super long text This is a super long text This is a super long text This is a super long text This is a super long text This is a super long text "; ObjectID = "v8H-AZ-8Ln"; */
+"v8H-AZ-8Ln.text" = "This is a super long text This is a super long text This is a super long text This is a super long text This is a super long text This is a super long text This is a super long text ";
+
+/* Class = "UILabel"; text = "Scan your digital barcode for SafeEntry check in/out"; ObjectID = "wvi-DP-GuV"; */
+"wvi-DP-GuV.text" = "Scan your digital barcode for SafeEntry check in/out";
+
+/* Class = "UILabel"; text = "Camera Permission is needed to scan SafeEntry QR codes"; ObjectID = "xTD-6g-X2m"; */
+"xTD-6g-X2m.text" = "Camera Permission is needed to scan SafeEntry QR codes";
+
+/* Class = "UIViewController"; title = "QRViewController"; ObjectID = "zNP-40-9RA"; */
+"zNP-40-9RA.title" = "QRViewController";
+
+/* Class = "UILabel"; text = "GOVERNMENT TECHNOLOGY AGENCY MAX. TWO LINESS..."; ObjectID = "ze9-in-RwR"; */
+"ze9-in-RwR.text" = "GOVERNMENT TECHNOLOGY AGENCY MAX. TWO LINESS...";
+
+/* Class = "UINavigationItem"; title = "SafeEntry"; ObjectID = "zhF-on-0Sg"; */
+"zhF-on-0Sg.title" = "SafeEntry";
+
+/* Class = "UILabel"; text = "How to use"; ObjectID = "8sV-4F-ico"; */
+"LKD-DT-cvd.text" = "How to use";
+
+/* Class = "UILabel"; text = "By checking in, you agree with the terms."; ObjectID = "dIA-4w-0pT"; */
+"dIA-4w-0pT.text" = "By checking in, you agree with the terms.";
+
+/* Class = "UILabel"; text = "* Not applicable if you're seeking treatment at a medical facility\n# Not applicable to COVID-19 frontline workers"; ObjectID = "gKj-Ox-PKK"; */
+"AbL-qT-Xtn.text" = "* Not applicable if you're seeking treatment at a medical facility\n# Not applicable to COVID-19 frontline workers";
+
+/* Class = "UILabel"; text = "Visit a place often?"; ObjectID = "3o8-lj-cJN"; */
+"3o8-lj-cJN.text" = "Visit a place often?";
+
+/* Class = "UILabel"; text = "Tap on the star to add it to your Favourites! Skip the QR code on future visits."; ObjectID = "nCw-rw-rHi"; */
+"nCw-rw-rHi.text" = "Tap on the star to add it to your Favourites! Skip the QR code on future visits.";
+
+/* Class = "UIButton"; normalTitle = "AWESOME!"; ObjectID = "Ulr-Dp-gGA"; */
+"Ulr-Dp-gGA.normalTitle" = "AWESOME!";
+
+/* Class = "UILabel"; text = "Check in to:"; ObjectID = "VqK-Zr-1bd"; */
+"VqK-Zr-1bd.text" = "Check in to:";

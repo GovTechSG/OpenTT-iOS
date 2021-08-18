@@ -1,0 +1,147 @@
+
+/* Class = "UILabel"; text = "Card Serial Number"; ObjectID = "0kb-BN-jBt"; */
+"0kb-BN-jBt.text" = "ကတ် ဆီရီရယ်နံပါတ်";
+
+/* Class = "UITextField"; placeholder = "Label"; ObjectID = "2GD-pY-68k"; */
+"2GD-pY-68k.placeholder" = "Label";
+
+/* Class = "UIViewController"; title = "Why do you need my details?"; ObjectID = "2fZ-I5-VuI"; */
+"2fZ-I5-VuI.title" = "ကျွန်ုပ်၏ အသေးစိတ် အချက်အလက်များကို သင် ဘာ့ကြောင့်လိုအပ်ပါသလဲ။";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2oT-He-fP2"; */
+"2oT-He-fP2.text" = "Label";
+
+/* Class = "UILabel"; text = "Front"; ObjectID = "372-Cd-U4Z"; */
+"372-Cd-U4Z.text" = "ရှေ့သို့";
+
+/* Class = "UILabel"; text = "Date of Issue (DD-MM-YYYY)"; ObjectID = "3Hw-Xv-8o8"; */
+"3Hw-Xv-8o8.text" = "ထုတ်ပေးသည့် ရက်စွဲ (DD-MM-YYYY)";
+
+/* Class = "UILabel"; text = "Download SGWorkPass app and scan QR code for Date of Issue"; ObjectID = "3J5-hz-vUU"; */
+"3J5-hz-vUU.text" = "ထုတ်ပေးသည့် ရက်စွဲအတွက် SGWorkPass အက်ပ်ကို ဒေါင်းလုဒ်လုပ်ပါ သို့မဟုတ် QR ကုဒ်ကို စကန်ဖတ်ပါ";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "AT6-OM-tnE"; */
+"AT6-OM-tnE.text" = "သို့မဟုတ်";
+
+/* Class = "UILabel"; text = "Complete your profile"; ObjectID = "Ade-Wb-EDy"; */
+"Ade-Wb-EDy.text" = "သင့်ပရိုဖိုင်ကို ပြီးအောင်ဖြည့်ပါ";
+
+/* Class = "UIViewController"; title = "NRICModalViewController"; ObjectID = "B7B-YY-m2R"; */
+"B7B-YY-m2R.title" = "NRICModalViewController";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Dpa-ij-raR"; */
+"Dpa-ij-raR.text" = "Label";
+
+/* Class = "UILabel"; text = "Check the back of your card for Date of Issue"; ObjectID = "F70-a5-MNQ"; */
+"F70-a5-MNQ.text" = "ထုတ်ပေးသည့်ရက်စွဲကို သင့်ကတ်၏ ကျောဘက်တွင် စစ်ပါ";
+
+/* Class = "UILabel"; text = "Select your profile"; ObjectID = "GHE-Yi-k2y"; */
+"GHE-Yi-k2y.text" = "သင့်ပရိုဖိုင်ကို ရွေးချယ်ပါ";
+
+/* Class = "UILabel"; text = "Why do you need my details?"; ObjectID = "J2d-ki-ROm"; */
+"J2d-ki-ROm.text" = "ကျွန်ုပ်၏ အသေးစိတ် အချက်အလက်များကို သင် ဘာ့ကြောင့်လိုအပ်ပါသလဲ။";
+
+/* Class = "UILabel"; text = "Date of Issue (DD-MM-YYYY)"; ObjectID = "NYP-7z-qIT"; */
+"NYP-7z-qIT.text" = "ထုတ်ပေးသည့် ရက်စွဲ (DD-MM-YYYY)";
+
+/* Class = "UIButton"; normalTitle = "PROCEED"; ObjectID = "Nqm-7J-HQg"; */
+"Nqm-7J-HQg.normalTitle" = "ရှေ့ဆက်ပါ";
+
+/* Class = "UIButton"; normalTitle = "I SEE. GOT IT! :)"; ObjectID = "O8a-Yg-0L6"; */
+"O8a-Yg-0L6.normalTitle" = "နားလည်ပါပြီ။ ရပါပြီ။ :)";
+
+/* Class = "UIViewController"; title = "RegisterFormViewController"; ObjectID = "OwP-cx-Sf3"; */
+"OwP-cx-Sf3.title" = "RegisterFormViewController";
+
+/* Class = "UIButton"; normalTitle = "How to find?"; ObjectID = "QI6-y7-nWs"; */
+"QI6-y7-nWs.normalTitle" = "ဘယ်လို ရှာမလဲ။";
+
+/* Class = "UILabel"; text = "Nationality"; ObjectID = "Qfg-cw-W2I"; */
+"Qfg-cw-W2I.text" = "နိုင်ငံသား";
+
+/* Class = "UITextField"; placeholder = "Label"; ObjectID = "SX5-vv-Hej"; */
+"SX5-vv-Hej.placeholder" = "Label";
+
+/* Class = "UIViewController"; title = "LTVPModalViewController"; ObjectID = "UZA-wM-c8F"; */
+"UZA-wM-c8F.title" = "LTVPModalViewController";
+
+/* Class = "UILabel"; text = "Your unique identification number allows MOH to reach the right person when they need to give you important health advice about COVID-19."; ObjectID = "VAB-TC-yEk"; */
+"VAB-TC-yEk.text" = "ထပ်တူမရှိသော သင်၏ အိုင်ဒီနံပါတ်သည် COVID-19 နှင့် ပတ်သက်ပြီး MOH က သင့်အား အရေးကြီးသော ကျန်းမာရေးဆိုင်ရာ အကြံဉာဏ်များပေးရန် လိုအပ်သောအခါ မှန်ကန်သောလူကို ဆက်သွယ်နိုင်စေသည်။";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "VZL-J8-LAC"; */
+"VZL-J8-LAC.text" = "လိုအပ်သောလယ်ပြင်";
+
+/* Class = "UILabel"; text = "2. Dependent's Pass"; ObjectID = "Woq-RD-OQG"; */
+"Woq-RD-OQG.text" = "2. မှီခိုနေထိုင်ခွင့်";
+
+/* Class = "UILabel"; text = "At the back of your NRIC"; ObjectID = "aeY-8q-qfc"; */
+"aeY-8q-qfc.text" = "သင့် NRIC ကတ်၏ ကျောဘက်";
+
+/* Class = "UILabel"; text = "1. Work Pass"; ObjectID = "cgN-ax-WJa"; */
+"cgN-ax-WJa.text" = "1. အလုပ်လုပ်ကိုင်ခွင့်";
+
+/* Class = "UIViewController"; title = "PassportModalViewController"; ObjectID = "dt3-2I-j9S"; */
+"dt3-2I-j9S.title" = "PassportModalViewController";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "ebx-tb-rOv"; */
+"ebx-tb-rOv.normalTitle" = "နောက်တဆင့်";
+
+/* Class = "UILabel"; text = "Long Term Visit Pass"; ObjectID = "ego-gt-Acd"; */
+"ego-gt-Acd.text" = "နှစ်ရှည်လည်ပတ်မှု ဝင်ခွင့်လက်မှတ်";
+
+/* Class = "UIButton"; normalTitle = "How to find?"; ObjectID = "gS0-Z1-pI0"; */
+"gS0-Z1-pI0.normalTitle" = "ဘယ်လို ရှာမလဲ။";
+
+/* Class = "UILabel"; text = "Card Serial Number"; ObjectID = "gdZ-Aq-8ZP"; */
+"gdZ-Aq-8ZP.text" = "ကတ် ဆီရီရယ်နံပါတ်";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hJu-wc-Qwz"; */
+"hJu-wc-Qwz.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Card Serial Number"; ObjectID = "hyC-FR-wff"; */
+"hyC-FR-wff.text" = "ကတ် ဆီရီရယ်နံပါတ်";
+
+/* Class = "UILabel"; text = "Check the back of your card for Date of Issue"; ObjectID = "kgk-DG-hML"; */
+"kgk-DG-hML.text" = "ထုတ်ပေးသည့်ရက်စွဲကို သင့်ကတ်၏ ကျောဘက်တွင် စစ်ပါ";
+
+/* Class = "UILabel"; text = "Date of Issue (DD-MM-YYYY)"; ObjectID = "n9y-xh-R9p"; */
+"n9y-xh-R9p.text" = "ထုတ်ပေးသည့် ရက်စွဲ (DD-MM-YYYY)";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "pWf-Ki-Z62"; */
+"pWf-Ki-Z62.text" = "လိုအပ်သောလယ်ပြင်";
+
+/* Class = "UITextField"; placeholder = "TextField"; ObjectID = "rLn-CR-Vz7"; */
+"rLn-CR-Vz7.placeholder" = "TextField";
+
+/* Class = "UIViewController"; title = "OtherPassportModalViewController"; ObjectID = "sLU-a5-mch"; */
+"sLU-a5-mch.title" = "OtherPassportModalViewController";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "uy5-xj-Fym"; */
+"uy5-xj-Fym.text" = "လိုအပ်သောလယ်ပြင်";
+
+/* Class = "UILabel"; text = "Back"; ObjectID = "vlw-V6-Cpo"; */
+"vlw-V6-Cpo.text" = "နောက်သို့";
+
+/* Class = "UILabel"; text = "Back"; ObjectID = "w7S-r4-m8T"; */
+"w7S-r4-m8T.text" = "နောက်သို့";
+
+/* Class = "UIViewController"; title = "StudentPassModalViewController"; ObjectID = "wq3-Uo-k2x"; */
+"wq3-Uo-k2x.title" = "StudentPassModalViewController";
+
+/* DoA description */
+"Knq-3Q-Qpa.text" = "<b>Enter the <c:#FF6565>Date of Application</c> for your FIN card</b> - can be found on your In-principle approval (IPA) or Notification letter";
+
+/* DoA Location */
+"hFG-xX-PCH.text" = "Date of Application\n(DD-MMM-YYYY)";
+
+/* WP SN Description */
+"2i5-H3-qw8.text" = "<b>Enter the <c:#FF6565>Card Serial Number</c> on your FIN card\n\n\nအလုပ်လုပ်ကိုင်ခွင့်</b> <i>(ရှေ့သို့)</i>";
+
+/* WP SN Location */
+"6GD-25-03o.text" = "ကတ် ဆီရီရယ်နံပါတ်";
+
+/* DP Description */
+"6mx-Zx-gXA.text" = "<b>Enter the <c:#FF6565>Card Serial Number</c> on your FIN card\n\n\nမှီခိုနေထိုင်ခွင့်</b> <i>(နောက်သို့)</i>";
+
+/* DP Location */
+"yyD-rn-df0.text" = "ကတ် ဆီရီရယ်နံပါတ်";

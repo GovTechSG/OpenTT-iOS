@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "ID verification, so you can receive personal medical information related to COVID-19 through TraceTogether"; ObjectID = "6v7-WA-DiV"; */
+"6v7-WA-DiV.text" = "ID ကိုစိစစ်အတည်ပြု, ထို့ကြောင့်သင်သည် COVID-19 နှင့်သက်ဆိုင်သောကိုယ်ရေးကိုယ်တာဆိုင်ရာဆေးဘက်ဆိုင်ရာအချက်အလက်များကိုအက်ပ်မှတဆင့်ရယူနိုင်သည်";
+
+/* Class = "UILabel"; text = "🇸🇬"; ObjectID = "8Rh-ks-t1I"; */
+"8Rh-ks-t1I.text" = "🇸🇬";
+
+/* Class = "UIButton"; normalTitle = "CHANGE LANGUAGE"; ObjectID = "BHh-pc-ehH"; */
+"BHh-pc-ehH.normalTitle" = "ဘာသာစကား ပြောင်းရန်";
+
+/* Class = "UILabel"; text = "🎉"; ObjectID = "Fid-uB-YD8"; */
+"Fid-uB-YD8.text" = "🎉";
+
+/* Class = "UILabel"; text = "Your app is updated!"; ObjectID = "KJz-Ou-H2h"; */
+"KJz-Ou-H2h.text" = "သင့်အက်ပ်ကို အပ်ဒိတ်လုပ်ပြီးပါပြီ။";
+
+/* Class = "UILabel"; text = "🏫"; ObjectID = "WTY-1E-59X"; */
+"WTY-1E-59X.text" = "🏫";
+
+/* Class = "UIButton"; normalTitle = "START SETUP"; ObjectID = "Zsj-hd-boM"; */
+"Zsj-hd-boM.normalTitle" = "စနစ်သတ်မှတ်မှု စတင်လိုက်ပါ";
+
+/* Class = "UILabel"; text = "👩‍⚕️"; ObjectID = "aWi-du-aLX"; */
+"aWi-du-aLX.text" = "👩‍⚕️";
+
+/* Class = "UILabel"; text = "iPhone users — your app can work in the background now"; ObjectID = "ape-ZV-P4N"; */
+"ape-ZV-P4N.text" = "iPhone သုံးစွဲသူများခင်ဗျာ — ယခုအခါ သင့်အက်ပ်သည် နောက်ခံတွင် လုပ်ဆောင်နိုင်ပါပြီ";
+
+/* Class = "UILabel"; text = "More languages"; ObjectID = "yjZ-Fw-g92"; */
+"yjZ-Fw-g92.text" = "နောက်ထပ် ဘာသာစကားများ";

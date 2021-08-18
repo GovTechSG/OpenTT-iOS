@@ -1,0 +1,10 @@
+/* 
+ InfoPlist.strings
+ OpenTraceTogether
+ */
+"NSBluetoothAlwaysUsageDescription" = "Jejaki Bersama menukar isyarat Bluetooth dengan telefon berdekatan yang membuka aplikasi yang sama. Isyarat ini mengandungi ID tanpa nama yang tersulit dan sentiasa berubah supaya privasi anda dilindungi.";
+
+"NSBluetoothPeripheralUsageDescription" = "Jejaki Bersama menukar isyarat Bluetooth dengan telefon berdekatan yang membuka aplikasi yang sama. Isyarat ini mengandungi ID tanpa nama yang tersulit dan sentiasa berubah supaya privasi anda dilindungi.";
+
+"NSCameraUsageDescription" = "Ini membolehkan anda mengimbas kod QR SafeEntry.";
+"NSPhotoLibraryUsageDescription" = "Ini membolehkan anda mengimbas kod QR SafeEntry.";

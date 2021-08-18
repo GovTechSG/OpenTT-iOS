@@ -1,0 +1,330 @@
+/* 
+  Localizable.strings
+  OpenTraceTogether
+*/
+
+// Test String
+"TapLetter" = "Tekan surat untuk buka";
+
+// Common
+"TemporarilyUnavailable" = "Tidak tersedia buat sementara waktu.";
+"TemporarilyUnavailableMessage" = "Maaf, izinkan kami periksa masalah ini. Sila cuba lagi kemudian.";
+"CheckYourConnection" = "Semak sambungan Internet anda";
+"CheckYourConnectionMessage" = "Jangan risau, ini hanya masalah Internet. Pastikan ia bersambung dan cuba lagi.";
+"PleaseTryAgainLater" = "Please try again later.";
+"TooManyTries" = "Terlalu banyak kesilapan dalam percubaan.";
+
+// InputAccessoryView
+"Done" = "Selesaikan";
+"Prev" = "Kembali";
+"Next" = "Seterusnya";
+
+// HelpsYouRecall
+"TraceTogetherLogoLabel" = "Jejaki Bersama";
+"HelpsYouRecallLabel1" = "Membantu anda mengingati tempat yang dijejaki dan individu yang anda temui beberapa minggu lepas.";
+"HelpsYouRecallBoldLabel1" = "Membantu anda mengingati";
+"HelpsYouRecallLabel2" = "Memberitahu anda dengan segera jika anda terdedah kepada COVID-19 untuk melindungi anda dan orang tersayang.";
+"HelpsYouRecallBoldLabel2" = "Memberitahu anda dengan segera";
+
+// HowItWorks
+"DataUseInfo" = "Data aplikasi <b>selamat disimpan dalam telefon anda</b> dan dikongsikan dengan Kementerian Kesihatan (MOH) jika anda didapati positif COVID-19 untuk tujuan pengesanan kontak.\n\nSimpanan data akan dipadam secara automatik selepas 25 hari.";
+
+// OTP
+"EnterOTPSent" = "Isikan laluan-guna-sekali (OTP) yang dihantar ke %@.";
+"WrongNumber" = "Nombor salah?";
+"ResendOTP" = "Hantar semula OTP";
+"ResendCountdown" = "Hantar semula %@s";
+"ContactYou" = "Nombor ini untuk MOH hubungi anda jika anda berkemungkinan terdedah pada COVID-19.";
+"EnterPhoneNumber" = "Enter your mobile number here";
+"TapToChangeCountryCode" = "Selected Country code is %@. Tap to change country code";
+
+// Help Modal
+"HelpModalDetailsMainText" = "MOH dapat menghubungi individu yang betul mengikut nombor pengenalan unik untuk memberikan nasihat kesihatan penting tentang COVID-19.";
+"HelpModalDetailsMainBoldText" = "menghubungi individu yang betul";
+
+// Profile Selection
+"NRIC" = "Warga Singapura/PR (semua usia)";
+"FINWorkPass" = "FIN — Pas Kerja";
+"FINDepPass" = "FIN — Pas Tanggungan";
+"FINStudPass" = "FIN — Pas Pelajar";
+"FINLTVP" = "FIN — Pas Lawatan Jangka Panjang (LTVP)";
+"VisitSG" = "Melawat Singapura";
+"PassportVerified" = "Disahkan oleh imigresen Singapura";
+
+"NRICDesc" = "Sila siapkan NRIC atau No. Sijil Kelahiran anda :)";
+"FINWorkPassDesc" = "Sediakan Pas Kerja anda :)";
+"FINDepPassDesc" = "Sediakan Pas Tanggungan anda :)";
+"FINStudPassDesc" = "Sediakan Pas Pelajar anda :)";
+"FINLTVPDesc" = "Sediakan Pas Lawatan Jangka Panjang (LTVP) anda :)";
+"VisitSGDesc" = "Sila gunakan Pasport yang akan anda gunakan untuk memasuki Singapura :)";
+
+// Registration Form
+"Name" = "Nama";
+"NricBirthCert" = "NRIC / No. Sijil Kelahiran";
+"DateOfBirth" = "Tarikh Lahir";
+"DateOfBirthForPassportUsers" = "Tarikh Lahir (seperti di Pasport)";
+"DateOfIssue" = "Tarikh Dikeluarkan";
+"FINString" = "Nombor Pengenalan Asing (FIN)";
+"cardSerialNumber" = "Nombor Siri Kad";
+"passportNumber" = "Nombor Pasport";
+"DateOfExpiry" = "Tarikh Luput";
+"MobileNumber" = "Nombor telefon";
+"Nationality" = "Kewarganegaraan";
+"HowToFind" = "Bagaimana untuk mencari?";
+"InvalidDate" = "Tarikh tidak sah";
+"InvalidName" = "Nama tidak sah";
+"InvalidFin" = "FIN Tidak Sah";
+"InvalidNRIC" = "NRIC tidak sah";
+"InvalidPassportFormat" = "Format Pasport tidak sah";
+"OwnFINCard" = "Anda mempunyai kad Nombor Pengenalan Asing (FIN)?";
+"DateOfApplication" = "Tarikh Permohonan kad FIN anda";
+"Yes" = "Ya";
+"No" = "Tidak";
+"TapBackAndSelectFIN" = "Sentuh butang undur dan pilih profil FIN";
+"TapBackAndSelectNRIC" = "Sila ketik butang Kembali dan pilih profil warga Singapura";
+"NRICDetailsTitle" = "Butiran NRIC anda";
+"FinWPDetailsTitle" = "Butiran FIN-WP anda";
+"FinDPDetailsTitle" = "Butiran FIN-DP anda";
+"FinSTPDetailsTitle" = "Butiran FIN-STP anda";
+"FinLTVPDetailsTitle" = "Butiran FIN-LTVP anda";
+"PassportDetailsTitle" = "Butiran Pasport anda";
+"PassportDetailsInfo" = "Gunakan Pasport yang akan anda gunakan untuk memasuki Singapura. Butiran di bawah akan dipadankan dengan imigresen Singapura.";
+"PassportInvalidTitle" = "Imigresen Singapura tidak mempunyai butiran Pasport anda";
+"PassportInvalidDetails" = "Anda hanya boleh aktifkan aplikasi anda setelah lepas imigresen Singapura. Semak jika anda telah mengisikan butiran yang betul di dalam aplikasi anda.";
+"RegisterWithFINTitle" = "Sila daftar sekali lagi menggunakan FIN anda";
+"RegisterWithFINMessage" = "Ini membolehkan MOH untuk menghantar keputusan ujian COVID kepada anda dengan tepat. Butiran peribadi anda tidak akan dikongsi sama sekali dengan alat peranti lain.";
+
+// Registration Modals
+"backOfNRIC" = "Di belakang NRIC anda";
+"backOfNRICUnderline" = "belakang";
+"frontOfFIN"= "Hadapan";
+"backOfFIN"= "Belakang";
+"checkBackOfWorkPass" = "Periksa belakang kad untuk Tarikh Dikeluarkan";
+"checkBackOfLTVP" = "Periksa belakang kad untuk Tarikh Dikeluarkan";
+
+// Note strings
+"noteNS" = "Bagi Anggota Khidmat Negara, sila hubungi Kerani Kanan Unit anda untuk Tarikh Dikeluarkan yang tertera pada belakang NRIC anda.";
+"noteMinor" = "NRIC Tarikh Dikeluarkan tidak diperlukan bagi individu bawah 17 tahun.";
+
+// AllowPerms StoryBoard
+"PleaseNoteDetails" = "Pastikan Bluetooth dihidupkan, dan aplikasi dibiarkan berfungsi pada bahagian latar (ya, kita boleh berfungsi dengan berlatarkan iOS sekarang.)";
+"PleaseNoteBold1Details" = "Pastikan Bluetooth dihidupkan";
+"PleaseNoteBold2Details" = "aplikasi dibiarkan berfungsi pada bahagian latar";
+"AppIsWorkingHeader" = "Aplikasi anda sedang berfungsi!";
+"AppActiveHeader" = "Aplikasi anda kini aktif!";
+
+// Home Screen and Storyboard
+"SgFlag" = "Bersama meneruskan hidup dengan selamat 🇸🇬";
+"ShareThisApp" = "Kongsi aplikasi ini";
+"SafeEntryCheckInHome" = "Daftar masuk SafeEntry";
+"PauseTraceTogether" = "Jeda Jejaki Bersama";
+"ShareApp" = "Ikut kami menghentikan COVID-19 untuk hidup bersama dengan selamat.\nMuat turun TraceTogether, sebuah aplikasi oleh MOH dan GovTech. Layari: https://tracetogether.gov.sg";
+"PleaseKeepAppFor" = "Harap jangan padamkan aplikasi ini dalam tempoh <b>14 hari</b> <u>selepas</u> anda berangkat dari Singapura.
+
+Ini membolehkan Kementerian Kesihatan Singapura untuk maklumkan kepada anda jika anda telah berhubung rapat dengan kes COVID-19, bagi melindungi anda dan orang-orang yang tersayang dengan lebih baik.
+
+Apabila anda di Singapura, jangan lupa untuk <b>pastikan aplikasi anda aktif di latar</b> dan <b>Bluetooth dihidupkan.</b> Selamat berangkat!";
+
+
+// Legacy
+"InvalidOTP" = "Kod harus mengandungi 6 digit";
+"WrongOTP" = "Kod tidak sah";
+"InvalidPIN" = "PIN tidak sah";
+"InvalidUploadCode" = "Kod muat naik tidak sah";
+
+"CodeWillExpired" = "Kod anda akan luput dalam %@.";
+"CodeHasExpired" = "Tempoh kod anda sudah tamat.";
+
+"NotAValidCode" = "Kod tidak sah";
+"DataUploaded" = "Data dimuat naik";
+"DataNotUploaded" = "Data tidak dimuat naik";
+
+// Catch missing programatic strings or attributed strings
+//"LastUpdated" = "Last Updated : %@";
+"LastUpdated" = "Terakhir dikemaskini :";
+"UsePowerSaverMode" = "Gunakan mod penjimatan kuasa";
+"TTisDeactivated" = "Jejaki Bersama telah dinyahaktifkan";
+
+// Reonboarding
+"iPhoneUsersBackgroundWorks" = "Pengguna iPhone - aplikasi kini boleh berfungsi di latar belakang!!";
+"iPhoneUsersBackgroundBold" = "latar belakang";
+"WhatYouNeedToDo" = "Anda perlu pastikan perkara yang berikut: \n\nBiarkan apilkasi berfungsi pada bahagian latar dan jangan diseret tutup.";
+"WhatYouNeedToDoBold" = "Biarkan apilkasi berfungsi pada bahagian latar";
+"MoreLanguages" ="Lebih bahasa — বাংলা, ဗမာ, 中文, English, हिन्दी, தமிழ், ไทย";
+"Languages" = "bahasa";
+"NewLook" = "Reka bentuk antara muka baru — dari biru hingga merah";
+"NewLookBold" = "Reka bentuk antara muka baru";
+"ScanAndGo" = "Imbas dan pergi ke kod QR SafeEntry - bebas borang!";
+"ScanAndGoBold" = "Imbas dan pergi ke";
+"PersonalMedicalInformation" = "Pengesahan identiti, supaya anda boleh mendapatkan maklumat perubatan peribadi yang berkaitan dengan COVID-19 melalui aplikasi Jejaki Bersama.";
+"IDVerification" = "Pengesahan identiti";
+"OKExclam" = "OK!";
+
+//Passport reonboarding
+"IfYouHaveOneofTheFollowing" = "Jika anda memiliki satu daripada yang berikut:
+<ls:4><fs:14>
+ • NRIC / No. Sijil Kelahiran Singapura
+ • FIN (Pas Kerja)
+ • FIN (Pas Tanggungan)
+ • FIN (Pas Pelajar)
+ • FIN (Pas Lawatan Jangka Panjang (LTVP))
+</fs></ls>
+Keputusan ujian COVID anda dipadankan dengan NRIC/FIN anda. <b>Sila daftar sekali lagi menggunakan NRIC/FIN anda.</b>";
+
+"IfYourProfileFalls" = "<ls:16>Jika profil anda termasuk dalam yang berikut:<fs:14></ls>
+<ls:4>
+ • Lawatan jangka pendek ke Singapura
+ • Tugasan diplomatik
+ • Pemegang Pas Khas
+ • Lain-lain</fs>
+</ls>
+Keputusan ujian COVID anda dipadankan dengan butiran Pasport anda. <b>Pastikan anda daftar sekali lagi menggunakan pasport yang digunakan untuk memasuki Singapura.</b>";
+
+// Bluetooth
+"GoToSettingsTurnOnBluetooth" = "Maju ke Tetapan atau Pusat Kawalan dan hidupkan Bluetooth. \n\nKembali ke aplikasi.";
+"Settings" = "Tetapan";
+"ControlCenter" = "Pusat Kawalan";
+
+// Location
+"NumOfExchangesTraceTogetherHistory" = "%@ Pertukaran Isyarat Bluetooth";
+"NumOfExchangesTraceTogetherHistorySingular" = "%@ Pertukaran Isyarat Bluetooth";
+"NumOfDevicesNearby" = "%@ alat peranti TraceTogether berdekatan";
+"TapToKnowMore" = "Tap to know more";
+"NumOfExchangesToday" = "%@ jumlah pertukaran untuk hari ini";
+"ChooseDate" = "Choose Date";
+"OpenTTtoKeepItRun" = "Open TraceTogether to keep it running";
+"SometimesYourPhone" = "Sometimes, your phone gets the app to take a break. Open the app so it can continue protecting you.";
+
+// Pause TT
+"PauseTraceTogether" = "Jeda Jejaki Bersama";
+"TraceTogetherWillNotBeAble" = "We will not be able to help you note possible exposure to COVID-19 during this period ☹️";
+"Pause30mins" = "Jeda 30 minit";
+"Pause2hrs" = "Jeda 2 jam";
+"Pause8hrs" = "Jeda 8 jam";
+"Cancel" = "BATAL";
+
+// User Reg
+"NRICValidationFailed"="Pengesahan gagal, semak medan berwarna merah";
+
+// Upload Strings
+"DidNot" = "did not";
+"DoNot" = "do not";
+"UploadCodeOnlyGivenToPplCovid19" = "Cuma pesakit COVID-19 terima kod muat naik.\n\nJika MOH tidak berikan kod muat naik, tidak perlu muat naik data :)";
+"IfYouDidNotGetUploadCode" = "Jika MOH tidak berikan kod muat naik, tidak perlu muat naik data :)";
+"UploadFailedPlsTryAgainLater" = "Muatnaik gagal. Sila cuba sebentar lagi.";
+"AppVersion" = "Versi Apl %@";
+"NoUploadCode" = "Tiada kod muat naik?";
+
+//Safe Entry
+"SafeEntry" = "SafeEntry";
+"seMsg1" = "Anda tidak berhubung rapat dengan kes Covid-19 yang telah disahkan sepanjang tempoh 14 hari sebelum ini. *#";
+"seMsg2" = "Buat masa ini anda bukan dalam Arahan Kuarantin atau Notis Duduk di Rumah*";
+"seMsg3" = "Anda tidak demam atau mempunyai tanda-tanda selsema.";
+"seMsg4" = "Anda setuju dengan terma dan membenarkan pengumpulan/penggunaan informasi anda untuk tujuan pengesanan orang-orang yang berhubung rapat dengan pesakit Covid-19";
+"Retry" = "CUBA LAGI";
+"UnableToCheckIn" = "Tidak boleh daftar masuk";
+"UnableToCheckOut" = "Tidak boleh daftar keluar";
+"NetworkIssue" = "Berkemungikan terdapat masalah rangkaian. Periksa sambungan anda dan cuba lagi.";
+"ThereSeemsNetworkIssue" = "Berkemungikan terdapat masalah rangkaian.";
+"CheckConnectionTryAgain" = "Periksa sambungan anda dan cuba lagi";
+
+"BackToHome" = "KEMBALI KE HALAMAN UTAMA";
+"NotASafeEntryQRCodeTitle" = "Ini bukanlah seperti bukan kod QR Safentry";
+"NotASafeEntryQRCodeMessage" = "Pastikan anda mengimbas kod QR SafeEntry yang sahih.";
+"ScanAgain" = "Imbas Sekali lagi";
+"SafeEntryTemporarilyUnavailableTitle" = "SafeEntry QR tidak tersedia buat sementara waktu";
+"SafeEntryOtherMethodsMessage" = "Gunakan cara lain untuk daftar masuk";
+
+"IdScanMessage" = "Sebaliknya, gunakanlah kod bar digital! \nHarap maklum bahawa pengimbas lama mungkin tidak boleh mengesan kod bar pada telefon.";
+"MissingUserID" = "We found a small bug 🐛";
+"StartOver" = "Please enter your details and try again.";
+"TTOnlyErrorTitle" = "Oops! This venue does not allow Group check in. ";
+"TTOnlyErrorMessage" = "Your family needs to check in with their own TraceTogether device. This ensures that all visitors have TraceTogether activated, to better protect you in crowded places.";
+"OKCheckInForMyself" = "OK, Check in for myself";
+"ProceedWithReRegistration" = "Teruskan daftar semula?";
+"EnsureYouHaveFollowing" = "Pastikan anda memiliki satu daripada yang berikut:
+NRIC,
+FIN (Pas Kerja),
+FIN (Pas Tanggungan),
+FIN (Pas Pelajar), or
+FIN (Pas Lawatan Jangka Panjang (LTVP)).
+
+Anda akan menubuhkan profil baru menggunakan NRIC/FIN anda. Your previous app data will be erased. ";
+"SettingNewProfileErasingPreviousAppData" = "You'll be setting up a new profile. Your previous app data will be erased. Do NOT proceed if you are a traveller who left Singapore within the last 14 days.";
+"NumOfPax" = "Number of Pax checked in =";
+"TapToCheckIn" = "Tap to check in to ";
+"ScanQRCode" = "Imbas kod QR SafeEntry";
+"OnlyProceedIfInSingapore" = "Only proceed if you're currently in Singapore. Proceeding will set up a new profile upon registration, and your previous app data will be erased.";
+
+//History
+"DataKeptSecure" = "Sejarah anda menujukkan <b>pertukaran isyarat Bluetooth TraceTogether</b> dengan pengguna lain, dan <b>daftaran masuk/keluar SafeEntry</b> yang menggunakan aplikasi TraceTogether.";
+"New" = "Baru";
+"NoCheckOut" = "Tiada log keluar";
+"CovidVisited" = "Seorang kes jangkitan COVID-19 telah melawat";
+"LocationPostalCode" = "Lokasi dipadankan dengan poskod.";
+
+"NoInternetConnectToSeeSEStatus" = "No internet connection. Connect to see your COVID-19 Possible Exposure status.";
+"ExposureCheckTemporarilyUnavailable" = "Your COVID-19 Possible Exposure status is temporarily unavailable. We’re working hard to fix it 💪🏽";
+"NoCheckIn" = "No check in";
+"TryAgainLater" = "We’re working hard to fix it 💪🏽";
+"NoInternetConnection" = "No internet connection.";
+"ConnectToSeeCovid19Exposures" = "Connect to see your COVID-19 Possible Exposure status.";
+"ExposureCheckTemporarilyUnavailableShort" = "COVID-19 Possible Exposure Check is temporarily unavailable.";
+"AddFav" = "Add this place to your favourites";
+"RemoveFav" = "Remove this place from your favourites";
+"To" = "To";
+"CheckInTime" = "CheckInTime";
+"CheckOutTime" = "CheckOutTime";
+"Close" = "TUTUP";
+
+//Settings
+"Others" = "Lain-lain";
+"YourProfile" = "Profil Anda";
+"Help" = "Bantuan";
+"ReportVuln" = "Lapor Kelemahan";
+"Account" = "Akaun";
+"HelpFeedback" = "Bantuan & Maklum Balas";
+"ManageAlerts" = "Uruskan Amaran";
+"ChangeLanguage" = "Tukar bahasa";
+"ExposureAlerts" = "Exposure Alerts";
+"AppUpdates" = "App Updates";
+"DailyReminder" = "Daily Reminder";
+"SubmitErrorLogs" = "Serahkan Log Ralat";
+"TipsAndShortcuts" = "Petua dan Jalan Pintas";
+"ExposureAlertsDescription" = "Get notified more quickly if you were nearby COVID-19 patients during their infectious period";
+"AppUpdatesDescription" = "Notify you when there are important app updates";
+"DailyReminderDescription" = "Notify you at 9am daily to turn on Bluetooth and keep app open in the background";
+"ManageFamilyMembers" = "Urus Ahli Keluarga";
+"InvalidNRICFIN" = "Invalid NRIC/FIN. Enter a valid NRIC/FIN.";
+"AddAnotherPerson" = "+ Add another person";
+"UniqueNRIC" = "This NRIC/FIN has already been added.";
+"CheckedFamilyMember" = "Checked, Family member selected";
+"UncheckedFamilyMember" = "Unchecked, Family member not selected";
+"AddFamilyMember" = "Add Family Members";
+"AddAnotherPersonForAccessibility" = "Add another person";
+"SelectAll" = "<u>Select all</u>";
+"UnselectAll" = "<u>Unselect all</u>";
+"TapToSeeDetails" = "Tap To See Details";
+"Section" = "Section";
+
+//Favourite
+"FavPlace" = "YOUR FAVOURITE PLACES";
+"SearchFav" = "Search from list below";
+"SavLocToFav" = "Simpan lokasi ini ke dalam Kegemaran";
+"SavLocToFavUnderline" = "Simpan lokasi ini";
+"LocSavedToFav" = "Lokasi ini ada di dalam Kegemaran anda";
+
+"Back" = "Belakang";
+"CheckboxSelected" = "Agree to Terms and Conditions Checkbox checked";
+"CheckboxNotSelected" = "Agree to Terms and Conditions Checkbox unchecked";
+"Close" = "Close";
+
+"TapToCloseDetails" = "Tap To close Details";
+"TapToSeeDetails" = "Tap To See Details";
+
+"UPDATE" = "KEMAS KINI";
+"NewVersionAvailableTitle" = "Terdapat versi yang baru";
+"NewVersionAvailableMessage" = "Kami telah memperbaiki TraceTogether untuk menawarkan khidmat yang lebih baik bagi anda. Kemas kini aplikasi anda sekarang!";
+"UpdateAppNowTitle" = "Kemas kini aplikasi anda sekarang";
+"UpdateAppNowMessage" = "Kami telah membuat perubahan yang penting, dan anda perlu mengemas kini aplikasi anda untuk terus menggunakan TraceTogether.";
+"RemindMeAgain" = "Ingatkan saya lagi";

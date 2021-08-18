@@ -1,0 +1,1 @@
+/Users/a691010/TraceTogether/tt-ios/Pods/Target Support Files/Pods-TraceTogether/Pods-TraceTogether-acknowledgements.markdown

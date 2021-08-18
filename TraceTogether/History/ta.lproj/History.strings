@@ -1,0 +1,57 @@
+
+/* Class = "UIButton"; normalTitle = "GOT IT"; ObjectID = "LnX-Lw-8bY"; */
+"LnX-Lw-8bY.normalTitle" = "அறிந்துகொண்டேன்";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "WQB-B5-nl3"; */
+"WQB-B5-nl3.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "History"; ObjectID = "Lqf-5p-7ts"; */
+"gj0-uT-UWo.title" = "கடந்த செயல்பாடுகள்";
+
+/* Class = "UITabBarItem"; title = "History"; ObjectID = "bY7-hL-MnK"; */
+"KJz-60-ON0.title" = "கடந்த செயல்பாடுகள்";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tvn-OH-Csa"; */
+"tvn-OH-Csa.normalTitle" = "Button";
+
+//These records help us notify you if you were near COVID-19 patients during their infectious period.
+"hGX-1P-Jnn.text" = "இந்த பதிவுகள் நீங்கள் கொவிட்-19 நோயாளிகளின் தொற்று காலத்தில் அவர்களுக்கு அருகிலிருந்தால் உங்களுக்கு தெரிவிக்க எங்களுக்கு உதவுகின்றன.";
+
+//Past 14 days
+"U8h-OB-wYc.text" = "கடந்த 14 நாட்கள்";
+
+//You were at a place visited by a COVID-19 case
+"XE2-8f-gbO.text" = "நீங்கள் ஒரு கொவிட்-19 வழக்கு வருகை தந்த இடத்தில் இருந்தீர்கள்";
+
+//As a precaution, monitor your health for 14 days from the visit date. If you develop fever or respiratory symptoms, see a doctor immediately and indicate this exposure.
+"HV9-ab-qPw.text" = "முன்னெச்சரிக்கையாக, வருகை தேதியிலிருந்து 14 நாட்களுக்கு உங்கள் ஆரோக்கியத்தை கண்காணிக்கவும். உங்களுக்கு காய்ச்சல் அல்லது சுவாச அறிகுறிகள் இருந்தால், உடனடியாக ஒரு மருத்துவரை சந்தித்து இந்த வெளிப்பாட்டைப்பற்றி தெரியப்படுத்தவும்.";
+
+//Check for symptoms
+"Ehf-AX-guJ.normalTitle" = "<u>அறிகுறிகளை சரிபார்க்கவும்</u>";
+
+//All Records
+"3fG-05-gMh.normalTitle" = "அனைத்து விவரங்களும்";
+
+//Possible Exposure
+"fRx-9l-ExZ.normalTitle" = "சாத்தியமான வெளிப்பாடுகள்";
+
+//YOUR POSSIBLE EXPOSURES
+"xqc-Q6-1J1.text" = "உங்களுடைய சாத்தியமான வெளிப்பாடுகள்";
+
+//Please remember to check out using SafeEntry in the future.
+"46m-ew-qjC.text" = "எதிர்காலத்தில் SafeEntry - ஐ பயன்படுத்தி வெளியேறுவதை நினைவில் கொள்ளவும்.";
+
+//'Check out now' button
+"u1u-Z0-iFt.normalTitle" = "<u>இப்பொது வெளியேறவும்</u>";
+
+//You were not at places visited by COVID-19 cases
+"1ZU-cp-UkU.text" = "நீங்கள் கொவிட்-19 வழக்குகள் வருகை தந்த இடங்களில் இல்லை";
+
+// No records yet.
+"a69-K2-8o2.text" = "இதுவரை பதிவுகள் இல்லை.";
+
+//Based on all your TraceTogether and SafeEntry records from the last 14 days.
+"VuJ-1I-Mhu.text" = "கடந்த 14 நாட்களிலிருந்து உங்கள் TraceTogether மற்றும் SafeEntry பதிவுகளின் அடிப்படையில்.";
+
+//How are my possible exposures determined?
+"C07-eF-CcM.normalTitle" = "<ca><c:#0070E0><u>எனது சாத்தியமான வெளிப்பாடுகள் எவ்வாறு தீர்மானிக்கப்படுகின்றன?</u></c></ca>";

@@ -1,0 +1,10 @@
+/* 
+ InfoPlist.strings
+ OpenTraceTogether
+ */
+"NSBluetoothAlwaysUsageDescription" = "TraceTogether သည် COVID-19 ကူးစက်ခံရနိုင်ခြေကို သင်မှတ်သားရာတွင် ကူညီပေးရန် အနီးတဝိုက်ရှိဖုန်းများနှင့် ဘလူးတုသ်အချက်ပြမှုများကို ဖလှယ်ပါသည်။";
+
+"NSBluetoothPeripheralUsageDescription" = "TraceTogether သည် COVID-19 ကူးစက်ခံရနိုင်ခြေကို သင်မှတ်သားရာတွင် ကူညီပေးရန် အနီးတဝိုက်ရှိဖုန်းများနှင့် ဘလူးတုသ်အချက်ပြမှုများကို ဖလှယ်ပါသည်။";
+
+"NSCameraUsageDescription" = "၎င်းမှ SafeEntry QR ကုဒ်များကိုစကင်ဖတ်စစ်ဆေးနိုင်သည်။";
+"NSPhotoLibraryUsageDescription" = "၎င်းမှ SafeEntry QR ကုဒ်များကိုစကင်ဖတ်စစ်ဆေးနိုင်သည်။";

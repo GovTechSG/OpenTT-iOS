@@ -1,0 +1,100 @@
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "1v6-PL-zYo"; */
+"1v6-PL-zYo.text" = "Required";
+
+/* Class = "UILabel"; text = "To the people of Singapore, with love"; ObjectID = "5Dw-z0-wjL"; */
+"5Dw-z0-wjL.text" = "To the people of Singapore, with love";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "68p-pV-AiD"; */
+"68p-pV-AiD.normalTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = "Resend OTP"; ObjectID = "6Rh-JE-cit"; */
+"6Rh-JE-cit.normalTitle" = "Resend OTP";
+
+/* Class = "UILabel"; text = "Enter your mobile number"; ObjectID = "6U2-DI-o9Z"; */
+"6U2-DI-o9Z.text" = "Enter your mobile number";
+
+/* Class = "UILabel"; text = "Verify your mobile number"; ObjectID = "7ld-e4-bn5"; */
+"7ld-e4-bn5.text" = "Verify your mobile number";
+
+/* Class = "UILabel"; text = "MOH will use this number to contact you if you had possible exposure to COVID-19."; ObjectID = "91U-bo-62v"; */
+"91U-bo-62v.text" = "MOH will use this number to contact you if you had possible exposure to COVID-19.";
+
+/* Class = "UILabel"; text = "Dear people of Singapore,"; ObjectID = "9cK-8k-rST"; */
+"9cK-8k-rST.text" = "Dear people of Singapore,";
+
+/* Class = "UILabel"; text = "And the way back to normal starts with all of us, here."; ObjectID = "DEa-ZV-4qP"; */
+"DEa-ZV-4qP.text" = "A safe new normal starts with all of us, here.";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "FB4-Ns-jU3"; */
+"FB4-Ns-jU3.title" = "Item";
+
+/* Class = "UILabel"; text = "Enter the one-time pin (OTP) sent to "; ObjectID = "GWc-qS-9y6"; */
+"GWc-qS-9y6.text" = "Enter the one-time pin (OTP) sent to ";
+
+/* Class = "UITabBarController"; title = "Main"; ObjectID = "JXd-F4-xFZ"; */
+"JXd-F4-xFZ.title" = "Main";
+
+/* Class = "UIButton"; normalTitle = "LET'S GO"; ObjectID = "Jr6-r5-PwZ"; */
+"Jr6-r5-PwZ.normalTitle" = "LET'S GO";
+
+/* Class = "UIButton"; normalTitle = "Wrong number?"; ObjectID = "K7X-Ux-SAc"; */
+"K7X-Ux-SAc.normalTitle" = "Wrong number?";
+
+/* Class = "UIButton"; normalTitle = "GET OTP"; ObjectID = "Tuw-g5-oMO"; */
+"Tuw-g5-oMO.normalTitle" = "GET OTP";
+
+/* Class = "UILabel"; text = "It’s about how we can help one another resume life safely."; ObjectID = "ZR9-l0-us4"; */
+"ZR9-l0-us4.text" = "You can make it safer. By using TraceTogether and helping others set it up, you’re containing the virus and protecting your loved ones.";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "a1b-A0-kue"; */
+"a1b-A0-kue.normalTitle" = "NEXT";
+
+/* Class = "UILabel"; text = "Wrong OTP entered"; ObjectID = "aWN-Zo-GBT"; */
+"aWN-Zo-GBT.text" = "Wrong OTP entered";
+
+/* Class = "UILabel"; text = "Data is only used when needed"; ObjectID = "cR2-jD-1C4"; */
+"cR2-jD-1C4.text" = "Data used only when needed";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "g7m-W6-BSB"; */
+"g7m-W6-BSB.normalTitle" = "BACK";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "gCZ-QA-hyO"; */
+"gCZ-QA-hyO.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "gdZ-Bw-jvd"; */
+"gdZ-Bw-jvd.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "kJo-hQ-s9z"; */
+"kJo-hQ-s9z.normalTitle" = "BACK";
+
+/* Class = "UIButton"; normalTitle = "VERIFY"; ObjectID = "lQY-RW-yBL"; */
+"lQY-RW-yBL.normalTitle" = "VERIFY";
+
+/* Class = "UIButton"; normalTitle = "Change Language"; ObjectID = "mX1-fu-fRD"; */
+"mX1-fu-fRD.normalTitle" = "Change Language";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "sXw-5t-QMM"; */
+"sXw-5t-QMM.normalTitle" = "NEXT";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "sal-f1-LGG"; */
+"sal-f1-LGG.normalTitle" = "BACK";
+
+/* Class = "UILabel"; text = "Tap letter to open"; ObjectID = "wga-Wh-W6B"; */
+"wga-Wh-W6B.text" = "Tap letter to open";
+
+/* Class = "UILabel"; text = "We’ve had a tough year, with many sacrifices as we fight the virus. In the next phase of our fight, we want to help one another live life normally, as safely as we can. "; ObjectID = "wkG-G3-ozk"; */
+"wkG-G3-ozk.text" = "We’ve had a tough year, with many sacrifices as we fight the virus. In the next phase of our fight, we want to help one another live life normally, as safely as we can.";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "wwb-2h-BNJ"; */
+"wwb-2h-BNJ.title" = "Settings";
+
+/* Class = "UILabel"; text = "Note: This app is only intended for use in Singapore. Some overseas networks and phone numbers may not receive one-time pin (OTP) for verification. In such cases, please set up your app in Singapore, using a local SIM card."; ObjectID = "E16-RR-pAb"; */
+"E16-RR-pAb.text" = "Note: This app is only intended for use in Singapore. Some overseas networks and phone numbers may not receive one-time pin (OTP) for verification. In such cases, please set up your app in Singapore, using a local SIM card.";
+
+/* Class = "UILabel"; text = "Note: This app is only intended for use in Singapore. Some overseas networks and phone numbers may not receive one-time pin (OTP) for verification. In such cases, please set up your app in Singapore, using a local SIM card."; ObjectID = "lOW-Fl-he7"; */
+"lOW-Fl-he7.text" = "Note: This app is only intended for use in Singapore. Some overseas networks and phone numbers may not receive one-time pin (OTP) for verification. In such cases, please set up your app in Singapore, using a local SIM card.";
+
+/* Class = "UITextView"; text = “{{privacy}}”; ObjectID = "DYU-df-Er0"; */
+"DYU-df-Er0.text" = "*TraceTogether data is subject to prevailing legislation. See our <a:privacy><u>Privacy Safeguards</u></a> for details.";
+

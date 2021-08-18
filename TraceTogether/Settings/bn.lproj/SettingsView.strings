@@ -1,0 +1,63 @@
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "7DO-CM-JNu"; */
+"7DO-CM-JNu.title" = "পেছনে যান";
+
+/* Class = "UIViewController"; title = "More"; ObjectID = "EyC-fK-7Ib"; */
+"EyC-fK-7Ib.title" = "আরো";
+
+/* Class = "UILabel"; text = "Hello there 👋"; ObjectID = "Fsh-MW-9Pj"; */
+"Fsh-MW-9Pj.text" = "এই যে হ্যালো 👋";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IJe-Mr-H2p"; */
+"IJe-Mr-H2p.text" = "Label";
+
+/* Class = "UIViewController"; title = "YourProfileViewController"; ObjectID = "MDS-Za-tOX"; */
+"MDS-Za-tOX.title" = "YourProfileViewController";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "Tkq-9n-pBq"; */
+"Tkq-9n-pBq.title" = "পেছনে যান";
+
+/* Class = "UILabel"; text = "App Version"; ObjectID = "UTt-LV-kRX"; */
+"UTt-LV-kRX.text" = "অ্যাপ সংস্করণ";
+
+/* Class = "UINavigationItem"; title = "More"; ObjectID = "afR-HG-eaP"; */
+"afR-HG-eaP.title" = "আরো";
+
+/* Class = "UINavigationController"; title = "More"; ObjectID = "doK-9t-zV5"; */
+"doK-9t-zV5.title" = "আরো";
+
+/* Class = "UILabel"; text = "Your Profile"; ObjectID = "fEP-rP-E4S"; */
+"fEP-rP-E4S.text" = "আপনার প্রোফাইল";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "kYG-ch-1tb"; */
+"kYG-ch-1tb.title" = "আরো";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mEM-kN-laK"; */
+"mEM-kN-laK.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Your Profile"; ObjectID = "olK-Rr-uie"; */
+"olK-Rr-uie.title" = "আপনার প্রোফাইল";
+
+/* Class = "UITabBarItem"; title = "Help"; ObjectID = "yjS-Uz-VZl"; */
+"yjS-Uz-VZl.title" = "সহায়তা";
+
+//What's their NRIC/FIN number?
+"8aM-qI-crr.text" = "What's their NRIC/FIN number?";
+//(Passport number not supported)
+"x2Z-no-4hZ.text" = "(Passport number not supported)";
+//Add a nickname for this family member
+"j0w-Ob-g3y.text" = "Add a nickname for this family member";
+//Add Button
+"68E-M3-aai.normalTitle" = "ADD";
+//Your family members
+"Ksq-rO-Mc5.text" = "Your family members";
+//You can check in on behalf of these members
+"wre-rI-AKg.text" = "You can check in on behalf of these members";
+//Next Button
+"aaU-dG-EMa.normalTitle" = "NEXT";
+//Who are you checking in with?
+"uER-bf-d5X.text" = "Who are you checking in with?";
+
+//+ Add another person
+"D53-Bt-Zin.normalTitle" = "<u>+ Add another person</u>";
+"Vr7-TL-4BA.normalTitle" = "<u>+ Add another person</u>";

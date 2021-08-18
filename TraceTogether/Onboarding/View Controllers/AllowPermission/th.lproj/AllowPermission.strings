@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Last step:  Turn on Bluetooth"; ObjectID = "6U7-js-wgl"; */
+"6U7-js-wgl.text" = "ขั้นตอนสุดท้าย: เปิด Bluetooth";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "DCS-Dz-ub4"; */
+"DCS-Dz-ub4.normalTitle" = "ถัดไป";
+
+/* Class = "UILabel"; text = "All app Bluetooth data after 25 days will be automatically deleted."; ObjectID = "Eu2-mM-gWa"; */
+"Eu2-mM-gWa.text" = "เราจะลบข้อมูล Bluetooth ทั้งหมดในแอปโดยอัตโนมัติทุก ๆ 25 วัน";
+
+/* Class = "UILabel"; text = "To help you note possible exposure to COVID-19, your app needs these permissions"; ObjectID = "TIl-OJ-p6N"; */
+"TIl-OJ-p6N.text" = "เพื่อช่วยคุณบันทึกข้อมูลเกี่ยวกับการสัมผัสกับเชื้อ COVID-19 ที่อาจจะเป็นไปได้ โทรศัพท์ของคุณจำเป็นต้องเปิดสัญญาณ สิทธิ์ของแอป";
+
+/* Class = "UIButton"; normalTitle = "GOT IT, WILL DO!"; ObjectID = "YK3-Ii-6rR"; */
+"YK3-Ii-6rR.normalTitle" = "เข้าใจแล้ว ฉันจะทำตามนั้นเลย";
+
+/* Class = "UIButton"; normalTitle = "ALLOW"; ObjectID = "dbs-LN-AKi"; */
+"dbs-LN-AKi.normalTitle" = "อนุญาต";
+
+/* Class = "UILabel"; text = "Go to Settings or Control Center and turn on your phone’s Bluetooth. \n\nThen come back to the app."; ObjectID = "jzQ-wJ-Ece"; */
+"jzQ-wJ-Ece.text" = "ไปที่ การตั้งค่า หรือ ศูนย์ควบคุม และเปิดสัญญาณ Bluetooth ในโทรศัพท์ \n\nจากนั้นกลับมาที่แอป";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "tvm-f1-bLa"; */
+"tvm-f1-bLa.text" = "การแจ้งเตือน";
+
+/* Class = "UILabel"; text = "Bluetooth"; ObjectID = "xyh-Ya-fb1"; */
+"xyh-Ya-fb1.text" = "Bluetooth";

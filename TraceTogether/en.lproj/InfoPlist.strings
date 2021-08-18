@@ -1,0 +1,10 @@
+/* 
+ InfoPlist.strings
+ OpenTraceTogether
+ */
+"NSBluetoothAlwaysUsageDescription" = "TraceTogether exchanges Bluetooth signals with nearby phones to help you note possible exposure to COVID-19";
+
+"NSBluetoothPeripheralUsageDescription" = "TraceTogether exchanges Bluetooth signals with nearby phones to help you note possible exposure to COVID-19";
+
+"NSCameraUsageDescription" = "This lets you scan SafeEntry QR codes.";
+"NSPhotoLibraryUsageDescription" = "This lets you scan SafeEntry QR codes.";

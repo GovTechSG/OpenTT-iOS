@@ -1,0 +1,7 @@
+xcuserdata/
+Pods/
+TConstants.swift
+TraceTogether.app.dSYM.zip
+.DS_Store
+DerivedData/
+*.ipa

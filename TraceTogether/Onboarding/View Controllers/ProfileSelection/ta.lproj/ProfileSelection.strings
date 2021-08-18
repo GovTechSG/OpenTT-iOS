@@ -1,0 +1,120 @@
+
+/* Class = "UILabel"; text = "Card Serial Number"; ObjectID = "0kb-BN-jBt"; */
+"0kb-BN-jBt.text" = "அட்டை வரிசை எண்";
+
+/* Class = "UIViewController"; title = "Why do you need my details?"; ObjectID = "2fZ-I5-VuI"; */
+"2fZ-I5-VuI.title" = "எனது விவரங்கள் உங்களுக்கு ஏன் தேவை?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2oT-He-fP2"; */
+"2oT-He-fP2.text" = "Label";
+
+/* Class = "UILabel"; text = "Front"; ObjectID = "372-Cd-U4Z"; */
+"372-Cd-U4Z.text" = "முன்புறம்";
+
+/* Class = "UILabel"; text = "Download SGWorkPass app and scan QR code for Date of Issue"; ObjectID = "3J5-hz-vUU"; */
+"3J5-hz-vUU.text" = "எஸ்.ஜி.வொர்க் பாஸ் (SGWorkPass) செயலியைப் பதிவிறக்கி, வழங்கப்பட்ட தேதி அறிய QR குறியீட்டை ஸ்கேன் செய்யவும்";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "AT6-OM-tnE"; */
+"AT6-OM-tnE.text" = "அல்லது";
+
+/* Class = "UILabel"; text = "Complete your profile"; ObjectID = "Ade-Wb-EDy"; */
+"Ade-Wb-EDy.text" = "உங்கள் சுயவிவரத்தை பூர்த்தி செய்யவும்";
+
+/* Class = "UIViewController"; title = "NRICModalViewController"; ObjectID = "B7B-YY-m2R"; */
+"B7B-YY-m2R.title" = "NRICModalViewController";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Dpa-ij-raR"; */
+"Dpa-ij-raR.text" = "Label";
+
+/* Class = "UILabel"; text = "Check the back of your card for Date of Issue"; ObjectID = "F70-a5-MNQ"; */
+"F70-a5-MNQ.text" = "வழங்கப்பட்ட தேதிக்கு உங்கள் அட்டையின் பின்புறத்தைப் பார்க்கவும்";
+
+/* Class = "UILabel"; text = "Select your profile"; ObjectID = "GHE-Yi-k2y"; */
+"GHE-Yi-k2y.text" = "உங்கள் சுயவிவரத்தைத் தேர்ந்தெடுக்கவும்";
+
+/* Class = "UILabel"; text = "Why do you need my details?"; ObjectID = "J2d-ki-ROm"; */
+"J2d-ki-ROm.text" = "எனது விவரங்கள் உங்களுக்கு ஏன் தேவை?";
+
+/* Class = "UILabel"; text = "Date of Issue (DD-MM-YYYY)"; ObjectID = "NYP-7z-qIT"; */
+"NYP-7z-qIT.text" = "வழங்கப்பட்ட தேதி (DD-MM-YYYY)";
+
+/* Class = "UIButton"; normalTitle = "PROCEED"; ObjectID = "Nqm-7J-HQg"; */
+"Nqm-7J-HQg.normalTitle" = "தொடரவும்";
+
+/* Class = "UIButton"; normalTitle = "I SEE. GOT IT! :)"; ObjectID = "O8a-Yg-0L6"; */
+"O8a-Yg-0L6.normalTitle" = "எனக்கு புரிகிறது. அறிந்துகொண்டேன்! :)";
+
+/* Class = "UIViewController"; title = "RegisterFormViewController"; ObjectID = "OwP-cx-Sf3"; */
+"OwP-cx-Sf3.title" = "RegisterFormViewController";
+
+/* Class = "UIButton"; normalTitle = "How to find?"; ObjectID = "QI6-y7-nWs"; */
+"QI6-y7-nWs.normalTitle" = "கண்டுபிடிப்பது எப்படி?";
+
+/* Class = "UITextField"; placeholder = "Label"; ObjectID = "SX5-vv-Hej"; */
+"SX5-vv-Hej.placeholder" = "Label";
+
+/* Class = "UILabel"; text = "Your unique identification number allows MOH to reach the right person when they need to give you important health advice about COVID-19."; ObjectID = "VAB-TC-yEk"; */
+"VAB-TC-yEk.text" = "COVID-19 பற்றிய முக்கியமான சுகாதார ஆலோசனையை உங்களுக்கு வழங்க வேண்டியிருக்கும் போது உங்கள் தனிப்பட்ட அடையாள எண் MOH சரியான நபரை அடைய அனுமதிக்கிறது.";
+
+/* Class = "UILabel"; text = "2. Dependent's Pass"; ObjectID = "Woq-RD-OQG"; */
+"Woq-RD-OQG.text" = "2. சார்ந்தவரின் நுழைவுச்சீட்டு";
+
+/* Class = "UILabel"; text = "At the back of your NRIC"; ObjectID = "aeY-8q-qfc"; */
+"aeY-8q-qfc.text" = "உங்கள் NRICயின் பின்புறத்தில்";
+
+/* Class = "UILabel"; text = "1. Work Pass"; ObjectID = "cgN-ax-WJa"; */
+"cgN-ax-WJa.text" = "1. பணி நுழைவுச்சீட்டு";
+
+/* Class = "UIViewController"; title = "PassportModalViewController"; ObjectID = "dt3-2I-j9S"; */
+"dt3-2I-j9S.title" = "PassportModalViewController";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "ebx-tb-rOv"; */
+"ebx-tb-rOv.normalTitle" = "அடுத்தது";
+
+/* Class = "UIButton"; normalTitle = "How to find?"; ObjectID = "gS0-Z1-pI0"; */
+"gS0-Z1-pI0.normalTitle" = "கண்டுபிடிப்பது எப்படி?";
+
+/* Class = "UILabel"; text = "Card Serial Number"; ObjectID = "gdZ-Aq-8ZP"; */
+"gdZ-Aq-8ZP.text" = "அட்டை வரிசை எண்";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hJu-wc-Qwz"; */
+"hJu-wc-Qwz.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Date of Issue (DD-MM-YYYY)"; ObjectID = "n9y-xh-R9p"; */
+"n9y-xh-R9p.text" = "வழங்கப்பட்ட தேதி (DD-MM-YYYY)";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "pWf-Ki-Z62"; */
+"pWf-Ki-Z62.text" = "தேவை";
+
+/* Class = "UITextField"; placeholder = "Label"; ObjectID = "rLn-CR-Vz7"; */
+"rLn-CR-Vz7.placeholder" = "Label";
+
+/* Class = "UIViewController"; title = "OtherPassportModalViewController"; ObjectID = "sLU-a5-mch"; */
+"sLU-a5-mch.title" = "OtherPassportModalViewController";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "uy5-xj-Fym"; */
+"uy5-xj-Fym.text" = "தேவை";
+
+/* Class = "UILabel"; text = "Back"; ObjectID = "vlw-V6-Cpo"; */
+"vlw-V6-Cpo.text" = "பின்புறம்";
+
+/* Card Serial Number in LTVP Modal*/
+"hyC-FR-wff.text" = "அட்டை வரிசை எண்";
+
+/* DoA description */
+"Knq-3Q-Qpa.text" = "<b>உங்கள் FIN அட்டையின் <c:#FF6565>விண்ணப்ப தேதியை</c> உள்ளிடவும்</b> — உங்கள் இன் ப்ரின்சிபிள் ஒப்புதல் கடிதத்தில் (IPA) அல்லது அறிவிப்பு கடிதத்தில் காணலாம்";
+
+/* DoA Location */
+"hFG-xX-PCH.text" = "விண்ணப்ப தேதியை\n(DD-MMM-YYYY)";
+
+/* WP SN Description */
+"2i5-H3-qw8.text" = "<b>உங்கள் FIN அட்டையில் உள்ள <c:#FF6565>வரிசை எண்ணை</c> உள்ளிடவும்\n\n\nபணி நுழைவுச்சீட்டு</b> <i>(முன்புறம்)</i>";
+
+/* WP SN Location */
+"6GD-25-03o.text" = "அட்டை வரிசை எண்";
+
+/* DP Description */
+"6mx-Zx-gXA.text" = "<b>உங்கள் FIN அட்டையில் உள்ள <c:#FF6565>வரிசை எண்ணை</c> உள்ளிடவும்\n\n\nசார்ந்தவரின் நுழைவுச்சீட்டு</b> <i>(பின்புறம்)</i>";
+
+/* DP Location */
+"yyD-rn-df0.text" = "அட்டை வரிசை எண்";

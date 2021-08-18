@@ -1,0 +1,85 @@
+/* Class = "UIViewController"; title = "Home"; ObjectID = "1kY-xk-79T"; */
+"1kY-xk-79T.title" = "Home";
+
+/* Class = "UILabel"; text = "TraceTogether is paused"; ObjectID = "2t2-5x-oMJ"; */
+"2t2-5x-oMJ.text" = "TraceTogether is paused";
+
+/* Class = "UILabel"; text = "Resuming life safely, together 🇸🇬"; ObjectID = "86W-qR-5cy"; */
+"86W-qR-5cy.text" = "A safe new normal, together 🇸🇬";
+
+/* Class = "UIButton"; normalTitle = "RESUME NOW"; ObjectID = "JcN-9C-LoH"; */
+"JcN-9C-LoH.normalTitle" = "RESUME NOW";
+
+/* Class = "UIButton"; normalTitle = "Pause TraceTogether"; ObjectID = "M1I-I7-gty"; */
+"M1I-I7-gty.normalTitle" = "Pause TraceTogether";
+
+/* Class = "UILabel"; text = "Share this app"; ObjectID = "vWo-Uv-0Qm"; */
+"vWo-Uv-0Qm.text" = "Share this app";
+
+/* Class = "UILabel"; text = "SafeEntry check in"; ObjectID = "XNl-VG-8vW"; */
+"XNl-VG-8vW.text" = "SafeEntry check in";
+
+/* Class = "UILabel"; text = "Watch latest updates"; ObjectID = "Bjp-gY-JkP"; */
+"Bjp-gY-JkP.text" = "Watch latest updates";
+
+/* Class = "UILabel"; text = "SafeEntry"; ObjectID = "Hco-H4-FYg"; */
+"Hco-H4-FYg.text" = "SafeEntry";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "dKx-a6-luR"; */
+"dKx-a6-luR.title" = "Home";
+
+/* Class = "UITextView"; text = "We will not be able to help you note possible exposure to COVID-19 during this period ☹️"; ObjectID = "lKr-ef-kke"; */
+"lKr-ef-kke.text" = "We will not be able to help you note possible exposure to COVID-19 during this period ☹️";
+
+/* Class = "UILabel"; text = "Your app is active"; ObjectID = "n0K-zy-WGC"; */
+"n0K-zy-WGC.text" = "Your app is active";
+
+/* New check in */
+"yOF-17-9Ag.normalTitle" = "New check in";
+/* Last QR check in */
+"GLl-hE-oAf.text" = "Last check-in";
+/* View Pass */
+"SmV-tA-hCi.normalTitle" = "<u>View pass</u>";
+/* Check out */
+"t4i-gI-VlH.normalTitle" = "Check out";
+
+/* Exposure Green Title - You're okay */
+"oaZ-oS-pjg.text" = "You're okay";
+/* Exposure Green Details - Based on all your TraceTogether and SafeEntry records from the last 14 days. See Details*/
+"KJU-GF-jRH.text" = "Based on all your TraceTogether and SafeEntry records from the last 14 days. <c:#0070E0><u>See details</u> →</c>";
+/* Exposure Red Title - Possible exposure */
+"86P-mb-U1d.text" = "Possible exposure";
+/* Exposure Red Details - You were at places visited by COVID-19 cases. See Details */
+"SfZ-3n-KFa.text" = "You were at a place visited by a COVID-19 case. <c:#0070E0><u>See details</u> →</c>";
+
+
+/* Share Card - Stay safe together.\nShare the app! */
+"hDF-Mu-36w.text" = "Stay safe together.\nShare the app!";
+
+/* This feature is only needed in Singapore. <b><u>If you're currently in Singapore,</b></u> re-register to enable the feature.*/
+"RVQ-lK-fyg.text" = "This feature is only needed in Singapore.
+<b><u>If you're currently in Singapore,</b></u> re-register to enable the feature.";
+
+/* More info */
+"B14-qh-Lg8.normalTitle" = "<u>More info</u>";
+
+/* Re-register */
+"fuO-Wh-615.normalTitle" = "Re-register";
+
+/* How long should you keep the app for? */
+"yfR-2z-Jou.text" = "How long should you keep the app for?";
+
+// Got it
+"MRm-cq-hnk.normalTitle" = "GOT IT!";
+
+//Scan QR
+"NKj-tw-vpI.text" = "Scan QR";
+
+//Favourites
+"8Qk-WW-MUx.text" = "Favourites";
+
+//Group
+"RM7-Lw-sLT.text" = "Group";
+
+//Updated every few mins
+"STd-MN-bYh.text" = "updated every few mins";

@@ -1,0 +1,329 @@
+/* 
+  Localizable.strings
+  OpenTraceTogether
+*/
+
+// Test String
+"TapLetter" = "စာကိုဖွင့်ရန် တို့ထိလိုက်ပါ";
+// Common
+"TemporarilyUnavailable" = "ယာယီအသုံးပြု၍ မရပါ။";
+"TemporarilyUnavailableMessage" = "ကျွန်ုပ်တို့ တကယ်စိတ်မကောင်းပါ။ စစ်ဆေးပေးပါမည်။ နောက်မှ ထပ်စမ်းကြည့်ပါ။";
+"CheckYourConnection" = "သင်၏ ချိတ်ဆက်မှုကို စစ်ဆေးပါ";
+"CheckYourConnectionMessage" = "မပူပါနှင့်။ အင်တာနက်ချိတ်ဆက်ပြီး ထပ်စမ်းကြည့်ပါ။";
+"PleaseTryAgainLater" = "Please try again later.";
+"TooManyTries" = "စမ်းကြည့်ရာတွင် အဆင်မပြေသည့် အကြိမ်ရေ များလွန်းသည်။";
+
+// InputAccessoryView
+"Done" = "ပြီးပါပြီ";
+"Prev" = "ပြီးခဲ့သော အကွက်";
+"Next" = "ရှေ့အကွက်";
+
+// HelpsYouRecall
+"TraceTogetherLogoLabel" = "TraceTogether";
+"HelpsYouRecallLabel1" = "သင် ဘယ်ကို သွားခဲ့သလဲဆိုတာနဲ့ ပြီးခဲ့တဲ့ ရက်သတ္တပတ်အနည်းငယ်အတွင်း ဘယ်သူတွေ သင်နဲ့အတူရှိခဲ့လဲဆိုတာ သင် မှတ်မိအောင် ကူညီပေးပါတယ်။";
+"HelpsYouRecallBoldLabel1" = "သင် မှတ်မိအောင် ကူညီပေးပါတယ်";
+"HelpsYouRecallLabel2" = "သင်နှင့်တကွ သင်နှင့်ပါတ်သက်သောသူများကို ကာကွယ်ပေးရန်အတွက် သင် COVID-19 ကူးစက်ခံရပါက သင့်အား လျင်မြန်စွာ အသိပေးအကြောင်းကြားပါသည်";
+"HelpsYouRecallBoldLabel2" = "လျင်မြန်စွာ အသိပေးအကြောင်းကြားပါသည်";
+
+// HowItWorks
+"DataUseInfo" = "သင်၏ အက်ပ်ဒေတာကို <b>သင့်ဖုန်းပေါ်တွင် လုံခြုံစွာ သိမ်းဆည်းထားပြီး</b> သင်က COVID-19 ရှိ-မရှိ စမ်းသပ်မှုတွင် ပိုးတွေ့ရှိသူဖြစ်ပါက ထိတွေ့မှု ခြေရာခံရန် ရည်ရွယ်ချက်တစ် ထိုဒေတာများကို ကျန်းမာရေးဝန်ကြီးဌာန (MOH) နှင့် မျှဝေပါမည်။\n\n25 ရက် ကြာပြီးနောက် သင့်ဖုန်းထဲတွင် သိမ်းထားသော ဒေတာကို အလိုအလျောက် ဖျက်ပစ်လိုက်ပါမည်။";
+
+// OTP
+"EnterOTPSent" = "ပို့လိုက်သော တစ်ကြိမ်သုံး-ပင်နံပါတ် (OTP) ကို ရိုက်ထည့်ပေးပါ %@";
+"WrongNumber" = "နံပါတ် မှားနေပါသလား။";
+"ResendOTP" = "ပြန်ပို့ပါ OTP";
+"ResendCountdown" = "ပြန်ပို့ပါ %@s";
+"ContactYou" = "သင်က COVID-19 ကူးစက်ခံရနိုင်ခြေ ရှိခဲ့လျှင် သင့်အား ဆက်သွယ်ရန် MOH က ဤနံပါတ်ကို သုံးပါမည်။";
+"EnterPhoneNumber" = "Enter your mobile number here";
+"TapToChangeCountryCode" = "Selected Country code is %@. Tap to change country code";
+
+// Help Modal
+"HelpModalDetailsMainText" = "ထပ်တူမရှိသော သင်၏ အိုင်ဒီနံပါတ်သည် COVID-19 နှင့် ပတ်သက်ပြီး MOH က သင့်အား အရေးကြီးသော ကျန်းမာရေးဆိုင်ရာ အကြံဉာဏ်များပေးရန် လိုအပ်သောအခါ မှန်ကန်သောလူကို ဆက်သွယ်နိုင်စေသည်။";
+"HelpModalDetailsMainBoldText" = "မှန်ကန်သောလူကို ဆက်သွယ်နိုင်စေသည်";
+
+// Profile Selection
+"NRIC" = "စင်္ကာပူနိုင်ငံသား/PR (အသက်အရွယ်အားလုံး)";
+"FINWorkPass" = "FIN — အလုပ်လုပ်ကိုင်ခွင့်";
+"FINDepPass" = "FIN — မှီခိုနေထိုင်ခွင့်";
+"FINStudPass" = "FIN — ကျောင်းသားနေထိုင်ခွင့်";
+"FINLTVP" = "FIN — နှစ်ရှည်လည်ပတ်မှု ဝင်ခွင့်လက်မှတ်";
+"VisitSG" = "စင်္ကာပူသို့ လည်ပတ်ခြင်း";
+
+"NRICDesc" = "သင်၏ NRIC ကတ်ကို အသင့်ပြင်ထားပေးပါ :)";
+"FINWorkPassDesc" = "သင်၏ အလုပ်လုပ်ကိုင်ခွင့်ကတ်ကို အသင့်ပြင်ထားပေးပါ :)";
+"FINDepPassDesc" = "သင်၏ မှီခိုနေထိုင်ခွင့်စာအုပ်ကို အသင့်ပြင်ထားပေးပါ :)";
+"FINStudPassDesc" = "သင်၏ ကျောင်းသားကတ်ကို အသင့်ပြင်ထားပေးပါ :)";
+"FINLTVPDesc" = "သင်၏ ကာလရှည်နေထိုင်ခွင့်ကတ်ကို အသင့်ပြင်ထားပေးပါ :)";
+"VisitSGDesc" = "စင်္ကာပူသို့ ဝင်ရောက်သည့်အခါ အသုံးပြုမည့် ပတ်စပို့ကို အသုံးပြုပါ :)";
+"PassportVerified" = "စင်္ကာပူလူဝင်မှုကြီးကြပ်ရေးမှ စိစစ်ပြီး";
+
+// Registration Form
+"Name" = "အမည်";
+"NricBirthCert" = "NRIC / မွေးစာရင်း နံပါတ်";
+"DateOfBirth" = "မွေးသက္ကရာဇ်";
+"DateOfBirthForPassportUsers" = "မွေးသက္ကရာဇ် (ပတ်စပို့အရ)";
+"DateOfIssue" = "ထုတ်ပေးသည့် ရက်စွဲ";
+"FINString" = "နိုင်ငံခြား အိုင်ဒီကတ်နံပါတ် (FIN)";
+"cardSerialNumber" = "ကတ် ဆီရီရယ်နံပါတ်";
+"passportNumber" = "ပတ်စပို့ နံပါတ်";
+"DateOfExpiry" = "သက်တမ်းကုန်ဆုံးရက်";
+"MobileNumber" = "လက်ကိုင်ဖုန်းနာပတ်";
+"Nationality" = "နိုင်ငံသား";
+"HowToFind" = "ဘယ်လို ရှာမလဲ။";
+"InvalidDate" = "ရက်စွဲ မှားနေသည်";
+"InvalidName" = "အမည် မှားနေသည်";
+"InvalidFin" = "FIN မှားနေသည်";
+"InvalidNRIC" = "NRIC မှားနေသည်";
+"TapBackAndSelectFIN" = "ကျေးဇူးပြုပြီးနောက်ကိုအသာပုတ်ပြီး FIN ပရိုဖိုင်ကိုရွေးချယ်ပါ။";
+"TapBackAndSelectNRIC" = "နောက်သို့ ပြန််နှိပ်ပြီး စင်္ကာပူပရိုဖိုင်ကို ရွေးချယ်ပါ";
+"InvalidPassportFormat" = "ပတ်စပို့ပုံစံ မမှန်ကန်ပါ";
+"OwnFINCard" = "FIN ကဒ်ပါရှိပါသလား။";
+"DateOfApplication" = "လျှောက်လွှာတင်သည့်နေ့ကို";
+"Yes" = "ပါ ပါသည်။";
+"No" = "မပါ ပါ။";
+"NRICDetailsTitle" = "သင်၏ NRIC အသေးစိတ်";
+"FinWPDetailsTitle" = "သင်၏ FIN-အလုပ်လုပ်ကိုင်ခွင့် အသေးစိတ်";
+"FinDPDetailsTitle" = "သင်၏ FIN-မှီခိုနေထိုင်ခွင့် အသေးစိတ်";
+"FinSTPDetailsTitle" = "သင်၏ FIN-ကျောင်းသားနေထိုင်ခွင့် အသေးစိတ်";
+"FinLTVPDetailsTitle" = "သင်၏ FIN-နှစ်ရှည်လည်ပတ်မှု ဝင်ခွင့်လက်မှတ် အသေးစိတ်";
+"PassportDetailsTitle" = "သင်၏ ပတ်စပို့အသေးစိတ်";
+"PassportDetailsInfo" = "စင်္ကာပူသို့ ဝင်ရောက်သည့်အခါ အသုံးပြုမည့် ပတ်စပို့ကို အသုံးပြုပါ။ အောက်ပါအသေးစိတ်အချက်များသည် စင်္ကာပူ လူဝင်မှုကြီးကြပ်ရေးရှိ အချက်များနှင့် ကိုက်ညီရပါမည်။";
+"PassportInvalidTitle" = "စင်္ကာပူ လူဝင်မှုကြီးကြပ်ရေးထံတွင် သင်၏ ပတ်စပို့အသေးစိတ် မရှိပါ";
+"PassportInvalidDetails" = "စင်္ကာပူလူဝင်မှုကြီးကြပ်ရေးထံမှ ဖြတ်သန်းခွင့်ရပြီးမှသာ သင့်အက်ပ်ကို စဖွင့်နိုင်သည်။ ထို့အပြင် အက်ပ်အတွင်းသို့ မှန်ကန်သော အသေးစိတ်အချက်များ ထည့်ထားခြင်း ရှိ၊ မရှိ စစ်ဆေးပါ။";
+"RegisterWithFINTitle" = "သင့် FIN ဖြင့် ပြန်လည်မှတ်ပုံတင်ပါ";
+"RegisterWithFINMessage" = "ဤနည်းဖြင့် MOH သည် သင့်ထံ COVID စစ်ဆေးမှုအဖြေများကို တိကျစွာ ပို့နိုင်သည်။ သင်၏ ကိုယ်ရေးအသေးစိတ်အချက်များကို အခြားစက်များနှင့် လုံးဝ မမျှဝေပါ";
+
+// Registration Modals
+"backOfNRIC" = "သင့် NRIC ကတ်၏ ကျောဘက်";
+"backOfNRICUnderline" = "နောက်သို့";
+"frontOfFIN"= "ရှေ့သို့";
+"backOfFIN"= "နောက်သို့";
+"checkBackOfWorkPass" = "ထုတ်ပေးသည့်ရက်စွဲကို သင့်ကတ်၏ ကျောဘက်တွင် စစ်ပါ";
+"checkBackOfLTVP" = "နှစ်ရှည်လည်ပတ်မှု ဝင်ခွင့်လက်မှတ်";
+
+// Note strings
+"noteNS" = "အစိုးရ အမှုထမ်းများအတွက် သင့် NIRC ၏ နောက်ကျောတွင် ဖော်ပြထားသော ထုတ်ပေးသည့်ရက်စွဲနှင့် ပတ်သက်ပြီး သင့်ဌာန၏ အကြီးတန်းမှတ်တမ်းအရာရှိအား ဆက်သွယ်ပါ။";
+"noteMinor" = "အသက် 17 နှစ်အောက် ရှိသူများအတွက် NIRC ထုတ်ပေးသည့်ရက်စွဲ မလိုအပ်ပါ။";
+
+// AllowPerms StoryBoard
+"PleaseNoteDetails" = "ဘလူးတုသ်ဖွင့်ထား​ရန်နှင့်သင်၏အက်ပလီကေးရှင်းကိုနောက်ခံတွင်ထားရန်သတိရပါ။ (ဟုတ်ကဲ့၊ အခုဆိုရင် iOS နောက်ခံမှာလည်း ကျွန်ုပ်တို့ လုပ်ကိုင်ပေးနိုင်ပါပြီ။)";
+"PleaseNoteBold1Details" = "သင့်အက်ပ်ကို နောက်ခံတွင် ဖွင့်မြဲဖွင့်ထားပြီး";
+"PleaseNoteBold2Details" = "ဘလူးတုသ်ကို ဖွင့်ထားပါ။";
+"AppIsWorkingHeader" = "ယခု သင့်အက်ပ်သည် အလုပ်လုပ်နေပါပြီ။";
+"AppActiveHeader" = "Your app is now activated!";
+
+// Home Screen and Storyboard
+"SgFlag" = "ဘေးကင်းလုံခြုံသော ဘဝကို အတူတကွ ပြန်ရယူကြပါစို့ 🇸🇬";
+"ShareThisApp" = "ဤအက်ပ်ကို မျှဝေလိုက်ပါ";
+"SafeEntryCheckInHome" = "အစစ်ဆေးခံပြီး ဘေးကင်းလုံခြုံစွာ ဝင်ခြင်း။";
+"PauseTraceTogether" = "TraceTogether ကို ခဏရပ်ရန်";
+"ShareApp" = "ဘဝလုံခြုံစွာ ရှင်သန်နိုင်ဖို့ COVID-19 ကူးစက်ပျံ့နှံ့မှု ရပ်တန့်ရေးမှာ ကျွန်တော်တို့နဲ့အတူ ပါဝင်ပေးပါ။\nMOH နဲ့ GovTech တို့ရဲ့ အက်ပ်တစ်ခုဖြစ်တဲ့ TraceTogether ကို ဒေါင်းလုဒ်လုပ်ပါ။ https://tracetogether.gov.sg - ကို ဝင်ကြည့်ပေးပါ။";
+"PleaseKeepAppFor" = "စင်္ကာပူမှ ထွက်ခွာပြီး<u>နောက်</u> <b>14 ရက်</b> အထိ ဤအက်ပ်ကို ဆက်လက်အသုံးပြုပါ။.
+
+ဤနည်းဖြင့် သင်နှင့် သင်ချစ်ခင်ရသူများကို ပိုမိုကာကွယ်နိုင်ရန် သင်က COVID-19 ရောဂါရှိသူနှင့် အနီးကပ်ထိတွေ့မှု ရှိခဲ့ပါက စင်္ကာပူကျန်းမာရေးဝန်ကြီးဌာနသည် သင့်ကို အကြောင်းကြားပါမည်။
+
+သင် စင်္ကာပူတွင်ရှိနေစဉ် <b>သင့်အက်ပ်ကို နောက်ခံတွင် ဖွင့်ထားပြီး ဘလူးတုသ်ဖွင့်ထား</b> ရန် မမေ့ပါနှင့်။ ဘေးကင်းလုံခြုံစွာ ခရီးသွားပါ။";
+
+
+// Legacy
+"InvalidOTP" = "Must be a 6-digit code";
+"WrongOTP" = "မှားယွင်းသော OTP နံပါတ်ကို ဖြည့်ထားသည်";
+"InvalidPIN" = "PIN မှားနေသည်";
+"InvalidUploadCode" = "အပ်လုဒ်တင်ကုဒ် မှားနေသည်";
+
+"CodeWillExpired" = "Didn't receive SMS? Try again in %@.";
+"CodeHasExpired" = "Your code has expired.";
+
+"NotAValidCode" = "Not a valid code";
+"DataUploaded" = "Data uploaded";
+"DataNotUploaded" = "Data not uploaded";
+
+// Catch missing programatic strings or attributed strings
+//"LastUpdated" = "Last Updated : %@";
+"LastUpdated" = "နောက်ဆုံးအခြေအနေ :";
+"UsePowerSaverMode" = "Use power saver mode";
+"TTisDeactivated" = "TraceTogether is Deactivated";
+
+// Reonboarding
+"iPhoneUsersBackgroundWorks" = "iPhone သုံးစွဲသူများခင်ဗျာ — ယခုအခါ သင့်အက်ပ်သည် နောက်ခံတွင် လုပ်ဆောင်နိုင်ပါပြီ!!";
+"iPhoneUsersBackgroundBold" = "background";
+"WhatYouNeedToDo" = "You need to keep your app open in the background. Do not swipe up on the app to close it.";
+"WhatYouNeedToDoBold" = "keep your app open in the background";
+"MoreLanguages" = "နောက်ထပ် ဘာသာစကားများ";
+"Languages" = "နောက်ထပ် ဘာသာစကားများ — বাংলা, 中文, English, हिन्दी, Melayu, தமிழ், ไทย";
+"NewLook" = "New look — from blue to red";
+"NewLookBold" = "New look";
+"ScanAndGo" = "Scan and go with SafeEntry QR code — no more forms";
+"ScanAndGoBold" = "QR စကင်ဖတ်ပြီးသွားပါ။";
+"CheckIn" = "ဝင်သုံးလိုက်ပါ";
+"PersonalMedicalInformation" = "ID ကိုစိစစ်အတည်ပြု, ထို့ကြောင့်သင်သည် COVID-19 နှင့်သက်ဆိုင်သောကိုယ်ရေးကိုယ်တာဆိုင်ရာဆေးဘက်ဆိုင်ရာအချက်အလက်များကိုအက်ပ်မှတဆင့်ရယူနိုင်သည်";
+"IDVerification" = "ID ကိုစိစစ်အတည်ပြု";
+"OKExclam" = "OK!";
+
+//Passport reonboarding
+"IfYouHaveOneofTheFollowing" = "သင့်တွင် အောက်ပါတို့အနက် တစ်ခုခုရှိပါက-
+<ls:4><fs:14>
+ • NRIC / စင်္ကာပူ မွေးစာရင်းနံပါတ်
+ • FIN (အလုပ်လုပ်ကိုင်ခွင့်)
+ • FIN (မှီခိုနေထိုင်ခွင့်)
+ • FIN (ကျောင်းသားနေထိုင်ခွင့်)
+ • FIN (နှစ်ရှည်လည်ပတ်မှု ဝင်ခွင့်လက်မှတ်)
+</fs></ls>
+သင်၏ COVID စစ်ဆေးမှုအဖြေများကို သင်၏ NRIC/FIN နှင့် တိုက်ဆိုင်စစ်ဆေးသည်။ <b>သင်၏ NRIC/FIN နှင့် ပြန်လည် မှတ်ပုံတင်ပါ။</b>";
+
+"IfYourProfileFalls" = "<ls:16>သင်၏ ပရိုဖိုင်သည် အောက်ပါခေါင်းစဉ်အောက်တွင် ရှိပါက-<fs:14></ls>
+<ls:4>
+ • စင်္ကာပူသို့ ခေတ္တလာရောက်ခြင်း
+ • သံတမန်ရေးရာ တာဝန်များ
+ • အထူးလက်မှတ်ကိုင်ဆောင်သူ
+ • အခြား</fs>
+</ls>
+သင်၏ COVID စစ်ဆေးမှုအဖြေများကို သင့်ပတ်စပို့ဖြင့် တိုက်ဆိုင်စစ်ဆေးသည်။ <b>စင်္ကာပူသို့ ဝင်ရောက်ရာတွင် သုံးသော ပတ်စပို့ဖြင့် ပြန်လည်မှတ်ပုံတင်ကြောင်း သေချာပါစေ။</b>";
+
+// Bluetooth
+"GoToSettingsTurnOnBluetooth" = "ဆက်တင်များ သို့မဟုတ် ထိန်းချုပ်ရေးစင်တာသို့ သွားပြီး သင့်ဖုန်း၏ ဘလူးတုသ်ကို ဖွင့်ပါ။ \n\nယင်းနောက် အက်ပ်ကို ပြန်ဖွင့်သုံးပါ။";
+"Settings" = "ဆက်တင်များ";
+"ControlCenter" = "ထိန်းချုပ်ရေးစင်တာ";
+
+// Location
+"NumOfExchangesTraceTogetherHistory" = "%@ Bluetooth ဖလှယ်မှုများ";
+"NumOfExchangesTraceTogetherHistorySingular" = "%@ Bluetooth ဖလှယ်မှုများ";
+"NumOfDevicesNearby" = "အနီးတွင် TraceTogether စက် %@ လုံး ရှိသည်";
+"TapToKnowMore" = "Tap to know more";
+"NumOfExchangesToday" = "ယနေ့ စုစုပေါင်းဖလှယ်မှု %@ ကြိမ်";
+"ChooseDate" = "Choose Date";
+"OpenTTtoKeepItRun" = "Open TraceTogether to keep it running";
+"SometimesYourPhone" = "Sometimes, your phone gets the app to take a break. Open the app so it can continue protecting you.";
+
+// Pause TT
+"PauseTraceTogether" = "TraceTogether ကို ခဏရပ်ရန်";
+"TraceTogetherWillNotBeAble" = "We will not be able to help you note possible exposure to COVID-19 during this period ☹️";
+"Pause30mins" = "မိနစ် ၃၀ ခဏရပ်ပါ";
+"Pause2hrs" = "၂ နာရီ ခဏရပ်ပါ";
+"Pause8hrs" = "၈ နာရီ ခဏရပ်ပါ";
+"Cancel" = "ပယ်ဖျက်ရန်";
+
+// User Reg
+"NRICValidationFailed"="မှန်ကန်ကြောင်းအတည်ပြုမှု မအောင်မြင်ပါ။ အနီရောင်ပါ အကွက်များအားလုံးကို စစ်ဆေးပါ";
+
+// Upload Strings
+"DidNot" = "did not";
+"DoNot" = "do not";
+"UploadCodeOnlyGivenToPplCovid19" = "အပ်လုဒ်တင်ကုဒ်တစ်ခုကို COVID-19 လူနာများကိုသာ ပေးပါသည်။\n\nအပ်လုဒ်တင်ကုဒ်တစ်ခုကို MOH မှ သင် ရရှိမထားပါက ဒေတာကို သင်က အပ်လုဒ်တင်ရန် မလိုပါ :)";
+"IfYouDidNotGetUploadCode" = "အပ်လုဒ်တင်ကုဒ်တစ်ခုကို MOH မှ သင် ရရှိမထားပါက ဒေတာကို သင်က အပ်လုဒ်တင်ရန် မလိုပါ :)";
+"UploadFailedPlsTryAgainLater" = "တင်ယူမှုမအောင်မြင်ပါ ကျေးဇူးပြု၍ နောက်မှထပ်ကြိုးစားပါ";
+"AppVersion" = "အက်ပ် ဗားရှင်း %@";
+"NoUploadCode" = "အပ်လုဒ်တင်ကုဒ် မရှိဘူးလား။";
+
+//Safe Entry
+"SafeEntry" = "SafeEntry";
+"seMsg1" = "လွန်ခဲ့သော ၁၄ ရက်အတွင်း သည်အတည်ပြုပြီးသော COVID-19 အမှုနှင့်သင်အနီးကပ်ဆက်သွယ်မှုမရှိပါ။";
+"seMsg2" = "သင်သည် Quarantine Order သို့မဟုတ် Stay-Home သတိပေးချက်အောက်တွင်မရှိပါ။";
+"seMsg3" = "သင့်တွင်ဖျားနာသို့မဟုတ်တုပ်ကွေးကဲ့သို့သောလက္ခဏာများမရှိပါ။";
+"seMsg4" = "COVID-19 အဆက်အသွယ်ရှာဖွေခြင်းအတွက်သင်၏အချက်အလက်များကိုစုဆောင်း / အသုံးပြုရန်စည်းကမ်းချက်များကိုသင်သဘောတူပြီး​​ဖြစ်သည်။";
+"Retry" = "ပြန်ကြိုးစားပါ။";
+"UnableToCheckIn" = "အဝင်စစ်ဆေးခြင်းလုပ်၍မရပါ။";
+"UnableToCheckOut" = "အထွက်စစ်ဆေးခြင်းလုပ်၍မရပါ။";
+"NetworkIssue" = "ကွန်ရက်ပြဿနာရှိပုံရသည်။  သင်၏ဆက်သွယ်မှုကိုစစ်ဆေးပြီးထပ်မံကြိုးစားပါ။";
+"ThereSeemsNetworkIssue" = "ကွန်ရက်ပြဿနာရှိပုံရသည်။ ";
+"CheckConnectionTryAgain" = "သင်၏ဆက်သွယ်မှုကိုစစ်ဆေးပြီးထပ်မံကြိုးစားပါ။";
+
+"BackToHome" = "ပင်မစာမျက်နှာ ပြန်သွားရန်";
+"NotASafeEntryQRCodeTitle" = "၎င်းသည် SafeEntry QR ကုဒ်နှင့်မတူပါ။";
+"NotASafeEntryQRCodeMessage" = "မှန်ကန်သော SafeEntry QR ကုဒ်ကိုသင်စစ်ဆေးနေကြောင်းသေချာစေပါ။";
+"ScanAgain" = "စကင်ပြန်ဖတ်ပါ။";
+"SafeEntryTemporarilyUnavailableTitle" = "SafeEntry QR အဝင်စစ်ဆေးခြင်း ယာယီအသုံးပြု၍ မရပါ။";
+"SafeEntryOtherMethodsMessage" = "စစ်ဆေးရန်အခြားနည်းလမ်းများကိုအသုံးပြုရန်စဉ်းစားပါ။";
+"IdScanMessage" = "ဂျစ်တယ်ဘားကုဒ်ကိုသုံးပါ။\n ပုံစံဟောင်း​စကင်နာများကဖုန်းများမှဘားကုဒ်များကိုမဖတ်ရနိုင်ကြောင်းသတိပြုပါ။";
+"MissingUserID" = "We found a small bug 🐛";
+"StartOver" = "Please enter your details and try again.";
+"TTOnlyErrorTitle" = "Oops! This venue does not allow Group check in. ";
+"TTOnlyErrorMessage" = "Your family needs to check in with their own TraceTogether device. This ensures that all visitors have TraceTogether activated, to better protect you in crowded places.";
+"OKCheckInForMyself" = "OK, Check in for myself";
+"ProceedWithReRegistration" = "ဆက်လက်နေ ပြန်လည်မှတ်ပုံတင်မလား";
+"EnsureYouHaveFollowing" = "သင့်တွင် အောက်ပါတို့အနက် တစ်ခုရှိကြောင်း သေချာပါစေ-
+NRIC,
+FIN (အလုပ်လုပ်ကိုင်ခွင့်),
+FIN (မှီခိုနေထိုင်ခွင့်),
+FIN (ကျောင်းသားနေထိုင်ခွင့်), or
+FIN (နှစ်ရှည်လည်ပတ်မှု ဝင်ခွင့်လက်မှတ်).
+
+သင်၏ NRIC/FIN ဖြင့် ပရိုဖိုင်အသစ် စဖွင့်မည်။ Your previous app data will be erased. ";
+"SettingNewProfileErasingPreviousAppData" = "သင်သည်ပရိုဖိုင်းအသစ်တစ်ခုကိုတည်ဆောက်မည်။ သင်၏ယခင်အက်ပလီကေးရှင်းဒေတာများကိုဖျက်ပစ်လိမ့်မည်။";
+"NumOfPax" = "Number of Pax checked in =";
+"TapToCheckIn" = "Tap to check in to ";
+"ScanQRCode" = "SafeEntry QR ကုဒ်ကိုစကင်ဖတ်ပါ။";
+"OnlyProceedIfInSingapore" = "Only proceed if you're currently in Singapore. Proceeding will set up a new profile upon registration, and your previous app data will be erased.";
+
+//History
+"DataKeptSecure" = "သင်၏ရာဇဝင်က သင်၏ <b>TraceTogether Bluetooth ကိုအခြားအသုံးပြုသူများနှင့်ဖလှယ်မှုနှင့်</b> TraceTogether အက်ပ်ကို သုံး၍ <b>SafeEntry check-in/out</b> လုပ်ခဲ့သမျှကိုမဆို ပြသပါသည်။";
+"New" = "အင်္ဂါရပ်အသစ်";
+"NoCheckOut" = "အထွက် မစစ်ဆေး";
+"CovidVisited" = "COVID-19 ဖြစ်ပွားသူ လည်ပတ်ခဲ့သည်";
+"LocationPostalCode" = "တည်နေရာများကို စာပို့ကုဒ်ဖြင့် တိုက်ဆိုင်စစ်ဆေးသည်။";
+
+"NoInternetConnectToSeeSEStatus" = "No internet connection. Connect to see your COVID-19 Possible Exposure status.";
+"ExposureCheckTemporarilyUnavailable" = "Your COVID-19 Possible Exposure status is temporarily unavailable. We’re working hard to fix it 💪🏽";
+"NoCheckIn" = "No check in";
+"TryAgainLater" = "We’re working hard to fix it 💪🏽";
+"NoInternetConnection" = "No internet connection.";
+"ConnectToSeeCovid19Exposures" = "Connect to see your COVID-19 Possible Exposure status.";
+"ExposureCheckTemporarilyUnavailableShort" = "COVID-19 Possible Exposure Check is temporarily unavailable.";
+"AddFav" = "Add this place to your favourites";
+"RemoveFav" = "Remove this place from your favourites";
+"To" = "To";
+"CheckInTime" = "CheckInTime";
+"CheckOutTime" = "CheckOutTime";
+"Close" = "ပိတ်ပါ";
+
+//Settings
+"Others" = "Others";
+"YourProfile" = "သင့်ပရိုဖိုင်";
+"Help" = "အကူအညီ";
+"ReportVuln" = "အားနည်းချက်ကို သတင်းပို့ပါ";
+"Account" = "စာရင်း";
+"HelpFeedback" = "အကူအညီ နှင့် တုံ့ပြန်ချက်";
+"ManageAlerts" = "သတိပေးချက်များကိုစီမံပါ";
+"ChangeLanguage" = "ဘာသာစကား ပြောင်းရန်";
+"ExposureAlerts" = "Exposure Alerts";
+"AppUpdates" = "App Updates";
+"DailyReminder" = "Daily Reminder";
+"SubmitErrorLogs" = "Submit Error Logs";
+"TipsAndShortcuts" = "Tips and Shortcuts";
+"ExposureAlertsDescription" = "Get notified more quickly if you were nearby COVID-19 patients during their infectious period";
+"AppUpdatesDescription" = "Notify you when there are important app updates";
+"DailyReminderDescription" = "Notify you at 9am daily to turn on Bluetooth and keep app open in the background";
+"ManageFamilyMembers" = "Manage Family Members";
+"InvalidNRICFIN" = "Invalid NRIC/FIN. Enter a valid NRIC/FIN.";
+"AddAnotherPerson" = "+ Add another person";
+"UniqueNRIC" = "This NRIC/FIN has already been added.";
+"CheckedFamilyMember" = "Checked, Family member selected";
+"UncheckedFamilyMember" = "Unchecked, Family member not selected";
+"AddFamilyMember" = "Add Family Members";
+"AddAnotherPersonForAccessibility" = "Add another person";
+"SelectAll" = "<u>Select all</u>";
+"UnselectAll" = "<u>Unselect all</u>";
+"TapToSeeDetails" = "Tap To See Details";
+"Section" = "Section";
+
+//Favourite
+"FavPlace" = "YOUR FAVOURITE PLACES";
+"SearchFav" = "Search from list below";
+"SavLocToFav" = "အကြိုက်ဆုံးများတွင် ဤနေရာကို သိမ်းရန်";
+"SavLocToFavUnderline" = "ဤနေရာကို သိမ်းရန်";
+"LocSavedToFav" = "ဤနေရာသည် သင်၏ အကြိုက်ဆုံးများတွင် ပါဝင်သည်";
+
+"Back" = "နောက်သို့";
+"CheckboxSelected" = "Agree to Terms and Conditions Checkbox checked";
+"CheckboxNotSelected" = "Agree to Terms and Conditions Checkbox unchecked";
+"Close" = "Close";
+
+"TapToCloseDetails" = "Tap To close Details";
+"TapToSeeDetails" = "Tap To See Details";
+
+"UPDATE" = "နောက်ဆုံးသတင်း";
+"NewVersionAvailableTitle" = "ဗားရှင်းအသစ် ရနိုင်သည်";
+"NewVersionAvailableMessage" = "သင့်ကို ပိုမိုကောင်းမွန်စွာ ဝန်ဆောင်မှုပေးနိုင်ရန် TraceTogether ကို အဆင့်မြှင့်ထားသည်။ ယခုပင် အပ်ဒိတ်လုပ်ပါ။";
+"UpdateAppNowTitle" = "သင့်အက်ပ်ကို ယခု အပ်ဒိတ်လုပ်ပါ";
+"UpdateAppNowMessage" = "ကျွန်ုပ်တို့သည် အရေးကြီးသည့် အပြောင်းအလဲများ ပြုလုပ်ထားပြီး TraceTogether ကို ဆက်လက်သုံးစွဲရန် သင့်အက်ပ်ကို အပ်ဒိတ်လုပ်ရပါမည်။";
+"RemindMeAgain" = "ထပ်မံ သတိပေးပါ";

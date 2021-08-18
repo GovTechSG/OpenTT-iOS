@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "GO TO SETTINGS"; ObjectID = "0ZW-bd-n4G"; */
+"0ZW-bd-n4G.normalTitle" = "সেটিংস-এ যান";
+
+/* Class = "UILabel"; text = "Bluetooth"; ObjectID = "K4P-b8-d45"; */
+"K4P-b8-d45.text" = "ব্লু টুথ";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "TGw-Di-36i"; */
+"TGw-Di-36i.text" = "বিজ্ঞপ্তি";
+
+/* Class = "UILabel"; text = "Your app is not working"; ObjectID = "enT-er-tRU"; */
+"enT-er-tRU.text" = "আপনার অ্যাপ কাজ করছে না";
+
+/* Class = "UILabel"; text = "Please allow these permissions for effective contact tracing:"; ObjectID = "yXt-Pd-wUs"; */
+"yXt-Pd-wUs.text" = "সঠিক কন্ট্যাক্ট ট্রেসিং-এর জন্য অনুগ্রহ করে এই অনুমতিগুলো দিন:";

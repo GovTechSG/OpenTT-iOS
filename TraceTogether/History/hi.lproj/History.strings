@@ -1,0 +1,58 @@
+
+/* Class = "UIButton"; normalTitle = "GOT IT"; ObjectID = "LnX-Lw-8bY"; */
+"LnX-Lw-8bY.normalTitle" = "समझ गया";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "WQB-B5-nl3"; */
+"WQB-B5-nl3.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "History"; ObjectID = "Lqf-5p-7ts"; */
+"gj0-uT-UWo.title" = "इतिहास";
+
+/* Class = "UITabBarItem"; title = "History"; ObjectID = "bY7-hL-MnK"; */
+"KJz-60-ON0.title" = "इतिहास";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tvn-OH-Csa"; */
+"tvn-OH-Csa.normalTitle" = "Button";
+
+//These records help us notify you if you were near COVID-19 patients during their infectious period.
+"hGX-1P-Jnn.text" = "यदि आप संक्रामक अवधि के दौरान COVID-19 रोगियों के पास थे, तो ये रिकॉर्ड आपको सूचित करने में हमारी मदद करते हैं।";
+
+//Past 14 days
+"U8h-OB-wYc.text" = "अतीत 14 दिन";
+
+//You were at a place visited by a COVID-19 case
+"XE2-8f-gbO.text" = "आप एक स्थान पर गए थे जहाँ COVID-19 का एक रोगी गया था";
+
+//As a precaution, monitor your health for 14 days from the visit date. If you develop fever or respiratory symptoms, see a doctor immediately and indicate this exposure.
+"HV9-ab-qPw.text" = "एहतियात के तौर पर, भेंट की तारीख से 14 दिनों तक अपने स्वास्थ्य की निगरानी रखें । इस दौरान यदि आपको बुखार या सांस की तकलीफ हो, तो तुरंत एक डॉक्टर को देखें और इस जोखिम का संकेत दें।";
+
+//Check for symptoms
+"Ehf-AX-guJ.normalTitle" = "<u>लक्षणों की जाँच करें</u>";
+
+//All Records
+"3fG-05-gMh.normalTitle" = "सभी रिकॉर्ड";
+
+//Possible Exposure
+"fRx-9l-ExZ.normalTitle" = "संभव प्रदर्शनियां";
+
+//YOUR POSSIBLE EXPOSURES
+"xqc-Q6-1J1.text" = "आप के संभावित जोखिम";
+
+//Please remember to check out using SafeEntry in the future.
+"46m-ew-qjC.text" = "कृपया भविष्य में SafeEntry का उपयोग करके चेक आउट करना याद रखें।";
+
+//'Check out now' button
+"u1u-Z0-iFt.normalTitle" = "<u>चेक आउट करे</u>";
+
+//You were not at places visited by COVID-19 cases
+"1ZU-cp-UkU.text" = "आप उन स्थानों पर नहीं गए थे जहाँ COVID-19 के रोगी गए थे";
+
+// No records yet.
+"a69-K2-8o2.text" = "अभी तक कोई रिकॉर्ड नहीं.";
+
+//Based on all your TraceTogether and SafeEntry records from the last 14 days.
+"VuJ-1I-Mhu.text" = "पिछले 14 दिनों से आपके सभी TraceTogether और SafeEntry रिकॉर्ड के आधार पर।";
+
+//How are my possible exposures determined?
+"C07-eF-CcM.normalTitle" = "<ca><c:#0070E0><u>मेरे संभावित एक्सपोज़र कैसे निर्धारित किए जाते हैं?</u></c></ca>";
+

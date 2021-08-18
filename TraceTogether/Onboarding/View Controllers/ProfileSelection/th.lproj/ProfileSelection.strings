@@ -1,0 +1,147 @@
+
+/* Class = "UILabel"; text = "Card Serial Number"; ObjectID = "0kb-BN-jBt"; */
+"0kb-BN-jBt.text" = "หมายเลขบัตร";
+
+/* Class = "UITextField"; placeholder = "Label"; ObjectID = "2GD-pY-68k"; */
+"2GD-pY-68k.placeholder" = "Label";
+
+/* Class = "UIViewController"; title = "Why do you need my details?"; ObjectID = "2fZ-I5-VuI"; */
+"2fZ-I5-VuI.title" = "ทำไมคุณจึงต้องการข้อมูลของฉัน";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2oT-He-fP2"; */
+"2oT-He-fP2.text" = "Label";
+
+/* Class = "UILabel"; text = "Front"; ObjectID = "372-Cd-U4Z"; */
+"372-Cd-U4Z.text" = "ด้านหน้า";
+
+/* Class = "UILabel"; text = "Date of Issue (DD-MM-YYYY)"; ObjectID = "3Hw-Xv-8o8"; */
+"3Hw-Xv-8o8.text" = "วันที่ออกบัตร (DD-MM-YYYY)";
+
+/* Class = "UILabel"; text = "Download SGWorkPass app and scan QR code for Date of Issue"; ObjectID = "3J5-hz-vUU"; */
+"3J5-hz-vUU.text" = "ดาวน์โหลดแอป SGWorkPass และสแกนรหัส QR เพื่อดูวันที่ออกบัตร";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "AT6-OM-tnE"; */
+"AT6-OM-tnE.text" = "หรือ";
+
+/* Class = "UILabel"; text = "Complete your profile"; ObjectID = "Ade-Wb-EDy"; */
+"Ade-Wb-EDy.text" = "กรอกข้อมูลในโปรไฟล์ให้ครบถ้วน";
+
+/* Class = "UIViewController"; title = "NRICModalViewController"; ObjectID = "B7B-YY-m2R"; */
+"B7B-YY-m2R.title" = "NRICModalViewController";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Dpa-ij-raR"; */
+"Dpa-ij-raR.text" = "Label";
+
+/* Class = "UILabel"; text = "Check the back of your card for Date of Issue"; ObjectID = "F70-a5-MNQ"; */
+"F70-a5-MNQ.text" = "ตรวจสอบวันที่ออกบัตรจากด้านหลังบัตร";
+
+/* Class = "UILabel"; text = "Select your profile"; ObjectID = "GHE-Yi-k2y"; */
+"GHE-Yi-k2y.text" = "เลือกโปรไฟล์ของคุณ";
+
+/* Class = "UILabel"; text = "Why do you need my details?"; ObjectID = "J2d-ki-ROm"; */
+"J2d-ki-ROm.text" = "ทำไมคุณจึงต้องการข้อมูลของฉัน";
+
+/* Class = "UILabel"; text = "Date of Issue (DD-MM-YYYY)"; ObjectID = "NYP-7z-qIT"; */
+"NYP-7z-qIT.text" = "วันที่ออกบัตร (DD-MM-YYYY)";
+
+/* Class = "UIButton"; normalTitle = "PROCEED"; ObjectID = "Nqm-7J-HQg"; */
+"Nqm-7J-HQg.normalTitle" = "ดำเนินการต่อ";
+
+/* Class = "UIButton"; normalTitle = "I SEE. GOT IT! :)"; ObjectID = "O8a-Yg-0L6"; */
+"O8a-Yg-0L6.normalTitle" = "เข้าใจแล้ว :)";
+
+/* Class = "UIViewController"; title = "RegisterFormViewController"; ObjectID = "OwP-cx-Sf3"; */
+"OwP-cx-Sf3.title" = "RegisterFormViewController";
+
+/* Class = "UIButton"; normalTitle = "How to find?"; ObjectID = "QI6-y7-nWs"; */
+"QI6-y7-nWs.normalTitle" = "จะค้นหาได้อย่างไร";
+
+/* Class = "UILabel"; text = "Nationality"; ObjectID = "Qfg-cw-W2I"; */
+"Qfg-cw-W2I.text" = "สัญชาติ ";
+
+/* Class = "UITextField"; placeholder = "Label"; ObjectID = "SX5-vv-Hej"; */
+"SX5-vv-Hej.placeholder" = "Label";
+
+/* Class = "UIViewController"; title = "LTVPModalViewController"; ObjectID = "UZA-wM-c8F"; */
+"UZA-wM-c8F.title" = "LTVPModalViewController";
+
+/* Class = "UILabel"; text = "Your unique identification number allows MOH to reach the right person when they need to give you important health advice about COVID-19."; ObjectID = "VAB-TC-yEk"; */
+"VAB-TC-yEk.text" = "หมายเลขประจำตัวของคุณจะช่วยให้ MOH ติดต่อหาคุณได้อย่างถูกต้อง เมื่อจำเป็นต้องให้คำแนะนำด้านสุขภาพเกี่ยวกับโรค COVID-19 แก่คุณ";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "VZL-J8-LAC"; */
+"VZL-J8-LAC.text" = "ช่องที่ต้องกรอก";
+
+/* Class = "UILabel"; text = "2. Dependent's Pass"; ObjectID = "Woq-RD-OQG"; */
+"Woq-RD-OQG.text" = "2. ใบอนุญาตสำหรับผู้ติดตาม";
+
+/* Class = "UILabel"; text = "At the back of your NRIC"; ObjectID = "aeY-8q-qfc"; */
+"aeY-8q-qfc.text" = "จากด้านหลังบัตร NRIC";
+
+/* Class = "UILabel"; text = "1. Work Pass"; ObjectID = "cgN-ax-WJa"; */
+"cgN-ax-WJa.text" = "1. ใบอนุญาตทำงาน";
+
+/* Class = "UIViewController"; title = "PassportModalViewController"; ObjectID = "dt3-2I-j9S"; */
+"dt3-2I-j9S.title" = "PassportModalViewController";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "ebx-tb-rOv"; */
+"ebx-tb-rOv.normalTitle" = "ถัดไป";
+
+/* Class = "UILabel"; text = "Long Term Visit Pass"; ObjectID = "ego-gt-Acd"; */
+"ego-gt-Acd.text" = "ใบอนุญาตให้พำนักอาศัยระยะยาว";
+
+/* Class = "UIButton"; normalTitle = "How to find?"; ObjectID = "gS0-Z1-pI0"; */
+"gS0-Z1-pI0.normalTitle" = "จะค้นหาได้อย่างไร";
+
+/* Class = "UILabel"; text = "Card Serial Number"; ObjectID = "gdZ-Aq-8ZP"; */
+"gdZ-Aq-8ZP.text" = "หมายเลขบัตร";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hJu-wc-Qwz"; */
+"hJu-wc-Qwz.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Card Serial Number"; ObjectID = "hyC-FR-wff"; */
+"hyC-FR-wff.text" = "หมายเลขบัตร";
+
+/* Class = "UILabel"; text = "Check the back of your card for Date of Issue"; ObjectID = "kgk-DG-hML"; */
+"kgk-DG-hML.text" = "ตรวจสอบวันที่ออกบัตรจากด้านหลังบัตร";
+
+/* Class = "UILabel"; text = "Date of Issue (DD-MM-YYYY)"; ObjectID = "n9y-xh-R9p"; */
+"n9y-xh-R9p.text" = "วันที่ออกบัตร (DD-MM-YYYY)";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "pWf-Ki-Z62"; */
+"pWf-Ki-Z62.text" = "ช่องที่ต้องกรอก";
+
+/* Class = "UITextField"; placeholder = "TextField"; ObjectID = "rLn-CR-Vz7"; */
+"rLn-CR-Vz7.placeholder" = "TextField";
+
+/* Class = "UIViewController"; title = "OtherPassportModalViewController"; ObjectID = "sLU-a5-mch"; */
+"sLU-a5-mch.title" = "OtherPassportModalViewController";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "uy5-xj-Fym"; */
+"uy5-xj-Fym.text" = "ช่องที่ต้องกรอก";
+
+/* Class = "UILabel"; text = "Back"; ObjectID = "vlw-V6-Cpo"; */
+"vlw-V6-Cpo.text" = "ด้านหลัง";
+
+/* Class = "UILabel"; text = "Back"; ObjectID = "w7S-r4-m8T"; */
+"w7S-r4-m8T.text" = "ด้านหลัง";
+
+/* Class = "UIViewController"; title = "StudentPassModalViewController"; ObjectID = "wq3-Uo-k2x"; */
+"wq3-Uo-k2x.title" = "StudentPassModalViewController";
+
+/* DoA description */
+"Knq-3Q-Qpa.text" = "<b>Enter the <c:#FF6565>Date of Application</c> for your FIN card</b> - can be found on your In-principle approval (IPA) or Notification letter";
+
+/* DoA Location */
+"hFG-xX-PCH.text" = "Date of Application\n(DD-MMM-YYYY)";
+
+/* WP SN Description */
+"2i5-H3-qw8.text" = "<b>Enter the <c:#FF6565>Card Serial Number</c> on your FIN card\n\n\nใบอนุญาตทำงาน</b> <i>(ด้านหน้า)</i>";
+
+/* WP SN Location */
+"6GD-25-03o.text" = "หมายเลขบัตร";
+
+/* DP Description */
+"6mx-Zx-gXA.text" = "<b>Enter the <c:#FF6565>Card Serial Number</c> on your FIN card\n\n\nใบอนุญาตสำหรับผู้ติดตาม</b> <i>(ด้านหลัง)</i>";
+
+/* DP Location */
+"yyD-rn-df0.text" = "หมายเลขบัตร";

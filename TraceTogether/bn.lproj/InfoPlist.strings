@@ -1,0 +1,10 @@
+/* 
+ InfoPlist.strings
+ OpenTraceTogether
+ */
+"NSBluetoothAlwaysUsageDescription" = "কোভিড-19-এর সম্ভাব্য সংস্পর্শ সম্পর্কে জানতে আপনাকে সহায়তার জন্য TraceTogether কাছাকাছি ফোনগুলোর সাথে ব্লুটুথ সিগনাল বিনিময় করে।";
+
+"NSBluetoothPeripheralUsageDescription" = "কোভিড-19-এর সম্ভাব্য সংস্পর্শ সম্পর্কে জানতে আপনাকে সহায়তার জন্য TraceTogether কাছাকাছি ফোনগুলোর সাথে ব্লুটুথ সিগনাল বিনিময় করে।";
+
+"NSCameraUsageDescription" = "এর সাহায্যে আপনি সেফএন্ট্রি (SafeEntry) কিউআর কোড স্ক্যান করতে হবে।";
+"NSPhotoLibraryUsageDescription" = "এর সাহায্যে আপনি সেফএন্ট্রি (SafeEntry) কিউআর কোড স্ক্যান করতে হবে।";
